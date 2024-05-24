@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Style id="mystyle">
-      <LineStyle>
-        <color>ff0000ff</color> <!-- Blue color in AABBGGRR format -->
-        <width>4</width>
-      </LineStyle>
+  <Style>
+    <LineStyle>
+    <color>ff00b4f0</color>
+    </LineStyle>
   </Style>
   <Document>
     <name>overpass-turbo.eu export</name>
