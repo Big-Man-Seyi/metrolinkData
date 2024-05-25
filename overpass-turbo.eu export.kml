@@ -1,0 +1,4837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>overpass-turbo.eu export</name>
+    <Style id="line-097138-3519-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3.519</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-3519-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>5.2785</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-3519">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-3519-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-3519-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/929905<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/929905</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.279405,53.460582,0
+          -2.279972,53.460225,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/4081002<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: 15 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/4081002</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>15 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.347709,53.386931,0
+          -2.347497,53.387302,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/4217257<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/4217257</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.285034,53.456022,0
+          -2.285582,53.455581,0
+          -2.286552,53.454886,0
+          -2.288004,53.453955,0
+          -2.288851,53.453442,0
+          -2.290048,53.452765,0
+          -2.291095,53.452253,0
+          -2.291752,53.451939,0
+          -2.29244,53.451624,0
+          -2.292806,53.451456,0
+          -2.293291,53.451244,0
+          -2.293777,53.451057,0
+          -2.294113,53.450928,0
+          -2.294812,53.450662,0
+          -2.295247,53.450503,0
+          -2.29569,53.450342,0
+          -2.296244,53.450147,0
+          -2.296793,53.449979,0
+          -2.2978,53.449641,0
+          -2.298312,53.449459,0
+          -2.298954,53.449208,0
+          -2.299495,53.448969,0
+          -2.299886,53.448781,0
+          -2.300239,53.448611,0
+          -2.300894,53.448257,0
+          -2.301359,53.447986,0
+          -2.301761,53.447718,0
+          -2.30203,53.447528,0
+          -2.302368,53.447286,0
+          -2.30269,53.44701,0
+          -2.303769,53.446041,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/10521441<br>electrified: contact_line<br>frequency: 0<br>gauge: <br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: -1<br>tunnel: yes<br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/10521441</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value/>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>-1</value>
+        </Data>
+        <Data name="tunnel">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.275269,53.46257,0
+          -2.275495,53.462486,0
+          -2.27564,53.462432,0
+          -2.276106,53.46225,0
+          -2.276884,53.461912,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/28070152<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/28070152</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.308382,53.43662,0
+          -2.30846,53.436393,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/31340400<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/31340400</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.269309,53.468712,0
+          -2.268976,53.469002,0
+          -2.268807,53.469146,0
+          -2.268646,53.469282,0
+          -2.268384,53.46949,0
+          -2.268238,53.469598,0
+          -2.268102,53.4697,0
+          -2.267892,53.469856,0
+          -2.267761,53.469948,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/32402787<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/32402787</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.304366,53.445492,0
+          -2.304583,53.44528,0
+          -2.304794,53.445055,0
+          -2.30504,53.44477,0
+          -2.305287,53.444437,0
+          -2.305457,53.444212,0
+          -2.305622,53.443984,0
+          -2.305807,53.44368,0
+          -2.306018,53.443312,0
+          -2.30614,53.4431,0
+          -2.306242,53.442889,0
+          -2.306353,53.442632,0
+          -2.306471,53.442303,0
+          -2.306559,53.442082,0
+          -2.306656,53.441786,0
+          -2.306756,53.4415,0
+          -2.306883,53.441123,0
+          -2.307005,53.440785,0
+          -2.307028,53.44069,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/38207853<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: BOTH<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: 90A<br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/38207853</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>BOTH</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value>90A</value>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.343138,53.396435,0
+          -2.343106,53.396546,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/38207854<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: BOTH<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/38207854</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>BOTH</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.343106,53.396546,0
+          -2.342927,53.39718,0
+          -2.342751,53.397733,0
+          -2.342576,53.398281,0
+          -2.342411,53.398685,0
+          -2.342215,53.39915,0
+          -2.342114,53.399362,0
+          -2.341989,53.399625,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/115011339<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/115011339</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.267736,53.469799,0
+          -2.26806,53.469576,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/115011344<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/115011344</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.266367,53.470965,0
+          -2.266494,53.470824,0
+          -2.266676,53.470629,0
+          -2.266801,53.470511,0
+          -2.266951,53.470385,0
+          -2.267098,53.470273,0
+          -2.267359,53.470079,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/115678039<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/115678039</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.276884,53.461912,0
+          -2.277332,53.461698,0
+          -2.277733,53.461504,0
+          -2.27802,53.461357,0
+          -2.278661,53.461016,0
+          -2.279405,53.460582,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/224422311<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: <br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/224422311</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value/>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.264109,53.472973,0
+          -2.263768,53.473133,0
+          -2.263498,53.473264,0
+          -2.263293,53.473358,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>@id: way/242915654<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/242915654</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.346762,53.388547,0
+          -2.346943,53.388316,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/242915655<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 15 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/242915655</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>15 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.347651,53.386941,0
+          -2.347454,53.387296,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>@id: way/242915656<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: crossover<br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/242915656</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>crossover</value>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.346565,53.388894,0
+          -2.346446,53.389195,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/296954732<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 50 mph<br>layer: 2<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/296954732</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>50 mph</value>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.26806,53.469576,0
+          -2.268568,53.469252,0
+          -2.268778,53.469112,0
+          -2.269054,53.468874,0
+          -2.26926,53.468702,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/399233314<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 20 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/399233314</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>20 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.343599,53.394934,0
+          -2.343768,53.394448,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/399233316<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: 50 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/399233316</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>50 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.346446,53.389195,0
+          -2.346224,53.389608,0
+          -2.345963,53.390086,0
+          -2.345718,53.390511,0
+          -2.345395,53.391086,0
+          -2.345173,53.391508,0
+          -2.344868,53.392079,0
+          -2.344573,53.392659,0
+          -2.344298,53.393247,0
+          -2.34406,53.393821,0
+          -2.343926,53.394165,0
+          -2.34384,53.394412,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/399233318<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: 20 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/399233318</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>20 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.34384,53.394412,0
+          -2.343753,53.394625,0
+          -2.343684,53.39478,0
+          -2.343599,53.394934,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/399233319<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 50 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/399233319</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>50 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.343768,53.394448,0
+          -2.343886,53.394134,0
+          -2.344031,53.393766,0
+          -2.344367,53.392988,0
+          -2.344728,53.392238,0
+          -2.344924,53.391863,0
+          -2.345466,53.390869,0
+          -2.3456,53.390628,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/614623704<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/614623704</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.267761,53.469948,0
+          -2.267503,53.470142,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>@id: way/614623705<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: <br>operator: Metrolink]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/614623705</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value>Metrolink</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.26723,53.470348,0
+          -2.266964,53.470559,0
+          -2.26679,53.470706,0
+          -2.266568,53.470914,0
+          -2.266467,53.471024,0
+          -2.26633,53.471171,0
+          -2.266214,53.471298,0
+          -2.265893,53.471647,0
+          -2.265653,53.471918,0
+          -2.265456,53.472126,0
+          -2.265258,53.472319,0
+          -2.26512,53.47244,0
+          -2.264915,53.472587,0
+          -2.26472,53.472718,0
+          -2.264481,53.472859,0
+          -2.264178,53.473011,0
+          -2.263862,53.473149,0
+          -2.263519,53.473277,0
+          -2.263293,53.473358,0
+          -2.263236,53.473381,0
+          -2.262894,53.473502,0
+          -2.2627,53.473567,0
+          -2.262573,53.473606,0
+          -2.262329,53.47367,0
+          -2.262089,53.473725,0
+          -2.261774,53.473805,0
+          -2.261073,53.473995,0
+          -2.259596,53.474405,0
+          -2.258997,53.474573,0
+          -2.258685,53.474657,0
+          -2.2584,53.474734,0
+          -2.258256,53.474766,0
+          -2.258095,53.474804,0
+          -2.257837,53.474856,0
+          -2.25765,53.474887,0
+          -2.257492,53.474907,0
+          -2.257389,53.47492,0
+          -2.257275,53.47493,0
+          -2.256928,53.474958,0
+          -2.256583,53.474981,0
+          -2.255885,53.475032,0
+          -2.255438,53.475057,0
+          -2.255211,53.475066,0
+          -2.255059,53.475065,0
+          -2.254899,53.475065,0
+          -2.254626,53.475056,0
+          -2.254416,53.475046,0
+          -2.254216,53.475033,0
+          -2.253926,53.475009,0
+          -2.253636,53.474982,0
+          -2.25306,53.474927,0
+          -2.252658,53.47489,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>@id: way/614623706<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: <br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: crossover<br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/614623706</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value/>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>crossover</value>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.263677,53.47314,0
+          -2.264109,53.472973,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/614623707<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: <br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: crossover<br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/614623707</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value/>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>crossover</value>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.265893,53.471647,0
+          -2.265756,53.471765,0
+          -2.265604,53.471905,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>@id: way/614623709<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: <br>operator: Metrolink]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/614623709</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value>Metrolink</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.252666,53.474858,0
+          -2.253067,53.474898,0
+          -2.253648,53.474952,0
+          -2.253943,53.474979,0
+          -2.254224,53.475,0
+          -2.254425,53.475013,0
+          -2.254625,53.475021,0
+          -2.254899,53.475035,0
+          -2.255059,53.475038,0
+          -2.25522,53.475037,0
+          -2.255437,53.475028,0
+          -2.25588,53.475003,0
+          -2.256577,53.474953,0
+          -2.257256,53.474902,0
+          -2.257466,53.47488,0
+          -2.257634,53.474857,0
+          -2.25782,53.474828,0
+          -2.258072,53.474778,0
+          -2.258232,53.474742,0
+          -2.258385,53.474703,0
+          -2.258661,53.47463,0
+          -2.258976,53.474543,0
+          -2.259571,53.474378,0
+          -2.261055,53.473965,0
+          -2.261753,53.473776,0
+          -2.262052,53.473698,0
+          -2.262299,53.473639,0
+          -2.262543,53.473576,0
+          -2.262671,53.473538,0
+          -2.262871,53.473475,0
+          -2.263199,53.473353,0
+          -2.263466,53.473238,0
+          -2.263677,53.47314,0
+          -2.263816,53.473072,0
+          -2.264079,53.472947,0
+          -2.26438,53.472799,0
+          -2.26461,53.472662,0
+          -2.26481,53.472534,0
+          -2.264987,53.472401,0
+          -2.265142,53.472278,0
+          -2.265247,53.472182,0
+          -2.265352,53.472083,0
+          -2.265539,53.471883,0
+          -2.265782,53.471617,0
+          -2.266086,53.471276,0
+          -2.266367,53.470965,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/615985681<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: -1<br>tunnel: yes<br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/615985681</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>-1</value>
+        </Data>
+        <Data name="tunnel">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.276914,53.461935,0
+          -2.276671,53.46204,0
+          -2.276474,53.462128,0
+          -2.276205,53.462245,0
+          -2.275921,53.462364,0
+          -2.275697,53.462449,0
+          -2.27552,53.462518,0
+          -2.275358,53.462579,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/615985682<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/615985682</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.275358,53.462579,0
+          -2.27501,53.462702,0
+          -2.274664,53.462823,0
+          -2.274295,53.462958,0
+          -2.273992,53.463078,0
+          -2.27367,53.463206,0
+          -2.273475,53.463299,0
+          -2.273217,53.463436,0
+          -2.272945,53.463594,0
+          -2.272614,53.4638,0
+          -2.272288,53.464049,0
+          -2.271943,53.464334,0
+          -2.271662,53.464605,0
+          -2.271522,53.464752,0
+          -2.271323,53.465021,0
+          -2.271097,53.4654,0
+          -2.270971,53.465679,0
+          -2.270909,53.46586,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/615985683<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 50 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/615985683</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>50 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.270876,53.465855,0
+          -2.270955,53.465633,0
+          -2.270995,53.465544,0
+          -2.271107,53.465327,0
+          -2.271216,53.465141,0
+          -2.271287,53.46502,0
+          -2.271366,53.464908,0
+          -2.271556,53.46466,0
+          -2.271712,53.464498,0
+          -2.271904,53.464318,0
+          -2.272116,53.46413,0
+          -2.272234,53.464033,0
+          -2.272472,53.463857,0
+          -2.272675,53.463711,0
+          -2.272905,53.463571,0
+          -2.27315,53.463432,0
+          -2.273528,53.463235,0
+          -2.273954,53.463052,0
+          -2.274304,53.462919,0
+          -2.27474,53.462759,0
+          -2.275269,53.46257,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/615985684<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/615985684</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.304196,53.445712,0
+          -2.304081,53.44581,0
+          -2.303807,53.446055,0
+          -2.30353,53.446301,0
+          -2.303288,53.446519,0
+          -2.303014,53.446776,0
+          -2.302556,53.447176,0
+          -2.302267,53.447408,0
+          -2.301806,53.447733,0
+          -2.301647,53.447841,0
+          -2.301408,53.447997,0
+          -2.301161,53.448152,0
+          -2.300862,53.44832,0
+          -2.30061,53.448461,0
+          -2.300261,53.448638,0
+          -2.300008,53.448764,0
+          -2.299661,53.448926,0
+          -2.299304,53.449096,0
+          -2.298815,53.449303,0
+          -2.298314,53.449491,0
+          -2.297878,53.449646,0
+          -2.297444,53.449785,0
+          -2.296605,53.450064,0
+          -2.295531,53.450433,0
+          -2.294852,53.450687,0
+          -2.294493,53.450814,0
+          -2.294118,53.450964,0
+          -2.293374,53.451252,0
+          -2.292819,53.451487,0
+          -2.292491,53.451635,0
+          -2.292016,53.451847,0
+          -2.291633,53.452026,0
+          -2.291139,53.452262,0
+          -2.290885,53.452385,0
+          -2.290629,53.452515,0
+          -2.290112,53.452774,0
+          -2.289663,53.453015,0
+          -2.289273,53.453237,0
+          -2.288737,53.453548,0
+          -2.288407,53.453742,0
+          -2.288126,53.453918,0
+          -2.287902,53.454054,0
+          -2.287395,53.454374,0
+          -2.286969,53.45466,0
+          -2.286361,53.455078,0
+          -2.286028,53.455317,0
+          -2.285532,53.455681,0
+          -2.285114,53.456009,0
+          -2.285002,53.456097,0
+          -2.284521,53.456489,0
+          -2.284177,53.456786,0
+          -2.283806,53.457109,0
+          -2.283484,53.4574,0
+          -2.283216,53.457661,0
+          -2.283049,53.457828,0
+          -2.282608,53.458239,0
+          -2.282201,53.458612,0
+          -2.281678,53.459039,0
+          -2.281081,53.459501,0
+          -2.280634,53.459825,0
+          -2.280374,53.460006,0
+          -2.28019,53.460131,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/616110730<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/616110730</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.28019,53.460084,0
+          -2.280448,53.459908,0
+          -2.280804,53.459653,0
+          -2.280904,53.459584,0
+          -2.28102,53.459498,0
+          -2.281223,53.459346,0
+          -2.28162,53.459034,0
+          -2.281982,53.458738,0
+          -2.282152,53.458593,0
+          -2.282312,53.45845,0
+          -2.282624,53.458159,0
+          -2.283238,53.457571,0
+          -2.283556,53.457288,0
+          -2.284048,53.456845,0
+          -2.284632,53.456355,0
+          -2.284962,53.45608,0
+          -2.285034,53.456022,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/616110731<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/616110731</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.279972,53.460225,0
+          -2.280129,53.460126,0
+          -2.28019,53.460084,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/616110732<br>electrified: contact_line<br>frequency: 0<br>gauge: <br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/616110732</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value/>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.28019,53.460131,0
+          -2.280141,53.460164,0
+          -2.279988,53.460262,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/616110733<br>electrified: contact_line<br>frequency: 0<br>gauge: <br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/616110733</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value/>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.279988,53.460262,0
+          -2.279582,53.460518,0
+          -2.278979,53.460878,0
+          -2.27865,53.461064,0
+          -2.278319,53.46124,0
+          -2.278086,53.461364,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/616782522<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: <br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/616782522</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value/>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.264109,53.472973,0
+          -2.264426,53.472827,0
+          -2.264672,53.472696,0
+          -2.26488,53.472567,0
+          -2.265066,53.472431,0
+          -2.265217,53.472306,0
+          -2.265318,53.472208,0
+          -2.265418,53.472108,0
+          -2.265604,53.471905,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/616782523<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: <br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/616782523</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value/>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.265604,53.471905,0
+          -2.265802,53.471692,0
+          -2.265852,53.471635,0
+          -2.265926,53.471553,0
+          -2.266078,53.471379,0
+          -2.266172,53.471244,0
+          -2.266229,53.471153,0
+          -2.266367,53.470965,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/686956436<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: -1<br>tunnel: yes<br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/686956436</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>-1</value>
+        </Data>
+        <Data name="tunnel">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.304433,53.445498,0
+          -2.304196,53.445712,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/686956437<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/686956437</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.303769,53.446041,0
+          -2.304026,53.445804,0
+          -2.304135,53.445706,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/686956439<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: -1<br>tunnel: yes<br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/686956439</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>-1</value>
+        </Data>
+        <Data name="tunnel">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.304135,53.445706,0
+          -2.304366,53.445492,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/686956443<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/686956443</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.307088,53.4407,0
+          -2.307068,53.440782,0
+          -2.306809,53.441514,0
+          -2.306616,53.442107,0
+          -2.306435,53.442604,0
+          -2.306284,53.44294,0
+          -2.306113,53.443267,0
+          -2.30586,53.44368,0
+          -2.305597,53.444091,0
+          -2.305312,53.444472,0
+          -2.304915,53.444996,0
+          -2.304618,53.445304,0
+          -2.304433,53.445498,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/696913317<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: BOTH<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: siding<br>operator: Transport for Greater Manchester]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/696913317</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>BOTH</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>siding</value>
+        </Data>
+        <Data name="operator">
+          <value>Transport for Greater Manchester</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.340078,53.402446,0
+          -2.340435,53.402006,0
+          -2.340789,53.401531,0
+          -2.341117,53.401043,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/696913318<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: siding<br>operator: Transport for Greater Manchester]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/696913318</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>siding</value>
+        </Data>
+        <Data name="operator">
+          <value>Transport for Greater Manchester</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.339783,53.40275,0
+          -2.340078,53.402446,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/746186917<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/746186917</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.270005,53.468269,0
+          -2.269747,53.468412,0
+          -2.269631,53.468482,0
+          -2.269524,53.468551,0
+          -2.269385,53.468653,0
+          -2.269309,53.468712,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/746189318<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/746189318</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.278086,53.461364,0
+          -2.277621,53.461592,0
+          -2.27728,53.461756,0
+          -2.277116,53.461838,0
+          -2.276914,53.461935,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>@id: way/748947904<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: <br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: crossover<br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748947904</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value/>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>crossover</value>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.283806,53.457109,0
+          -2.283556,53.457288,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748955380<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748955380</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.308512,53.436397,0
+          -2.30843,53.436627,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748955383<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748955383</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.341989,53.399625,0
+          -2.341783,53.400031,0
+          -2.341359,53.400759,0
+          -2.34126,53.400904,0
+          -2.3408,53.401587,0
+          -2.340452,53.402064,0
+          -2.340297,53.40224,0
+          -2.33983,53.402764,0
+          -2.339279,53.403375,0
+          -2.338361,53.404325,0
+          -2.33674,53.406026,0
+          -2.33347,53.409429,0
+          -2.33065,53.412345,0
+          -2.329687,53.413346,0
+          -2.329055,53.414014,0
+          -2.32837,53.41471,0
+          -2.327564,53.415536,0
+          -2.327012,53.416114,0
+          -2.326571,53.416582,0
+          -2.326159,53.417,0
+          -2.32585,53.417317,0
+          -2.32561,53.417559,0
+          -2.324987,53.418211,0
+          -2.324502,53.418707,0
+          -2.323904,53.419329,0
+          -2.323362,53.419904,0
+          -2.322545,53.420746,0
+          -2.321911,53.42139,0
+          -2.321426,53.421898,0
+          -2.321056,53.422311,0
+          -2.320596,53.422786,0
+          -2.32024,53.423149,0
+          -2.319862,53.423529,0
+          -2.31949,53.423883,0
+          -2.319184,53.424166,0
+          -2.318892,53.42444,0
+          -2.318412,53.424866,0
+          -2.317882,53.425324,0
+          -2.317112,53.425964,0
+          -2.316493,53.426436,0
+          -2.3157,53.427022,0
+          -2.315113,53.427446,0
+          -2.314566,53.427828,0
+          -2.313908,53.428247,0
+          -2.313201,53.428713,0
+          -2.31237,53.429371,0
+          -2.311945,53.429753,0
+          -2.311681,53.430012,0
+          -2.311417,53.430285,0
+          -2.311257,53.430471,0
+          -2.310982,53.430816,0
+          -2.310743,53.431142,0
+          -2.310446,53.431549,0
+          -2.310105,53.432104,0
+          -2.309856,53.432573,0
+          -2.309637,53.433056,0
+          -2.309504,53.433382,0
+          -2.309419,53.433627,0
+          -2.30914,53.434525,0
+          -2.30905,53.434801,0
+          -2.308817,53.435503,0
+          -2.308512,53.436397,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748973702<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748973702</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.30846,53.436393,0
+          -2.308552,53.436108,0
+          -2.308762,53.435457,0
+          -2.308915,53.435001,0
+          -2.309036,53.434645,0
+          -2.309089,53.434485,0
+          -2.309354,53.433621,0
+          -2.309435,53.433385,0
+          -2.309515,53.43317,0
+          -2.309589,53.432993,0
+          -2.309695,53.432757,0
+          -2.309809,53.432522,0
+          -2.30992,53.432292,0
+          -2.310112,53.431948,0
+          -2.310375,53.43154,0
+          -2.310668,53.431131,0
+          -2.310954,53.430766,0
+          -2.311359,53.430285,0
+          -2.311622,53.430015,0
+          -2.311887,53.42975,0
+          -2.312095,53.429553,0
+          -2.312355,53.429332,0
+          -2.312827,53.428955,0
+          -2.313233,53.42865,0
+          -2.313831,53.42825,0
+          -2.314444,53.427859,0
+          -2.315058,53.427428,0
+          -2.315634,53.427022,0
+          -2.316122,53.426659,0
+          -2.316546,53.426344,0
+          -2.317024,53.425984,0
+          -2.317502,53.425595,0
+          -2.317873,53.425279,0
+          -2.318355,53.424859,0
+          -2.318834,53.424428,0
+          -2.319138,53.424148,0
+          -2.31945,53.423866,0
+          -2.319824,53.423511,0
+          -2.320196,53.423132,0
+          -2.320753,53.422564,0
+          -2.321121,53.422174,0
+          -2.32162,53.421622,0
+          -2.322416,53.420823,0
+          -2.323074,53.420139,0
+          -2.323539,53.419651,0
+          -2.324011,53.419158,0
+          -2.324496,53.418661,0
+          -2.324954,53.41819,0
+          -2.32545,53.417669,0
+          -2.325811,53.417309,0
+          -2.326054,53.417058,0
+          -2.326583,53.416511,0
+          -2.326993,53.416089,0
+          -2.327457,53.4156,0
+          -2.327706,53.415344,0
+          -2.327946,53.415096,0
+          -2.33035,53.412602,0
+          -2.332861,53.409968,0
+          -2.335688,53.407063,0
+          -2.336493,53.406206,0
+          -2.337433,53.405239,0
+          -2.338355,53.404262,0
+          -2.339213,53.403377,0
+          -2.339783,53.40275,0
+          -2.340355,53.402032,0
+          -2.340772,53.40148,0
+          -2.341412,53.400518,0
+          -2.341989,53.399625,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748985510<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: 15 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748985510</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>15 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.346943,53.388316,0
+          -2.346831,53.388519,0
+          -2.346647,53.388836,0
+          -2.346446,53.389195,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748985513<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: 15 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748985513</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>15 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.347497,53.387302,0
+          -2.347236,53.387775,0
+          -2.347076,53.388072,0
+          -2.346943,53.388316,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748985515<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 15 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748985515</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>15 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.347454,53.387296,0
+          -2.347194,53.387759,0
+          -2.346898,53.388301,0
+          -2.346762,53.388547,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748985519<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 15 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748985519</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>15 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.346565,53.388894,0
+          -2.346762,53.388547,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748986280<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: <br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: BOTH<br>voltage: 750<br>maxspeed: 20 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748986280</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value/>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>BOTH</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>20 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.343599,53.394934,0
+          -2.343494,53.395237,0
+          -2.343333,53.395766,0
+          -2.343138,53.396435,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748991751<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: siding<br>operator: Transport for Greater Manchester]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748991751</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value>siding</value>
+        </Data>
+        <Data name="operator">
+          <value>Transport for Greater Manchester</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.340078,53.402446,0
+          -2.33983,53.402764,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/748991752<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 50 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/748991752</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>50 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.3456,53.390628,0
+          -2.345995,53.389914,0
+          -2.346358,53.389268,0
+          -2.346565,53.388894,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/797039098<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/797039098</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.267503,53.470142,0
+          -2.26723,53.470348,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/797039099<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 2<br>tunnel: <br>bridge: viaduct<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/797039099</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>2</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>viaduct</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.267359,53.470079,0
+          -2.267736,53.469799,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/1041220982<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/1041220982</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.307148,53.440308,0
+          -2.30718,53.440187,0
+          -2.30732,53.439725,0
+          -2.307506,53.439135,0
+          -2.307702,53.438534,0
+          -2.307899,53.437953,0
+          -2.308113,53.437362,0
+          -2.308327,53.436772,0
+          -2.308382,53.43662,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/1041220983<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/1041220983</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.30843,53.436627,0
+          -2.308281,53.437044,0
+          -2.307863,53.438231,0
+          -2.307518,53.439275,0
+          -2.307292,53.440019,0
+          -2.307206,53.440317,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/1041220984<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/1041220984</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.307206,53.440317,0
+          -2.307088,53.4407,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/1041220985<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: CDM1<br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: <br>layer: 1<br>tunnel: <br>bridge: yes<br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/1041220985</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value>CDM1</value>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value>1</value>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value>yes</value>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.307028,53.44069,0
+          -2.307148,53.440308,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/1078831354<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: OUT<br>voltage: 750<br>maxspeed: 50 mph<br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/1078831354</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>OUT</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>50 mph</value>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.26926,53.468702,0
+          -2.269432,53.468557,0
+          -2.26955,53.468483,0
+          -2.269917,53.468262,0
+          -2.270275,53.468043,0
+          -2.270387,53.467957,0
+          -2.270462,53.467904,0
+          -2.270584,53.467794,0
+          -2.270666,53.467703,0
+          -2.270721,53.467604,0
+          -2.27074,53.467553,0
+          -2.270764,53.467499,0
+          -2.270792,53.467397,0
+          -2.270798,53.467319,0
+          -2.2708,53.466919,0
+          -2.27079,53.46678,0
+          -2.270784,53.466682,0
+          -2.27078,53.466564,0
+          -2.270777,53.466426,0
+          -2.270792,53.466262,0
+          -2.270814,53.466128,0
+          -2.270876,53.465855,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Metrolink</name>
+      <description><![CDATA[description: <br>@id: way/1078831355<br>electrified: contact_line<br>frequency: 0<br>gauge: 1435<br>oneway: yes<br>railway: light_rail<br>ref: <br>ref:GB:tfgm: ATL<br>ref:GB:tfgm:direction: IN<br>voltage: 750<br>maxspeed: <br>layer: <br>tunnel: <br>bridge: <br>bridge:ref: <br>service: <br>operator: ]]></description>
+      <styleUrl>#line-097138-3519</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="@id">
+          <value>way/1078831355</value>
+        </Data>
+        <Data name="electrified">
+          <value>contact_line</value>
+        </Data>
+        <Data name="frequency">
+          <value>0</value>
+        </Data>
+        <Data name="gauge">
+          <value>1435</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="railway">
+          <value>light_rail</value>
+        </Data>
+        <Data name="ref">
+          <value/>
+        </Data>
+        <Data name="ref:GB:tfgm">
+          <value>ATL</value>
+        </Data>
+        <Data name="ref:GB:tfgm:direction">
+          <value>IN</value>
+        </Data>
+        <Data name="voltage">
+          <value>750</value>
+        </Data>
+        <Data name="maxspeed">
+          <value/>
+        </Data>
+        <Data name="layer">
+          <value/>
+        </Data>
+        <Data name="tunnel">
+          <value/>
+        </Data>
+        <Data name="bridge">
+          <value/>
+        </Data>
+        <Data name="bridge:ref">
+          <value/>
+        </Data>
+        <Data name="service">
+          <value/>
+        </Data>
+        <Data name="operator">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -2.270909,53.46586,0
+          -2.27089,53.465916,0
+          -2.270835,53.46626,0
+          -2.270831,53.466564,0
+          -2.270849,53.466891,0
+          -2.27086,53.4672,0
+          -2.270862,53.46722,0
+          -2.270845,53.467386,0
+          -2.270824,53.467466,0
+          -2.270797,53.467537,0
+          -2.270734,53.467695,0
+          -2.270658,53.467794,0
+          -2.270436,53.467976,0
+          -2.270274,53.468092,0
+          -2.270005,53.468269,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
