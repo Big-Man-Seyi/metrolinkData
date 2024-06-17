@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-turbo"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2024-05-24T09:39:17Z</time></metadata><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/929905"/><trkseg><trkpt lat="53.4605819" lon="-2.2794048"/><trkpt lat="53.4602249" lon="-2.2799722"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=15 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/4081002"/><trkseg><trkpt lat="53.3869313" lon="-2.3477091"/><trkpt lat="53.3873025" lon="-2.3474968"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/4217257"/><trkseg><trkpt lat="53.4560216" lon="-2.2850343"/><trkpt lat="53.455581" lon="-2.2855818"/><trkpt lat="53.4548859" lon="-2.2865517"/><trkpt lat="53.4539546" lon="-2.2880038"/><trkpt lat="53.4534424" lon="-2.288851"/><trkpt lat="53.4527651" lon="-2.2900484"/><trkpt lat="53.4522534" lon="-2.2910952"/><trkpt lat="53.4519392" lon="-2.2917525"/><trkpt lat="53.4516235" lon="-2.2924398"/><trkpt lat="53.4514556" lon="-2.2928059"/><trkpt lat="53.4512442" lon="-2.2932911"/><trkpt lat="53.4510568" lon="-2.2937773"/><trkpt lat="53.4509275" lon="-2.294113"/><trkpt lat="53.4506616" lon="-2.2948117"/><trkpt lat="53.4505033" lon="-2.2952474"/><trkpt lat="53.4503422" lon="-2.29569"/><trkpt lat="53.4501471" lon="-2.2962444"/><trkpt lat="53.4499788" lon="-2.2967932"/><trkpt lat="53.449641" lon="-2.2978"/><trkpt lat="53.4494594" lon="-2.2983117"/><trkpt lat="53.4492075" lon="-2.2989542"/><trkpt lat="53.4489692" lon="-2.2994954"/><trkpt lat="53.448781" lon="-2.2998864"/><trkpt lat="53.4486107" lon="-2.3002394"/><trkpt lat="53.4482568" lon="-2.3008945"/><trkpt lat="53.4479864" lon="-2.3013591"/><trkpt lat="53.4477176" lon="-2.3017612"/><trkpt lat="53.4475282" lon="-2.30203"/><trkpt lat="53.4472858" lon="-2.3023675"/><trkpt lat="53.4470096" lon="-2.3026899"/><trkpt lat="53.4460408" lon="-2.3037692"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+layer=-1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+tunnel=yes
+voltage=750</desc><link href="http://osm.org/browse/way/10521441"/><trkseg><trkpt lat="53.4625697" lon="-2.2752686"/><trkpt lat="53.4624859" lon="-2.2754948"/><trkpt lat="53.4624323" lon="-2.2756395"/><trkpt lat="53.46225" lon="-2.2761061"/><trkpt lat="53.4619123" lon="-2.2768845"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/28070152"/><trkseg><trkpt lat="53.43662" lon="-2.3083816"/><trkpt lat="53.4363931" lon="-2.3084596"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/31340400"/><trkseg><trkpt lat="53.4687117" lon="-2.2693086"/><trkpt lat="53.4690023" lon="-2.2689761"/><trkpt lat="53.4691459" lon="-2.2688071"/><trkpt lat="53.469282" lon="-2.2686465"/><trkpt lat="53.4694904" lon="-2.2683843"/><trkpt lat="53.4695983" lon="-2.2682376"/><trkpt lat="53.4696995" lon="-2.2681016"/><trkpt lat="53.4698562" lon="-2.2678916"/><trkpt lat="53.4699477" lon="-2.2677614"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/32402787"/><trkseg><trkpt lat="53.4454916" lon="-2.3043656"/><trkpt lat="53.4452797" lon="-2.3045827"/><trkpt lat="53.4450552" lon="-2.3047945"/><trkpt lat="53.4447702" lon="-2.3050396"/><trkpt lat="53.4444369" lon="-2.3052872"/><trkpt lat="53.4442119" lon="-2.3054568"/><trkpt lat="53.4439845" lon="-2.3056224"/><trkpt lat="53.4436798" lon="-2.3058072"/><trkpt lat="53.4433121" lon="-2.3060176"/><trkpt lat="53.4431003" lon="-2.3061402"/><trkpt lat="53.4428886" lon="-2.3062424"/><trkpt lat="53.4426322" lon="-2.306353"/><trkpt lat="53.442303" lon="-2.3064713"/><trkpt lat="53.442082" lon="-2.3065588"/><trkpt lat="53.4417858" lon="-2.3066556"/><trkpt lat="53.4414995" lon="-2.3067558"/><trkpt lat="53.4411231" lon="-2.3068826"/><trkpt lat="53.4407854" lon="-2.3070053"/><trkpt lat="53.4406901" lon="-2.3070284"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+bridge:ref=90A
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=BOTH
+voltage=750</desc><link href="http://osm.org/browse/way/38207853"/><trkseg><trkpt lat="53.396435" lon="-2.3431385"/><trkpt lat="53.3965456" lon="-2.3431058"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=BOTH
+voltage=750</desc><link href="http://osm.org/browse/way/38207854"/><trkseg><trkpt lat="53.3965456" lon="-2.3431058"/><trkpt lat="53.3971799" lon="-2.3429268"/><trkpt lat="53.3977332" lon="-2.3427508"/><trkpt lat="53.398281" lon="-2.3425756"/><trkpt lat="53.3986847" lon="-2.3424112"/><trkpt lat="53.3991499" lon="-2.3422146"/><trkpt lat="53.3993617" lon="-2.3421144"/><trkpt lat="53.3996246" lon="-2.3419892"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/115011339"/><trkseg><trkpt lat="53.4697989" lon="-2.2677362"/><trkpt lat="53.4695761" lon="-2.2680595"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/115011344"/><trkseg><trkpt lat="53.4709646" lon="-2.2663668"/><trkpt lat="53.4708236" lon="-2.2664935"/><trkpt lat="53.4706287" lon="-2.2666757"/><trkpt lat="53.4705109" lon="-2.2668008"/><trkpt lat="53.4703851" lon="-2.2669511"/><trkpt lat="53.4702734" lon="-2.2670978"/><trkpt lat="53.4700792" lon="-2.2673591"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/115678039"/><trkseg><trkpt lat="53.4619123" lon="-2.2768845"/><trkpt lat="53.4616978" lon="-2.2773315"/><trkpt lat="53.4615038" lon="-2.2777328"/><trkpt lat="53.4613572" lon="-2.2780196"/><trkpt lat="53.4610163" lon="-2.2786612"/><trkpt lat="53.4605819" lon="-2.2794048"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+voltage=750</desc><link href="http://osm.org/browse/way/224422311"/><trkseg><trkpt lat="53.4729729" lon="-2.2641089"/><trkpt lat="53.4731332" lon="-2.2637681"/><trkpt lat="53.4732641" lon="-2.2634983"/><trkpt lat="53.4733575" lon="-2.2632926"/></trkseg></trk><trk><name>way/242915654</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/242915654"/><trkseg><trkpt lat="53.3885467" lon="-2.3467625"/><trkpt lat="53.3883163" lon="-2.3469434"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=15 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/242915655"/><trkseg><trkpt lat="53.3869412" lon="-2.3476514"/><trkpt lat="53.3872955" lon="-2.3474535"/></trkseg></trk><trk><name>way/242915656</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/242915656"/><trkseg><trkpt lat="53.388894" lon="-2.3465649"/><trkpt lat="53.3891948" lon="-2.3464457"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+maxspeed=50 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/296954732"/><trkseg><trkpt lat="53.4695761" lon="-2.2680595"/><trkpt lat="53.4692519" lon="-2.2685677"/><trkpt lat="53.4691122" lon="-2.2687777"/><trkpt lat="53.468874" lon="-2.2690545"/><trkpt lat="53.4687017" lon="-2.2692596"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=20 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/399233314"/><trkseg><trkpt lat="53.3949336" lon="-2.343599"/><trkpt lat="53.3944481" lon="-2.3437678"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=50 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/399233316"/><trkseg><trkpt lat="53.3891948" lon="-2.3464457"/><trkpt lat="53.3896077" lon="-2.3462243"/><trkpt lat="53.3900858" lon="-2.3459629"/><trkpt lat="53.3905113" lon="-2.3457176"/><trkpt lat="53.3910859" lon="-2.3453949"/><trkpt lat="53.3915077" lon="-2.3451728"/><trkpt lat="53.3920791" lon="-2.3448675"/><trkpt lat="53.3926593" lon="-2.3445734"/><trkpt lat="53.3932471" lon="-2.3442978"/><trkpt lat="53.393821" lon="-2.3440596"/><trkpt lat="53.3941648" lon="-2.3439263"/><trkpt lat="53.3944122" lon="-2.3438398"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=20 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/399233318"/><trkseg><trkpt lat="53.3944122" lon="-2.3438398"/><trkpt lat="53.3946246" lon="-2.3437533"/><trkpt lat="53.3947804" lon="-2.3436843"/><trkpt lat="53.3949336" lon="-2.343599"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=50 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/399233319"/><trkseg><trkpt lat="53.3944481" lon="-2.3437678"/><trkpt lat="53.3941339" lon="-2.3438862"/><trkpt lat="53.393766" lon="-2.3440311"/><trkpt lat="53.3929878" lon="-2.3443673"/><trkpt lat="53.3922385" lon="-2.344728"/><trkpt lat="53.3918634" lon="-2.3449239"/><trkpt lat="53.3908693" lon="-2.3454657"/><trkpt lat="53.3906277" lon="-2.3455996"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/614623704"/><trkseg><trkpt lat="53.4699477" lon="-2.2677614"/><trkpt lat="53.470142" lon="-2.267503"/></trkseg></trk><trk><name>way/614623705</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+oneway=yes
+operator=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/614623705"/><trkseg><trkpt lat="53.4703482" lon="-2.2672295"/><trkpt lat="53.4705592" lon="-2.2669636"/><trkpt lat="53.4707058" lon="-2.2667895"/><trkpt lat="53.4709143" lon="-2.2665684"/><trkpt lat="53.471024" lon="-2.266467"/><trkpt lat="53.4711709" lon="-2.2663304"/><trkpt lat="53.4712984" lon="-2.2662136"/><trkpt lat="53.4716467" lon="-2.2658931"/><trkpt lat="53.4719184" lon="-2.2656526"/><trkpt lat="53.4721258" lon="-2.2654562"/><trkpt lat="53.4723187" lon="-2.2652576"/><trkpt lat="53.4724399" lon="-2.2651202"/><trkpt lat="53.4725869" lon="-2.2649153"/><trkpt lat="53.4727184" lon="-2.2647203"/><trkpt lat="53.472859" lon="-2.2644814"/><trkpt lat="53.4730111" lon="-2.2641783"/><trkpt lat="53.4731492" lon="-2.2638621"/><trkpt lat="53.4732768" lon="-2.2635192"/><trkpt lat="53.4733575" lon="-2.2632926"/><trkpt lat="53.4733813" lon="-2.2632364"/><trkpt lat="53.4735025" lon="-2.2628939"/><trkpt lat="53.4735669" lon="-2.2627001"/><trkpt lat="53.4736055" lon="-2.2625726"/><trkpt lat="53.4736697" lon="-2.2623293"/><trkpt lat="53.4737252" lon="-2.2620886"/><trkpt lat="53.4738051" lon="-2.2617741"/><trkpt lat="53.4739946" lon="-2.2610727"/><trkpt lat="53.4744049" lon="-2.2595955"/><trkpt lat="53.4745729" lon="-2.2589973"/><trkpt lat="53.4746571" lon="-2.2586849"/><trkpt lat="53.4747337" lon="-2.2584002"/><trkpt lat="53.4747661" lon="-2.2582557"/><trkpt lat="53.4748043" lon="-2.2580952"/><trkpt lat="53.4748565" lon="-2.2578368"/><trkpt lat="53.474887" lon="-2.2576498"/><trkpt lat="53.4749071" lon="-2.2574919"/><trkpt lat="53.4749205" lon="-2.2573887"/><trkpt lat="53.4749303" lon="-2.2572749"/><trkpt lat="53.4749576" lon="-2.256928"/><trkpt lat="53.4749812" lon="-2.2565834"/><trkpt lat="53.4750322" lon="-2.255885"/><trkpt lat="53.475057" lon="-2.2554382"/><trkpt lat="53.4750659" lon="-2.2552112"/><trkpt lat="53.4750646" lon="-2.2550586"/><trkpt lat="53.4750654" lon="-2.2548994"/><trkpt lat="53.4750562" lon="-2.2546257"/><trkpt lat="53.4750455" lon="-2.2544164"/><trkpt lat="53.475033" lon="-2.2542159"/><trkpt lat="53.4750091" lon="-2.2539264"/><trkpt lat="53.4749823" lon="-2.2536357"/><trkpt lat="53.4749268" lon="-2.2530602"/><trkpt lat="53.4748897" lon="-2.2526578"/></trkseg></trk><trk><name>way/614623706</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/614623706"/><trkseg><trkpt lat="53.4731399" lon="-2.2636768"/><trkpt lat="53.4729729" lon="-2.2641089"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/614623707"/><trkseg><trkpt lat="53.4716467" lon="-2.2658931"/><trkpt lat="53.4717652" lon="-2.265756"/><trkpt lat="53.4719046" lon="-2.2656035"/></trkseg></trk><trk><name>way/614623709</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+oneway=yes
+operator=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/614623709"/><trkseg><trkpt lat="53.4748579" lon="-2.2526655"/><trkpt lat="53.4748982" lon="-2.253067"/><trkpt lat="53.4749521" lon="-2.253648"/><trkpt lat="53.4749788" lon="-2.2539434"/><trkpt lat="53.4750005" lon="-2.2542238"/><trkpt lat="53.4750133" lon="-2.2544249"/><trkpt lat="53.4750207" lon="-2.254625"/><trkpt lat="53.4750354" lon="-2.2548992"/><trkpt lat="53.4750379" lon="-2.2550592"/><trkpt lat="53.4750369" lon="-2.2552199"/><trkpt lat="53.4750275" lon="-2.2554366"/><trkpt lat="53.4750032" lon="-2.2558803"/><trkpt lat="53.4749526" lon="-2.2565774"/><trkpt lat="53.4749015" lon="-2.2572564"/><trkpt lat="53.4748805" lon="-2.2574662"/><trkpt lat="53.4748573" lon="-2.2576341"/><trkpt lat="53.474828" lon="-2.2578203"/><trkpt lat="53.474778" lon="-2.2580725"/><trkpt lat="53.4747415" lon="-2.2582316"/><trkpt lat="53.474703" lon="-2.2583851"/><trkpt lat="53.4746296" lon="-2.2586614"/><trkpt lat="53.4745426" lon="-2.2589759"/><trkpt lat="53.4743781" lon="-2.2595707"/><trkpt lat="53.4739647" lon="-2.2610549"/><trkpt lat="53.4737759" lon="-2.2617533"/><trkpt lat="53.4736983" lon="-2.2620516"/><trkpt lat="53.4736388" lon="-2.262299"/><trkpt lat="53.4735762" lon="-2.2625429"/><trkpt lat="53.473538" lon="-2.2626706"/><trkpt lat="53.473475" lon="-2.2628713"/><trkpt lat="53.473353" lon="-2.2631987"/><trkpt lat="53.4732376" lon="-2.2634656"/><trkpt lat="53.4731399" lon="-2.2636768"/><trkpt lat="53.4730723" lon="-2.2638164"/><trkpt lat="53.4729469" lon="-2.2640791"/><trkpt lat="53.4727993" lon="-2.2643803"/><trkpt lat="53.4726619" lon="-2.2646099"/><trkpt lat="53.4725335" lon="-2.2648095"/><trkpt lat="53.4724009" lon="-2.2649867"/><trkpt lat="53.4722778" lon="-2.2651415"/><trkpt lat="53.4721818" lon="-2.2652469"/><trkpt lat="53.4720832" lon="-2.2653515"/><trkpt lat="53.4718833" lon="-2.2655386"/><trkpt lat="53.4716168" lon="-2.2657821"/><trkpt lat="53.4712755" lon="-2.2660862"/><trkpt lat="53.4709646" lon="-2.2663668"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+layer=-1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+tunnel=yes
+voltage=750</desc><link href="http://osm.org/browse/way/615985681"/><trkseg><trkpt lat="53.4619348" lon="-2.2769137"/><trkpt lat="53.4620404" lon="-2.2766708"/><trkpt lat="53.4621275" lon="-2.2764737"/><trkpt lat="53.4622449" lon="-2.2762053"/><trkpt lat="53.4623635" lon="-2.2759208"/><trkpt lat="53.4624494" lon="-2.2756972"/><trkpt lat="53.4625184" lon="-2.2755203"/><trkpt lat="53.4625794" lon="-2.2753579"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/615985682"/><trkseg><trkpt lat="53.4625794" lon="-2.2753579"/><trkpt lat="53.4627024" lon="-2.2750101"/><trkpt lat="53.4628234" lon="-2.2746645"/><trkpt lat="53.4629577" lon="-2.2742946"/><trkpt lat="53.4630775" lon="-2.2739917"/><trkpt lat="53.4632058" lon="-2.2736705"/><trkpt lat="53.463299" lon="-2.2734754"/><trkpt lat="53.4634357" lon="-2.2732172"/><trkpt lat="53.4635943" lon="-2.2729448"/><trkpt lat="53.4638" lon="-2.2726135"/><trkpt lat="53.4640493" lon="-2.2722883"/><trkpt lat="53.4643337" lon="-2.2719427"/><trkpt lat="53.4646047" lon="-2.2716622"/><trkpt lat="53.4647524" lon="-2.2715219"/><trkpt lat="53.465021" lon="-2.2713227"/><trkpt lat="53.4653998" lon="-2.2710971"/><trkpt lat="53.4656793" lon="-2.2709711"/><trkpt lat="53.4658597" lon="-2.2709092"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=50 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/615985683"/><trkseg><trkpt lat="53.4658549" lon="-2.2708762"/><trkpt lat="53.4656334" lon="-2.2709553"/><trkpt lat="53.4655437" lon="-2.2709948"/><trkpt lat="53.4653274" lon="-2.271107"/><trkpt lat="53.4651414" lon="-2.2712161"/><trkpt lat="53.4650204" lon="-2.2712872"/><trkpt lat="53.4649078" lon="-2.2713657"/><trkpt lat="53.4646598" lon="-2.2715559"/><trkpt lat="53.464498" lon="-2.2717122"/><trkpt lat="53.4643183" lon="-2.2719045"/><trkpt lat="53.4641295" lon="-2.2721163"/><trkpt lat="53.4640332" lon="-2.2722344"/><trkpt lat="53.4638571" lon="-2.2724715"/><trkpt lat="53.463711" lon="-2.2726754"/><trkpt lat="53.4635713" lon="-2.2729054"/><trkpt lat="53.4634317" lon="-2.2731496"/><trkpt lat="53.4632347" lon="-2.2735276"/><trkpt lat="53.4630523" lon="-2.2739544"/><trkpt lat="53.4629192" lon="-2.2743043"/><trkpt lat="53.4627594" lon="-2.2747395"/><trkpt lat="53.4625697" lon="-2.2752686"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/615985684"/><trkseg><trkpt lat="53.445712" lon="-2.3041965"/><trkpt lat="53.4458099" lon="-2.3040813"/><trkpt lat="53.4460552" lon="-2.3038072"/><trkpt lat="53.4463009" lon="-2.30353"/><trkpt lat="53.446519" lon="-2.3032882"/><trkpt lat="53.446776" lon="-2.3030143"/><trkpt lat="53.4471763" lon="-2.3025558"/><trkpt lat="53.4474081" lon="-2.3022669"/><trkpt lat="53.4477332" lon="-2.3018064"/><trkpt lat="53.4478413" lon="-2.3016468"/><trkpt lat="53.4479967" lon="-2.3014081"/><trkpt lat="53.448152" lon="-2.3011613"/><trkpt lat="53.4483199" lon="-2.3008623"/><trkpt lat="53.4484609" lon="-2.3006105"/><trkpt lat="53.4486384" lon="-2.3002613"/><trkpt lat="53.4487638" lon="-2.3000085"/><trkpt lat="53.4489264" lon="-2.2996614"/><trkpt lat="53.4490955" lon="-2.2993042"/><trkpt lat="53.4493034" lon="-2.2988146"/><trkpt lat="53.449491" lon="-2.298314"/><trkpt lat="53.4496457" lon="-2.2978776"/><trkpt lat="53.4497849" lon="-2.2974442"/><trkpt lat="53.450064" lon="-2.2966054"/><trkpt lat="53.4504332" lon="-2.2955309"/><trkpt lat="53.4506874" lon="-2.2948522"/><trkpt lat="53.4508144" lon="-2.294493"/><trkpt lat="53.4509637" lon="-2.2941178"/><trkpt lat="53.4512515" lon="-2.2933741"/><trkpt lat="53.4514874" lon="-2.2928188"/><trkpt lat="53.4516347" lon="-2.2924907"/><trkpt lat="53.4518469" lon="-2.2920156"/><trkpt lat="53.4520258" lon="-2.291633"/><trkpt lat="53.452262" lon="-2.2911387"/><trkpt lat="53.4523847" lon="-2.2908854"/><trkpt lat="53.4525147" lon="-2.2906286"/><trkpt lat="53.4527737" lon="-2.2901116"/><trkpt lat="53.4530151" lon="-2.2896626"/><trkpt lat="53.4532366" lon="-2.2892731"/><trkpt lat="53.4535476" lon="-2.2887368"/><trkpt lat="53.4537421" lon="-2.2884067"/><trkpt lat="53.4539179" lon="-2.2881255"/><trkpt lat="53.4540542" lon="-2.2879019"/><trkpt lat="53.4543735" lon="-2.2873953"/><trkpt lat="53.4546596" lon="-2.2869691"/><trkpt lat="53.4550777" lon="-2.2863612"/><trkpt lat="53.4553169" lon="-2.2860276"/><trkpt lat="53.455681" lon="-2.2855315"/><trkpt lat="53.4560087" lon="-2.2851145"/><trkpt lat="53.4560972" lon="-2.2850015"/><trkpt lat="53.4564893" lon="-2.2845211"/><trkpt lat="53.4567863" lon="-2.2841774"/><trkpt lat="53.4571087" lon="-2.2838064"/><trkpt lat="53.4574002" lon="-2.283484"/><trkpt lat="53.457661" lon="-2.2832164"/><trkpt lat="53.4578276" lon="-2.2830491"/><trkpt lat="53.4582386" lon="-2.2826081"/><trkpt lat="53.4586117" lon="-2.2822006"/><trkpt lat="53.459039" lon="-2.2816775"/><trkpt lat="53.4595008" lon="-2.2810814"/><trkpt lat="53.4598249" lon="-2.2806343"/><trkpt lat="53.460006" lon="-2.2803741"/><trkpt lat="53.4601312" lon="-2.2801901"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/616110730"/><trkseg><trkpt lat="53.4600844" lon="-2.2801901"/><trkpt lat="53.4599077" lon="-2.2804475"/><trkpt lat="53.4596531" lon="-2.2808039"/><trkpt lat="53.4595841" lon="-2.2809042"/><trkpt lat="53.4594981" lon="-2.2810197"/><trkpt lat="53.4593458" lon="-2.2812233"/><trkpt lat="53.459034" lon="-2.2816195"/><trkpt lat="53.4587379" lon="-2.2819821"/><trkpt lat="53.4585927" lon="-2.2821523"/><trkpt lat="53.4584496" lon="-2.282312"/><trkpt lat="53.4581592" lon="-2.2826242"/><trkpt lat="53.4575712" lon="-2.2832382"/><trkpt lat="53.4572883" lon="-2.2835564"/><trkpt lat="53.4568452" lon="-2.2840478"/><trkpt lat="53.4563546" lon="-2.2846315"/><trkpt lat="53.4560803" lon="-2.2849621"/><trkpt lat="53.4560216" lon="-2.2850343"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/616110731"/><trkseg><trkpt lat="53.4602249" lon="-2.2799722"/><trkpt lat="53.4601264" lon="-2.2801289"/><trkpt lat="53.4600844" lon="-2.2801901"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/616110732"/><trkseg><trkpt lat="53.4601312" lon="-2.2801901"/><trkpt lat="53.4601645" lon="-2.2801413"/><trkpt lat="53.4602616" lon="-2.2799877"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/616110733"/><trkseg><trkpt lat="53.4602616" lon="-2.2799877"/><trkpt lat="53.4605179" lon="-2.2795823"/><trkpt lat="53.4608784" lon="-2.2789786"/><trkpt lat="53.4610645" lon="-2.2786501"/><trkpt lat="53.4612401" lon="-2.2783188"/><trkpt lat="53.4613645" lon="-2.2780861"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+voltage=750</desc><link href="http://osm.org/browse/way/616782522"/><trkseg><trkpt lat="53.4729729" lon="-2.2641089"/><trkpt lat="53.4728269" lon="-2.264426"/><trkpt lat="53.4726955" lon="-2.2646725"/><trkpt lat="53.472567" lon="-2.2648796"/><trkpt lat="53.4724309" lon="-2.2650663"/><trkpt lat="53.4723056" lon="-2.2652172"/><trkpt lat="53.4722076" lon="-2.2653176"/><trkpt lat="53.4721085" lon="-2.2654178"/><trkpt lat="53.4719046" lon="-2.2656035"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+voltage=750</desc><link href="http://osm.org/browse/way/616782523"/><trkseg><trkpt lat="53.4719046" lon="-2.2656035"/><trkpt lat="53.471692" lon="-2.2658015"/><trkpt lat="53.4716354" lon="-2.2658517"/><trkpt lat="53.4715529" lon="-2.2659258"/><trkpt lat="53.4713792" lon="-2.2660781"/><trkpt lat="53.4712444" lon="-2.2661721"/><trkpt lat="53.4711529" lon="-2.2662292"/><trkpt lat="53.4709646" lon="-2.2663668"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+layer=-1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+tunnel=yes
+voltage=750</desc><link href="http://osm.org/browse/way/686956436"/><trkseg><trkpt lat="53.4454985" lon="-2.3044331"/><trkpt lat="53.445712" lon="-2.3041965"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/686956437"/><trkseg><trkpt lat="53.4460408" lon="-2.3037692"/><trkpt lat="53.4458043" lon="-2.3040261"/><trkpt lat="53.4457065" lon="-2.3041349"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+layer=-1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+tunnel=yes
+voltage=750</desc><link href="http://osm.org/browse/way/686956439"/><trkseg><trkpt lat="53.4457065" lon="-2.3041349"/><trkpt lat="53.4454916" lon="-2.3043656"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/686956443"/><trkseg><trkpt lat="53.4407" lon="-2.307088"/><trkpt lat="53.4407819" lon="-2.3070679"/><trkpt lat="53.4415142" lon="-2.3068093"/><trkpt lat="53.4421073" lon="-2.3066162"/><trkpt lat="53.4426038" lon="-2.3064351"/><trkpt lat="53.4429404" lon="-2.3062836"/><trkpt lat="53.4432667" lon="-2.3061133"/><trkpt lat="53.4436802" lon="-2.3058602"/><trkpt lat="53.4440907" lon="-2.3055966"/><trkpt lat="53.4444715" lon="-2.3053116"/><trkpt lat="53.4449956" lon="-2.3049154"/><trkpt lat="53.4453044" lon="-2.3046181"/><trkpt lat="53.4454985" lon="-2.3044331"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+operator=Transport for Greater Manchester
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=BOTH
+service=siding
+voltage=750</desc><link href="http://osm.org/browse/way/696913317"/><trkseg><trkpt lat="53.4024457" lon="-2.3400775"/><trkpt lat="53.4020058" lon="-2.340435"/><trkpt lat="53.401531" lon="-2.3407889"/><trkpt lat="53.4010427" lon="-2.3411172"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+operator=Transport for Greater Manchester
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+service=siding
+voltage=750</desc><link href="http://osm.org/browse/way/696913318"/><trkseg><trkpt lat="53.4027501" lon="-2.339783"/><trkpt lat="53.4024457" lon="-2.3400775"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/746186917"/><trkseg><trkpt lat="53.4682686" lon="-2.2700049"/><trkpt lat="53.4684121" lon="-2.269747"/><trkpt lat="53.4684818" lon="-2.2696314"/><trkpt lat="53.4685514" lon="-2.2695242"/><trkpt lat="53.4686529" lon="-2.2693847"/><trkpt lat="53.4687117" lon="-2.2693086"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/746189318"/><trkseg><trkpt lat="53.4613645" lon="-2.2780861"/><trkpt lat="53.4615923" lon="-2.2776208"/><trkpt lat="53.4617564" lon="-2.2772801"/><trkpt lat="53.4618383" lon="-2.277116"/><trkpt lat="53.4619348" lon="-2.2769137"/></trkseg></trk><trk><name>way/748947904</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/748947904"/><trkseg><trkpt lat="53.4571087" lon="-2.2838064"/><trkpt lat="53.4572883" lon="-2.2835564"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/748955380"/><trkseg><trkpt lat="53.4363974" lon="-2.3085121"/><trkpt lat="53.4366273" lon="-2.3084298"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/748955383"/><trkseg><trkpt lat="53.3996246" lon="-2.3419892"/><trkpt lat="53.4000307" lon="-2.3417834"/><trkpt lat="53.4007587" lon="-2.3413587"/><trkpt lat="53.4009043" lon="-2.3412596"/><trkpt lat="53.4015869" lon="-2.3407995"/><trkpt lat="53.4020643" lon="-2.3404516"/><trkpt lat="53.40224" lon="-2.3402969"/><trkpt lat="53.4027643" lon="-2.3398295"/><trkpt lat="53.4033752" lon="-2.3392788"/><trkpt lat="53.4043247" lon="-2.3383609"/><trkpt lat="53.4060257" lon="-2.3367399"/><trkpt lat="53.4094288" lon="-2.3334704"/><trkpt lat="53.4123453" lon="-2.3306496"/><trkpt lat="53.4133463" lon="-2.329687"/><trkpt lat="53.4140139" lon="-2.3290552"/><trkpt lat="53.41471" lon="-2.3283704"/><trkpt lat="53.4155359" lon="-2.3275635"/><trkpt lat="53.4161141" lon="-2.3270118"/><trkpt lat="53.4165816" lon="-2.3265706"/><trkpt lat="53.4169996" lon="-2.326159"/><trkpt lat="53.4173173" lon="-2.3258498"/><trkpt lat="53.4175587" lon="-2.3256098"/><trkpt lat="53.4182113" lon="-2.3249872"/><trkpt lat="53.4187072" lon="-2.3245021"/><trkpt lat="53.4193294" lon="-2.3239039"/><trkpt lat="53.4199042" lon="-2.3233624"/><trkpt lat="53.4207462" lon="-2.322545"/><trkpt lat="53.42139" lon="-2.3219114"/><trkpt lat="53.4218983" lon="-2.3214265"/><trkpt lat="53.422311" lon="-2.3210558"/><trkpt lat="53.4227865" lon="-2.3205959"/><trkpt lat="53.4231489" lon="-2.3202401"/><trkpt lat="53.4235294" lon="-2.3198618"/><trkpt lat="53.4238826" lon="-2.3194895"/><trkpt lat="53.424166" lon="-2.319184"/><trkpt lat="53.4244404" lon="-2.3188923"/><trkpt lat="53.4248665" lon="-2.3184119"/><trkpt lat="53.4253239" lon="-2.3178823"/><trkpt lat="53.4259644" lon="-2.3171122"/><trkpt lat="53.4264358" lon="-2.3164929"/><trkpt lat="53.427022" lon="-2.3157001"/><trkpt lat="53.4274459" lon="-2.3151126"/><trkpt lat="53.4278276" lon="-2.3145658"/><trkpt lat="53.4282472" lon="-2.3139075"/><trkpt lat="53.4287133" lon="-2.3132014"/><trkpt lat="53.4293706" lon="-2.3123696"/><trkpt lat="53.429753" lon="-2.3119454"/><trkpt lat="53.4300117" lon="-2.3116813"/><trkpt lat="53.4302854" lon="-2.3114173"/><trkpt lat="53.4304709" lon="-2.3112573"/><trkpt lat="53.4308165" lon="-2.3109823"/><trkpt lat="53.4311425" lon="-2.3107428"/><trkpt lat="53.4315488" lon="-2.3104464"/><trkpt lat="53.4321039" lon="-2.3101049"/><trkpt lat="53.4325729" lon="-2.309856"/><trkpt lat="53.4330558" lon="-2.3096366"/><trkpt lat="53.4333818" lon="-2.3095041"/><trkpt lat="53.4336268" lon="-2.3094191"/><trkpt lat="53.4345253" lon="-2.3091401"/><trkpt lat="53.4348014" lon="-2.30905"/><trkpt lat="53.4355027" lon="-2.3088172"/><trkpt lat="53.4363974" lon="-2.3085121"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/748973702"/><trkseg><trkpt lat="53.4363931" lon="-2.3084596"/><trkpt lat="53.4361083" lon="-2.3085517"/><trkpt lat="53.4354573" lon="-2.3087625"/><trkpt lat="53.4350008" lon="-2.3089148"/><trkpt lat="53.4346454" lon="-2.3090363"/><trkpt lat="53.434485" lon="-2.3090886"/><trkpt lat="53.4336212" lon="-2.3093536"/><trkpt lat="53.4333853" lon="-2.3094349"/><trkpt lat="53.4331698" lon="-2.3095146"/><trkpt lat="53.4329927" lon="-2.3095894"/><trkpt lat="53.4327567" lon="-2.3096948"/><trkpt lat="53.4325223" lon="-2.3098094"/><trkpt lat="53.4322925" lon="-2.3099196"/><trkpt lat="53.4319475" lon="-2.3101116"/><trkpt lat="53.4315403" lon="-2.310375"/><trkpt lat="53.4311309" lon="-2.3106685"/><trkpt lat="53.4307656" lon="-2.3109539"/><trkpt lat="53.4302854" lon="-2.3113587"/><trkpt lat="53.4300152" lon="-2.3116223"/><trkpt lat="53.4297502" lon="-2.3118874"/><trkpt lat="53.429553" lon="-2.3120953"/><trkpt lat="53.4293317" lon="-2.3123546"/><trkpt lat="53.4289554" lon="-2.3128273"/><trkpt lat="53.4286502" lon="-2.313233"/><trkpt lat="53.4282497" lon="-2.3138309"/><trkpt lat="53.4278594" lon="-2.3144444"/><trkpt lat="53.4274276" lon="-2.3150576"/><trkpt lat="53.427022" lon="-2.3156339"/><trkpt lat="53.4266587" lon="-2.3161222"/><trkpt lat="53.4263437" lon="-2.3165456"/><trkpt lat="53.4259839" lon="-2.317024"/><trkpt lat="53.4255951" lon="-2.3175025"/><trkpt lat="53.4252794" lon="-2.3178733"/><trkpt lat="53.4248587" lon="-2.3183546"/><trkpt lat="53.4244281" lon="-2.3188339"/><trkpt lat="53.4241481" lon="-2.3191378"/><trkpt lat="53.4238663" lon="-2.3194505"/><trkpt lat="53.4235113" lon="-2.3198242"/><trkpt lat="53.4231316" lon="-2.3201964"/><trkpt lat="53.4225636" lon="-2.3207527"/><trkpt lat="53.4221743" lon="-2.3211209"/><trkpt lat="53.421622" lon="-2.3216195"/><trkpt lat="53.4208228" lon="-2.3224165"/><trkpt lat="53.4201388" lon="-2.323074"/><trkpt lat="53.4196513" lon="-2.3235388"/><trkpt lat="53.4191577" lon="-2.3240113"/><trkpt lat="53.4186614" lon="-2.3244965"/><trkpt lat="53.4181901" lon="-2.3249536"/><trkpt lat="53.4176689" lon="-2.3254497"/><trkpt lat="53.417309" lon="-2.325811"/><trkpt lat="53.4170583" lon="-2.3260542"/><trkpt lat="53.4165112" lon="-2.3265827"/><trkpt lat="53.4160892" lon="-2.3269928"/><trkpt lat="53.4155999" lon="-2.3274566"/><trkpt lat="53.4153444" lon="-2.3277057"/><trkpt lat="53.4150955" lon="-2.3279463"/><trkpt lat="53.4126025" lon="-2.3303504"/><trkpt lat="53.4099679" lon="-2.3328613"/><trkpt lat="53.4070632" lon="-2.3356881"/><trkpt lat="53.4062063" lon="-2.336493"/><trkpt lat="53.4052386" lon="-2.3374331"/><trkpt lat="53.4042623" lon="-2.3383549"/><trkpt lat="53.403377" lon="-2.3392128"/><trkpt lat="53.4027501" lon="-2.339783"/><trkpt lat="53.4020316" lon="-2.340355"/><trkpt lat="53.4014805" lon="-2.3407724"/><trkpt lat="53.4005178" lon="-2.3414123"/><trkpt lat="53.3996246" lon="-2.3419892"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=15 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/748985510"/><trkseg><trkpt lat="53.3883163" lon="-2.3469434"/><trkpt lat="53.388519" lon="-2.3468313"/><trkpt lat="53.3888358" lon="-2.3466467"/><trkpt lat="53.3891948" lon="-2.3464457"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=15 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/748985513"/><trkseg><trkpt lat="53.3873025" lon="-2.3474968"/><trkpt lat="53.3877746" lon="-2.3472358"/><trkpt lat="53.3880724" lon="-2.3470759"/><trkpt lat="53.3883163" lon="-2.3469434"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=15 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/748985515"/><trkseg><trkpt lat="53.3872955" lon="-2.3474535"/><trkpt lat="53.3877593" lon="-2.3471942"/><trkpt lat="53.3883011" lon="-2.3468982"/><trkpt lat="53.3885467" lon="-2.3467625"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=15 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/748985519"/><trkseg><trkpt lat="53.388894" lon="-2.3465649"/><trkpt lat="53.3885467" lon="-2.3467625"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=20 mph
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=BOTH
+voltage=750</desc><link href="http://osm.org/browse/way/748986280"/><trkseg><trkpt lat="53.3949336" lon="-2.343599"/><trkpt lat="53.3952372" lon="-2.3434943"/><trkpt lat="53.3957665" lon="-2.3433327"/><trkpt lat="53.396435" lon="-2.3431385"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+operator=Transport for Greater Manchester
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+service=siding
+voltage=750</desc><link href="http://osm.org/browse/way/748991751"/><trkseg><trkpt lat="53.4024457" lon="-2.3400775"/><trkpt lat="53.4027643" lon="-2.3398295"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=50 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/748991752"/><trkseg><trkpt lat="53.3906277" lon="-2.3455996"/><trkpt lat="53.3899135" lon="-2.3459954"/><trkpt lat="53.3892679" lon="-2.3463575"/><trkpt lat="53.388894" lon="-2.3465649"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/797039098"/><trkseg><trkpt lat="53.470142" lon="-2.267503"/><trkpt lat="53.4703482" lon="-2.2672295"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=viaduct
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=2
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/797039099"/><trkseg><trkpt lat="53.4700792" lon="-2.2673591"/><trkpt lat="53.4697989" lon="-2.2677362"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/1041220982"/><trkseg><trkpt lat="53.4403075" lon="-2.3071479"/><trkpt lat="53.4401871" lon="-2.3071796"/><trkpt lat="53.4397246" lon="-2.3073203"/><trkpt lat="53.4391349" lon="-2.3075058"/><trkpt lat="53.4385344" lon="-2.3077017"/><trkpt lat="53.4379529" lon="-2.3078989"/><trkpt lat="53.4373618" lon="-2.3081129"/><trkpt lat="53.4367722" lon="-2.3083271"/><trkpt lat="53.43662" lon="-2.3083816"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/1041220983"/><trkseg><trkpt lat="53.4366273" lon="-2.3084298"/><trkpt lat="53.4370445" lon="-2.3082814"/><trkpt lat="53.4382311" lon="-2.3078626"/><trkpt lat="53.4392751" lon="-2.3075177"/><trkpt lat="53.4400192" lon="-2.3072924"/><trkpt lat="53.440317" lon="-2.3072064"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/1041220984"/><trkseg><trkpt lat="53.440317" lon="-2.3072064"/><trkpt lat="53.4407" lon="-2.307088"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref=CDM1
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/1041220985"/><trkseg><trkpt lat="53.4406901" lon="-2.3070284"/><trkpt lat="53.4403075" lon="-2.3071479"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+maxspeed=50 mph
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/1078831354"/><trkseg><trkpt lat="53.4687017" lon="-2.2692596"/><trkpt lat="53.4685571" lon="-2.2694318"/><trkpt lat="53.4684828" lon="-2.26955"/><trkpt lat="53.4682622" lon="-2.2699169"/><trkpt lat="53.4680427" lon="-2.2702752"/><trkpt lat="53.467957" lon="-2.2703874"/><trkpt lat="53.4679042" lon="-2.2704624"/><trkpt lat="53.4677935" lon="-2.2705842"/><trkpt lat="53.4677027" lon="-2.2706663"/><trkpt lat="53.4676039" lon="-2.2707208"/><trkpt lat="53.4675533" lon="-2.2707403"/><trkpt lat="53.4674991" lon="-2.2707638"/><trkpt lat="53.4673972" lon="-2.2707923"/><trkpt lat="53.4673189" lon="-2.2707976"/><trkpt lat="53.4669194" lon="-2.2707996"/><trkpt lat="53.4667795" lon="-2.2707905"/><trkpt lat="53.4666824" lon="-2.2707837"/><trkpt lat="53.4665639" lon="-2.2707797"/><trkpt lat="53.4664256" lon="-2.2707767"/><trkpt lat="53.4662618" lon="-2.2707915"/><trkpt lat="53.4661283" lon="-2.270814"/><trkpt lat="53.4658549" lon="-2.2708762"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=ATL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/1078831355"/><trkseg><trkpt lat="53.4658597" lon="-2.2709092"/><trkpt lat="53.4659165" lon="-2.2708897"/><trkpt lat="53.4662602" lon="-2.2708349"/><trkpt lat="53.4665637" lon="-2.2708307"/><trkpt lat="53.4668907" lon="-2.2708486"/><trkpt lat="53.4671995" lon="-2.2708595"/><trkpt lat="53.4672205" lon="-2.2708615"/><trkpt lat="53.4673855" lon="-2.2708454"/><trkpt lat="53.4674662" lon="-2.270824"/><trkpt lat="53.4675373" lon="-2.270797"/><trkpt lat="53.4676952" lon="-2.2707344"/><trkpt lat="53.4677945" lon="-2.2706579"/><trkpt lat="53.4679764" lon="-2.2704364"/><trkpt lat="53.4680922" lon="-2.2702738"/><trkpt lat="53.4682686" lon="-2.2700049"/></trkseg></trk></gpx>
