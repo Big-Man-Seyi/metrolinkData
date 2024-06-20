@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-turbo"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2024-06-20T09:22:45Z</time></metadata><trk><name>way/378561770</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+network=Metrolink
+oneway=yes
+operator=Metrolink
+railway=light_rail
+ref:GB:tfgm=SCL
+start_date=2016
+voltage=750</desc><link href="http://osm.org/browse/way/378561770"/><trkseg><trkpt lat="53.4831394" lon="-2.2435907"/><trkpt lat="53.4830045" lon="-2.2436869"/><trkpt lat="53.4827447" lon="-2.2438723"/><trkpt lat="53.4822433" lon="-2.2442009"/><trkpt lat="53.4821048" lon="-2.2443048"/><trkpt lat="53.4820181" lon="-2.2443642"/><trkpt lat="53.4819013" lon="-2.2444538"/><trkpt lat="53.4817884" lon="-2.2445255"/><trkpt lat="53.4816977" lon="-2.2445665"/><trkpt lat="53.4812987" lon="-2.2447112"/><trkpt lat="53.4811781" lon="-2.2447532"/><trkpt lat="53.4810804" lon="-2.2447873"/><trkpt lat="53.480994" lon="-2.2448214"/><trkpt lat="53.480787" lon="-2.2448993"/><trkpt lat="53.4807145" lon="-2.2449249"/><trkpt lat="53.480656" lon="-2.2449469"/><trkpt lat="53.4805175" lon="-2.2449961"/><trkpt lat="53.480333" lon="-2.2450629"/><trkpt lat="53.4802806" lon="-2.2450826"/><trkpt lat="53.4802334" lon="-2.2450941"/><trkpt lat="53.4801911" lon="-2.2450919"/><trkpt lat="53.4801323" lon="-2.2450687"/><trkpt lat="53.4800995" lon="-2.245045"/><trkpt lat="53.4800751" lon="-2.2450187"/><trkpt lat="53.4800377" lon="-2.2449645"/><trkpt lat="53.480018" lon="-2.2449274"/><trkpt lat="53.4799996" lon="-2.2448931"/><trkpt lat="53.4799538" lon="-2.2447689"/><trkpt lat="53.4798889" lon="-2.2445609"/><trkpt lat="53.4798636" lon="-2.2444662"/><trkpt lat="53.4798215" lon="-2.2443561"/><trkpt lat="53.4797878" lon="-2.2442896"/><trkpt lat="53.4795008" lon="-2.2438282"/><trkpt lat="53.4790093" lon="-2.2429957"/><trkpt lat="53.4789431" lon="-2.2428451"/><trkpt lat="53.4789128" lon="-2.2427835"/><trkpt lat="53.4788993" lon="-2.2427564"/><trkpt lat="53.478882" lon="-2.2427269"/><trkpt lat="53.478864" lon="-2.2427068"/><trkpt lat="53.4788455" lon="-2.242692"/><trkpt lat="53.4788371" lon="-2.2426841"/><trkpt lat="53.4788268" lon="-2.2426773"/><trkpt lat="53.4788056" lon="-2.2426611"/><trkpt lat="53.4787722" lon="-2.2426383"/><trkpt lat="53.4787318" lon="-2.2426162"/><trkpt lat="53.4786924" lon="-2.242606"/><trkpt lat="53.4786471" lon="-2.2426064"/><trkpt lat="53.4786176" lon="-2.2426171"/><trkpt lat="53.4785787" lon="-2.2426407"/><trkpt lat="53.4785314" lon="-2.2426744"/><trkpt lat="53.4784796" lon="-2.2427204"/></trkseg></trk><trk><name>way/378561771</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+network=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=SCL
+voltage=750</desc><link href="http://osm.org/browse/way/378561771"/><trkseg><trkpt lat="53.4831477" lon="-2.2436449"/><trkpt lat="53.483256" lon="-2.243558"/><trkpt lat="53.4837202" lon="-2.2432286"/><trkpt lat="53.4840725" lon="-2.2430467"/><trkpt lat="53.4842401" lon="-2.2429395"/><trkpt lat="53.484472" lon="-2.2427592"/><trkpt lat="53.484703" lon="-2.2425781"/><trkpt lat="53.4847969" lon="-2.242483"/><trkpt lat="53.4849425" lon="-2.2423281"/><trkpt lat="53.4850015" lon="-2.2422699"/><trkpt lat="53.4850875" lon="-2.2421831"/><trkpt lat="53.4851848" lon="-2.2420874"/><trkpt lat="53.485228" lon="-2.2420449"/><trkpt lat="53.4857858" lon="-2.241625"/><trkpt lat="53.4860549" lon="-2.2413809"/><trkpt lat="53.4861148" lon="-2.2413612"/><trkpt lat="53.4861701" lon="-2.2413563"/><trkpt lat="53.4862276" lon="-2.24136"/><trkpt lat="53.4862445" lon="-2.2413631"/><trkpt lat="53.4863955" lon="-2.2413971"/></trkseg></trk><trk><name>way/378561773</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+network=Metrolink
+railway=tram
+ref:GB:tfgm=SCL
+service=crossover
+start_date=2015
+voltage=750</desc><link href="http://osm.org/browse/way/378561773"/><trkseg><trkpt lat="53.4833959" lon="-2.2433853"/><trkpt lat="53.4835384" lon="-2.2433164"/><trkpt lat="53.4837202" lon="-2.2432286"/></trkseg></trk><trk><name>way/391352945</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+network=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=SCL
+start_date=2015
+voltage=750</desc><link href="http://osm.org/browse/way/391352945"/><trkseg><trkpt lat="53.4863955" lon="-2.2413971"/><trkpt lat="53.4865118" lon="-2.2414472"/><trkpt lat="53.4866261" lon="-2.241508"/><trkpt lat="53.4868116" lon="-2.2416261"/></trkseg></trk><trk><name>way/481609204</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+network=Metrolink
+oneway=yes
+operator=Metrolink
+railway=light_rail
+ref:GB:tfgm=SCL
+start_date=2016
+voltage=750</desc><link href="http://osm.org/browse/way/481609204"/><trkseg><trkpt lat="53.4786602" lon="-2.2427738"/><trkpt lat="53.4787147" lon="-2.2427604"/><trkpt lat="53.4787605" lon="-2.2427696"/><trkpt lat="53.4787811" lon="-2.2427737"/><trkpt lat="53.4788143" lon="-2.2427945"/><trkpt lat="53.4788362" lon="-2.2428129"/><trkpt lat="53.4788668" lon="-2.2428474"/><trkpt lat="53.4788942" lon="-2.2428907"/><trkpt lat="53.4789384" lon="-2.2429733"/><trkpt lat="53.479003" lon="-2.2430991"/><trkpt lat="53.4790511" lon="-2.2431955"/><trkpt lat="53.4792529" lon="-2.2435183"/><trkpt lat="53.4795644" lon="-2.2440037"/><trkpt lat="53.4797858" lon="-2.2443914"/><trkpt lat="53.4798119" lon="-2.2444569"/><trkpt lat="53.4798181" lon="-2.2444726"/><trkpt lat="53.4798565" lon="-2.2445665"/><trkpt lat="53.4799281" lon="-2.2448039"/><trkpt lat="53.4799669" lon="-2.2449224"/><trkpt lat="53.480002" lon="-2.2450062"/><trkpt lat="53.4800437" lon="-2.2450835"/><trkpt lat="53.4801101" lon="-2.2451416"/><trkpt lat="53.4801608" lon="-2.2451568"/><trkpt lat="53.4801837" lon="-2.2451613"/><trkpt lat="53.480252" lon="-2.2451607"/><trkpt lat="53.4808011" lon="-2.2449569"/><trkpt lat="53.4810018" lon="-2.2448796"/><trkpt lat="53.4810892" lon="-2.2448504"/><trkpt lat="53.4811869" lon="-2.2448177"/><trkpt lat="53.4813181" lon="-2.2447738"/><trkpt lat="53.4817064" lon="-2.2446323"/><trkpt lat="53.4817859" lon="-2.2445985"/><trkpt lat="53.4818673" lon="-2.2445471"/><trkpt lat="53.4819583" lon="-2.2444833"/><trkpt lat="53.4821184" lon="-2.2443523"/><trkpt lat="53.4824657" lon="-2.2441229"/><trkpt lat="53.4827564" lon="-2.2439227"/><trkpt lat="53.4830158" lon="-2.2437386"/><trkpt lat="53.4831477" lon="-2.2436449"/></trkseg></trk><trk><name>Second City Crossing</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+level=-0.5
+name=Second City Crossing
+network=Metrolink
+oneway=yes
+railway=light_rail
+ref=2CC
+ref:GB:tfgm=SCL
+start_date=2015
+tracks=2
+voltage=750</desc><link href="http://osm.org/browse/way/542885484"/><trkseg><trkpt lat="53.4869529" lon="-2.2416771"/><trkpt lat="53.4869204" lon="-2.2416442"/><trkpt lat="53.486823" lon="-2.2415795"/></trkseg></trk><trk><name>way/725020059</name><desc>covered=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+level=-0.5
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=SCL
+voltage=750</desc><link href="http://osm.org/browse/way/725020059"/><trkseg><trkpt lat="53.4869212" lon="-2.2417237"/><trkpt lat="53.4869445" lon="-2.2417449"/><trkpt lat="53.4870402" lon="-2.2418437"/></trkseg></trk><trk><name>way/725020060</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+network=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=SCL
+voltage=750</desc><link href="http://osm.org/browse/way/725020060"/><trkseg><trkpt lat="53.486823" lon="-2.2415795"/><trkpt lat="53.4866523" lon="-2.241466"/><trkpt lat="53.4864678" lon="-2.2413672"/><trkpt lat="53.4863839" lon="-2.2413325"/><trkpt lat="53.4862528" lon="-2.2412884"/><trkpt lat="53.4862151" lon="-2.2412757"/><trkpt lat="53.4861798" lon="-2.241269"/><trkpt lat="53.4861388" lon="-2.2412718"/><trkpt lat="53.486084" lon="-2.2413003"/><trkpt lat="53.4857716" lon="-2.2415745"/><trkpt lat="53.4856115" lon="-2.2416943"/><trkpt lat="53.4852154" lon="-2.2420019"/><trkpt lat="53.4851189" lon="-2.2420895"/><trkpt lat="53.4850796" lon="-2.2421205"/><trkpt lat="53.4850486" lon="-2.242146"/><trkpt lat="53.4850036" lon="-2.2421858"/><trkpt lat="53.4848515" lon="-2.2422934"/><trkpt lat="53.4847642" lon="-2.2423749"/><trkpt lat="53.4844398" lon="-2.242632"/><trkpt lat="53.4840407" lon="-2.2429225"/><trkpt lat="53.4840169" lon="-2.2429399"/><trkpt lat="53.4839666" lon="-2.242976"/><trkpt lat="53.4833959" lon="-2.2433853"/><trkpt lat="53.4832408" lon="-2.2435103"/><trkpt lat="53.4831394" lon="-2.2435907"/></trkseg></trk><trk><name>Second City Crossing</name><desc>covered=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+level=-0.5
+name=Second City Crossing
+network=Metrolink
+oneway=yes
+railway=light_rail
+ref=2CC
+ref:GB:tfgm=SCL
+start_date=2015
+tracks=2
+voltage=750</desc><link href="http://osm.org/browse/way/1265535521"/><trkseg><trkpt lat="53.4870534" lon="-2.2417795"/><trkpt lat="53.4869529" lon="-2.2416771"/></trkseg></trk><trk><name>way/1265535523</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+level=-0.5
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=SCL
+voltage=750</desc><link href="http://osm.org/browse/way/1265535523"/><trkseg><trkpt lat="53.4868116" lon="-2.2416261"/><trkpt lat="53.4869212" lon="-2.2417237"/></trkseg></trk></gpx>
