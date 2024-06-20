@@ -1,0 +1,4748 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-05-23T15:24:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 10521889,
+      "nodes": [
+        2328748796,
+        2328748803,
+        5813712327
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 224037972,
+      "nodes": [
+        5813712329,
+        2328748793
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 510829419,
+      "nodes": [
+        2328748793,
+        6033068717
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981164,
+      "nodes": [
+        5139434693,
+        6030088946,
+        6033068755,
+        7260408758,
+        6033068761,
+        6030137063,
+        6033068765,
+        6033068764,
+        9038991157,
+        5355420733,
+        6030137083,
+        6030137068,
+        9038991151,
+        6037867182,
+        8307636413,
+        9038991149,
+        6037869075,
+        5355420737,
+        8506269556,
+        5355420735,
+        7315012403,
+        6030137065,
+        6030137069,
+        6030137066,
+        6030137785,
+        6030137070,
+        6032743203,
+        6030137786,
+        6030137075,
+        6033068769,
+        5355420736
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981165,
+      "nodes": [
+        5355420743,
+        6033068768,
+        6033068767,
+        6030137071,
+        5355420739,
+        5355420740,
+        6030137082,
+        5355420742,
+        7315012404,
+        6030137081,
+        8506269555,
+        5355420741,
+        6030137080,
+        8307636405,
+        9038991148,
+        6037867181,
+        5355420734,
+        9038991152,
+        8307636410,
+        6030137084,
+        6030137067,
+        9038991156,
+        6033068763,
+        6033068766,
+        6030137064,
+        6033068762,
+        7260408759,
+        6033068754,
+        6030088948,
+        6032654835,
+        6033068757,
+        5139424486
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981166,
+      "nodes": [
+        6032743199,
+        9105699248,
+        5355420747,
+        1293896820,
+        9105699247,
+        7320691915,
+        5355420746,
+        6032743200,
+        8243401755,
+        5355420753,
+        8243401751,
+        5355420755,
+        8243401747,
+        5355420744,
+        5355420757,
+        6037726924,
+        6033068772,
+        1295394382,
+        5355420751,
+        6033068770,
+        5355420743
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981167,
+      "nodes": [
+        5355420736,
+        6033068771,
+        7315059802,
+        5355420750,
+        6037726923,
+        5355420756,
+        5355420745,
+        8243401748,
+        5355420754,
+        8243401750,
+        5355420752,
+        8243401754,
+        5355420748,
+        6032743201,
+        7320691916,
+        9105699246,
+        7315059798,
+        5355420749,
+        6032743193,
+        6032743196
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981168,
+      "nodes": [
+        5355420760,
+        8509850873,
+        6032313724,
+        6032313731,
+        9499245909,
+        5355420761
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981169,
+      "nodes": [
+        7258131397,
+        5334040996,
+        6992962891
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981170,
+      "nodes": [
+        9655953070,
+        6032949050,
+        6030026308,
+        6032949052,
+        6032949054,
+        6032949053,
+        5355420807,
+        6032332634,
+        6030026307,
+        6037598950,
+        6030026309,
+        6032949057,
+        6030026314,
+        6032949055,
+        5355420806,
+        6030026310,
+        5355420797,
+        6032949064,
+        6030196168,
+        9105953742,
+        6810330506,
+        9105953739,
+        5355420800,
+        6030196163,
+        6032949061,
+        6032949060,
+        5355420802,
+        9105953744,
+        1673013443,
+        9105953746,
+        6037598749,
+        7315119444,
+        6030196160,
+        6032805609,
+        5355420792,
+        6030196167,
+        6030196161,
+        9105953761,
+        6030196155,
+        6030196156,
+        6032805611,
+        5355420790
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554981171,
+      "nodes": [
+        5355420813,
+        5355421121,
+        5355420819,
+        5355421123,
+        6032949026,
+        6032949027,
+        6032949029,
+        6032949028,
+        5355420817,
+        5355421125,
+        7320691905,
+        6035227927,
+        6032949025,
+        5355421127,
+        6032949023,
+        6992945965
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 640074911,
+      "nodes": [
+        6030137071,
+        6030137076,
+        6030137072,
+        6032743202,
+        6030137073,
+        6030137074,
+        6030137079,
+        6030137078,
+        6030137075
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "service": "siding",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352983,
+      "nodes": [
+        6992945965,
+        9499326448,
+        6030030163,
+        9499326447,
+        9499326446,
+        6035228207,
+        6036699790,
+        7315119441,
+        11403354813,
+        5355421131,
+        6032949016,
+        6032949021,
+        6036699842,
+        6032949017,
+        6035228215,
+        6030030164,
+        6032949013,
+        6035228223,
+        6030030167,
+        6032949012,
+        5355421132,
+        6036699347,
+        6030030168,
+        6992945976
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352984,
+      "nodes": [
+        5355420761,
+        6032313725,
+        6037726473,
+        9105683146,
+        7315079185,
+        9105774523,
+        9105774522,
+        6037726892,
+        9105953799,
+        8509824249,
+        5355420763,
+        6032313728,
+        6032313726,
+        5355420764,
+        6032313729,
+        5355420768,
+        6032313730,
+        5355420769,
+        9105762243,
+        5355420770,
+        6032805627,
+        6030156289,
+        9105953789,
+        6030156290,
+        6037726464,
+        6032805623,
+        6037726979,
+        6037727100,
+        6030156291,
+        5355420772,
+        6032805622,
+        6030156292,
+        9105953753,
+        7072597434,
+        6032805614,
+        9105953754,
+        6032805615,
+        9105953758,
+        5355420778
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352985,
+      "nodes": [
+        6032743196,
+        6032743194,
+        6032743197,
+        7315119445,
+        5355420760
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352986,
+      "nodes": [
+        6992945964,
+        9499326449,
+        6032949022,
+        5355421128,
+        6032949024,
+        6035227926,
+        7320691904,
+        5355421126,
+        5355420818,
+        6032949033,
+        6032949032,
+        6032949035,
+        6032949031,
+        6032949034,
+        6032949030,
+        5355421124,
+        5355420820,
+        5355421122,
+        5355420815
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352987,
+      "nodes": [
+        7258131394,
+        5355421135,
+        6032972707,
+        6032972706,
+        6032972708,
+        9346443008,
+        6032972709,
+        7315119439
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352989,
+      "nodes": [
+        5355420759,
+        7315119446,
+        6032743198,
+        6032743192,
+        6032743199
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352994,
+      "nodes": [
+        5355420778,
+        6032805612,
+        6030196157,
+        5355420779,
+        9105953762,
+        6030196158,
+        6030196166,
+        5355420781,
+        6032805610,
+        6030196159,
+        7315119443,
+        6037598750,
+        9105953745,
+        6037598924,
+        9105953743,
+        5355420803,
+        6032949059,
+        6032949062,
+        6030196164,
+        5355420801,
+        9105953740,
+        6810330496,
+        9105953741,
+        6030196169,
+        6032949063,
+        5355420799,
+        5355420809,
+        6030026311,
+        5355420810,
+        6030026313,
+        6032949056,
+        6030026312,
+        6037598951,
+        6030026315,
+        5355420811,
+        6032332633,
+        6032949058,
+        6030026316,
+        6032949051,
+        9655953071
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352995,
+      "nodes": [
+        5355420762,
+        9499245910,
+        6032313732,
+        6032313716,
+        8509850872,
+        5355420759
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747352999,
+      "nodes": [
+        5355420790,
+        6032805616,
+        6032805613,
+        9105953756,
+        5355420789,
+        7072597433,
+        9105953752,
+        6032805618,
+        5355420788,
+        6032805617,
+        6030156293,
+        6037726981,
+        6037727099,
+        6032805624,
+        6032805625,
+        6037726465,
+        6030156288,
+        9105953790,
+        6030156287,
+        6032805626,
+        5355420786,
+        9105762242,
+        6032805628,
+        6032313723,
+        5355420785,
+        5355420784,
+        6032313719,
+        9105953794,
+        6032313720,
+        6032313718,
+        5355420783,
+        9105953798,
+        6037726891,
+        9105774521,
+        9105774524,
+        7315079186,
+        9105683147,
+        6037726474,
+        6032313717,
+        8509824244,
+        5355420762
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747353005,
+      "nodes": [
+        6992962891,
+        6030030169,
+        6036699345,
+        5355421133,
+        6032949015,
+        6030030170,
+        6035228222,
+        6032949014,
+        6030030166,
+        6035228216,
+        6032949018,
+        6036699843,
+        6032949020,
+        6032949019,
+        11403354810,
+        5355421130,
+        11403354812,
+        7315119442,
+        9499326450,
+        6036699789,
+        6035228206,
+        6035227945,
+        6035227939,
+        6030030165,
+        6036979610,
+        6992945964
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777729660,
+      "nodes": [
+        7258131394,
+        7258131395
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "name": "Metrolink",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "service": "crossover",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777729661,
+      "nodes": [
+        7258131396,
+        7258131397
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "name": "Metrolink",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "service": "crossover",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777954940,
+      "nodes": [
+        6033068717,
+        6033068716,
+        6033068719,
+        4998100585,
+        4998100586,
+        6032654852,
+        4998100587,
+        5000789236,
+        9064510983,
+        5000789235,
+        9064510981,
+        5000789234,
+        9064510982,
+        7260408742
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777954942,
+      "nodes": [
+        7260408742,
+        6033068720,
+        5000789233,
+        6033068721,
+        4998100590,
+        6033068724,
+        4998100592,
+        6033068726,
+        6033068728,
+        5355420726,
+        9064511007,
+        5355420729,
+        8464819404,
+        7600401109,
+        8685553236,
+        7315119449,
+        8685553238,
+        7260408749,
+        6030042373,
+        5355420731,
+        6030042372,
+        6033068731,
+        5015446624,
+        6033068733,
+        6032654849,
+        6030042369,
+        6030042368,
+        7260408753,
+        5139434677,
+        5139434678,
+        9035816123,
+        9035816122,
+        9035816121,
+        9035816120,
+        5139434681,
+        9035816119,
+        9035816118,
+        9035816117,
+        6033068739,
+        5139434683,
+        5155271550,
+        6033068742,
+        6032654840,
+        6033068743,
+        6037867153,
+        9035792687,
+        6033068746,
+        9035792688,
+        8505157093,
+        9035792686,
+        5155271548,
+        9035792685,
+        5155271546,
+        7315119447,
+        7260408756,
+        6030088945,
+        6033068751,
+        8505157100,
+        5139434690,
+        6033068760,
+        9035816139,
+        6030088944,
+        6033068759,
+        9035792674,
+        6037867170,
+        8505157113,
+        6033068758,
+        6030088947,
+        6033068756,
+        5139434693
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 796659769,
+      "nodes": [
+        5139424486,
+        8243461159,
+        8505157114,
+        6037867169,
+        6037867207,
+        8505193423,
+        6030088949,
+        9035816140,
+        6030088943,
+        6033068753,
+        5155271539,
+        8505157099,
+        6033068752,
+        6030088942,
+        2264990347,
+        6032654836,
+        9035816138,
+        9035816137,
+        9035816136,
+        5155271536,
+        9035816135,
+        9035816134,
+        6037867154,
+        9035816132,
+        6033068741,
+        9035816133,
+        5155271537,
+        5139424477,
+        9035792708,
+        9035792709,
+        9035792710,
+        9035792711,
+        5139424476,
+        9035792712,
+        9035792713,
+        9035792714,
+        9035792715,
+        9035792716,
+        5139424472,
+        5015450567,
+        7260408750,
+        6033068734,
+        6030042374,
+        6032654847,
+        6033068732,
+        6032654848,
+        6033068730,
+        6030042371,
+        5355420732,
+        6030042370,
+        5015446622,
+        8685553239,
+        7315119448,
+        8685553237,
+        7600401108,
+        8464819403,
+        5355420728,
+        9064511006,
+        5355420727,
+        6033068729,
+        6033068727,
+        5000792516,
+        6033068723,
+        6033068725,
+        6033068722,
+        7351400819,
+        7351400820,
+        7351400822
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797039092,
+      "nodes": [
+        7315119439,
+        5355421136
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797039093,
+      "nodes": [
+        5355421138,
+        7315119440
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797039094,
+      "nodes": [
+        7258131395,
+        5334040997,
+        7258131397
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797039095,
+      "nodes": [
+        7315119440,
+        6032972710,
+        7258131395
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797039096,
+      "nodes": [
+        7258131396,
+        1520400812,
+        7258131394
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797039097,
+      "nodes": [
+        6992945976,
+        9346509157,
+        7258131396
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 832960160,
+      "nodes": [
+        7351400822,
+        9064510979,
+        5000792515,
+        9064510980,
+        5000792514,
+        9064510984,
+        5000792513,
+        5000792512,
+        5000792511,
+        5000792510,
+        5000792509,
+        5000792508,
+        5000792507,
+        6033068718,
+        2328748796
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 911654463,
+      "nodes": [
+        8464819404,
+        8464819403
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "service": "crossover",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050763010,
+      "nodes": [
+        9655953068,
+        6032949049,
+        5355420816,
+        6032949046,
+        6032949042,
+        6032949045,
+        6032949036,
+        6032949038,
+        6032949037,
+        5355420813
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050763011,
+      "nodes": [
+        9655953071,
+        9655953068
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "OUT",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050763012,
+      "nodes": [
+        9655953069,
+        9655953070
+      ],
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050763013,
+      "nodes": [
+        5355420815,
+        6032949040,
+        6032949041,
+        6032949039,
+        6032949044,
+        6032949043,
+        5355420814,
+        6032949047,
+        6032949048,
+        9655953069
+      ],
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "Metrolink",
+        "note": "Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route",
+        "oneway": "yes",
+        "railway": "light_rail",
+        "ref:GB:tfgm": "TPL",
+        "ref:GB:tfgm:direction": "IN",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1520400812,
+      "lat": 53.4672299,
+      "lon": -2.3462586
+    },
+    {
+      "type": "node",
+      "id": 5334040997,
+      "lat": 53.4672547,
+      "lon": -2.346224
+    },
+    {
+      "type": "node",
+      "id": 5355421135,
+      "lat": 53.4674317,
+      "lon": -2.3467354
+    },
+    {
+      "type": "node",
+      "id": 6032972706,
+      "lat": 53.4675402,
+      "lon": -2.3470434
+    },
+    {
+      "type": "node",
+      "id": 6032972707,
+      "lat": 53.4674945,
+      "lon": -2.3469067
+    },
+    {
+      "type": "node",
+      "id": 7258131394,
+      "lat": 53.4673064,
+      "lon": -2.3464388
+    },
+    {
+      "type": "node",
+      "id": 7258131395,
+      "lat": 53.4674797,
+      "lon": -2.3467465
+    },
+    {
+      "type": "node",
+      "id": 5334040996,
+      "lat": 53.4669661,
+      "lon": -2.3455492
+    },
+    {
+      "type": "node",
+      "id": 5355421130,
+      "lat": 53.4659681,
+      "lon": -2.3425815
+    },
+    {
+      "type": "node",
+      "id": 5355421131,
+      "lat": 53.4659388,
+      "lon": -2.3426055
+    },
+    {
+      "type": "node",
+      "id": 5355421132,
+      "lat": 53.4661252,
+      "lon": -2.3436763
+    },
+    {
+      "type": "node",
+      "id": 5355421133,
+      "lat": 53.4661495,
+      "lon": -2.3436333
+    },
+    {
+      "type": "node",
+      "id": 6030030163,
+      "lat": 53.4653532,
+      "lon": -2.3410884
+    },
+    {
+      "type": "node",
+      "id": 6030030164,
+      "lat": 53.4660394,
+      "lon": -2.3431918
+    },
+    {
+      "type": "node",
+      "id": 6030030165,
+      "lat": 53.4653917,
+      "lon": -2.3410777
+    },
+    {
+      "type": "node",
+      "id": 6030030166,
+      "lat": 53.4660726,
+      "lon": -2.3431898
+    },
+    {
+      "type": "node",
+      "id": 6030030167,
+      "lat": 53.4660652,
+      "lon": -2.3434747
+    },
+    {
+      "type": "node",
+      "id": 6030030168,
+      "lat": 53.466224,
+      "lon": -2.3439184
+    },
+    {
+      "type": "node",
+      "id": 6030030169,
+      "lat": 53.4662532,
+      "lon": -2.3438837
+    },
+    {
+      "type": "node",
+      "id": 6030030170,
+      "lat": 53.4660966,
+      "lon": -2.343459
+    },
+    {
+      "type": "node",
+      "id": 6032949012,
+      "lat": 53.4660887,
+      "lon": -2.3435675
+    },
+    {
+      "type": "node",
+      "id": 6032949013,
+      "lat": 53.4660431,
+      "lon": -2.3433071
+    },
+    {
+      "type": "node",
+      "id": 6032949014,
+      "lat": 53.4660751,
+      "lon": -2.3432725
+    },
+    {
+      "type": "node",
+      "id": 6032949015,
+      "lat": 53.4661146,
+      "lon": -2.3435281
+    },
+    {
+      "type": "node",
+      "id": 6032949016,
+      "lat": 53.465985,
+      "lon": -2.3427418
+    },
+    {
+      "type": "node",
+      "id": 6032949017,
+      "lat": 53.466031,
+      "lon": -2.3429994
+    },
+    {
+      "type": "node",
+      "id": 6032949018,
+      "lat": 53.4660659,
+      "lon": -2.343011
+    },
+    {
+      "type": "node",
+      "id": 6032949019,
+      "lat": 53.4660097,
+      "lon": -2.3426947
+    },
+    {
+      "type": "node",
+      "id": 6032949020,
+      "lat": 53.4660451,
+      "lon": -2.3428146
+    },
+    {
+      "type": "node",
+      "id": 6032949021,
+      "lat": 53.4660139,
+      "lon": -2.3428694
+    },
+    {
+      "type": "node",
+      "id": 6032949022,
+      "lat": 53.4648988,
+      "lon": -2.3397473
+    },
+    {
+      "type": "node",
+      "id": 6032949023,
+      "lat": 53.4648701,
+      "lon": -2.3397768
+    },
+    {
+      "type": "node",
+      "id": 6035227939,
+      "lat": 53.4654295,
+      "lon": -2.3411822
+    },
+    {
+      "type": "node",
+      "id": 6035227945,
+      "lat": 53.4654644,
+      "lon": -2.3412719
+    },
+    {
+      "type": "node",
+      "id": 6035228206,
+      "lat": 53.4655215,
+      "lon": -2.3414211
+    },
+    {
+      "type": "node",
+      "id": 6035228207,
+      "lat": 53.4654905,
+      "lon": -2.3414451
+    },
+    {
+      "type": "node",
+      "id": 6035228215,
+      "lat": 53.4660381,
+      "lon": -2.3430945
+    },
+    {
+      "type": "node",
+      "id": 6035228216,
+      "lat": 53.466073,
+      "lon": -2.343133
+    },
+    {
+      "type": "node",
+      "id": 6035228222,
+      "lat": 53.4660837,
+      "lon": -2.3433893
+    },
+    {
+      "type": "node",
+      "id": 6035228223,
+      "lat": 53.4660475,
+      "lon": -2.3433489
+    },
+    {
+      "type": "node",
+      "id": 6036699345,
+      "lat": 53.466209,
+      "lon": -2.3437867
+    },
+    {
+      "type": "node",
+      "id": 6036699347,
+      "lat": 53.4661847,
+      "lon": -2.3438205
+    },
+    {
+      "type": "node",
+      "id": 6036699789,
+      "lat": 53.4655828,
+      "lon": -2.3415845
+    },
+    {
+      "type": "node",
+      "id": 6036699790,
+      "lat": 53.4655567,
+      "lon": -2.3416133
+    },
+    {
+      "type": "node",
+      "id": 6036699842,
+      "lat": 53.4660182,
+      "lon": -2.342898
+    },
+    {
+      "type": "node",
+      "id": 6036699843,
+      "lat": 53.4660533,
+      "lon": -2.3428964
+    },
+    {
+      "type": "node",
+      "id": 6036979610,
+      "lat": 53.4653337,
+      "lon": -2.340929
+    },
+    {
+      "type": "node",
+      "id": 6992945964,
+      "lat": 53.4652568,
+      "lon": -2.340728
+    },
+    {
+      "type": "node",
+      "id": 6992945965,
+      "lat": 53.4652291,
+      "lon": -2.3407596
+    },
+    {
+      "type": "node",
+      "id": 6992945976,
+      "lat": 53.4663533,
+      "lon": -2.3442128
+    },
+    {
+      "type": "node",
+      "id": 6992962891,
+      "lat": 53.4663775,
+      "lon": -2.3441738
+    },
+    {
+      "type": "node",
+      "id": 7258131396,
+      "lat": 53.4671849,
+      "lon": -2.3461489
+    },
+    {
+      "type": "node",
+      "id": 7258131397,
+      "lat": 53.4670689,
+      "lon": -2.345789
+    },
+    {
+      "type": "node",
+      "id": 7315119441,
+      "lat": 53.4657417,
+      "lon": -2.3420965
+    },
+    {
+      "type": "node",
+      "id": 7315119442,
+      "lat": 53.4657672,
+      "lon": -2.3420591
+    },
+    {
+      "type": "node",
+      "id": 9346509157,
+      "lat": 53.4669488,
+      "lon": -2.3456032
+    },
+    {
+      "type": "node",
+      "id": 9499326446,
+      "lat": 53.4654263,
+      "lon": -2.3412836
+    },
+    {
+      "type": "node",
+      "id": 9499326447,
+      "lat": 53.4653959,
+      "lon": -2.3411906
+    },
+    {
+      "type": "node",
+      "id": 9499326448,
+      "lat": 53.4653051,
+      "lon": -2.3409589
+    },
+    {
+      "type": "node",
+      "id": 9499326449,
+      "lat": 53.465066,
+      "lon": -2.3402313
+    },
+    {
+      "type": "node",
+      "id": 9499326450,
+      "lat": 53.465621,
+      "lon": -2.3416812
+    },
+    {
+      "type": "node",
+      "id": 11403354810,
+      "lat": 53.4659837,
+      "lon": -2.3426238
+    },
+    {
+      "type": "node",
+      "id": 11403354812,
+      "lat": 53.4659211,
+      "lon": -2.3424594
+    },
+    {
+      "type": "node",
+      "id": 11403354813,
+      "lat": 53.4658937,
+      "lon": -2.3424891
+    },
+    {
+      "type": "node",
+      "id": 5355420813,
+      "lat": 53.4631321,
+      "lon": -2.3345418
+    },
+    {
+      "type": "node",
+      "id": 5355420814,
+      "lat": 53.4639663,
+      "lon": -2.3334477
+    },
+    {
+      "type": "node",
+      "id": 5355420815,
+      "lat": 53.4631654,
+      "lon": -2.3345662
+    },
+    {
+      "type": "node",
+      "id": 5355420817,
+      "lat": 53.4632945,
+      "lon": -2.3360941
+    },
+    {
+      "type": "node",
+      "id": 5355420818,
+      "lat": 53.4633189,
+      "lon": -2.3360638
+    },
+    {
+      "type": "node",
+      "id": 5355420819,
+      "lat": 53.4630689,
+      "lon": -2.3348972
+    },
+    {
+      "type": "node",
+      "id": 5355420820,
+      "lat": 53.4631106,
+      "lon": -2.3348981
+    },
+    {
+      "type": "node",
+      "id": 5355421121,
+      "lat": 53.4630959,
+      "lon": -2.3347109
+    },
+    {
+      "type": "node",
+      "id": 5355421122,
+      "lat": 53.4631307,
+      "lon": -2.334734
+    },
+    {
+      "type": "node",
+      "id": 5355421123,
+      "lat": 53.4630612,
+      "lon": -2.3350683
+    },
+    {
+      "type": "node",
+      "id": 5355421124,
+      "lat": 53.4631018,
+      "lon": -2.335068
+    },
+    {
+      "type": "node",
+      "id": 5355421125,
+      "lat": 53.4636085,
+      "lon": -2.3368098
+    },
+    {
+      "type": "node",
+      "id": 5355421126,
+      "lat": 53.4636364,
+      "lon": -2.3367835
+    },
+    {
+      "type": "node",
+      "id": 5355421127,
+      "lat": 53.4642998,
+      "lon": -2.3383917
+    },
+    {
+      "type": "node",
+      "id": 5355421128,
+      "lat": 53.4643264,
+      "lon": -2.3383594
+    },
+    {
+      "type": "node",
+      "id": 6032949024,
+      "lat": 53.4639863,
+      "lon": -2.3375787
+    },
+    {
+      "type": "node",
+      "id": 6032949025,
+      "lat": 53.4639615,
+      "lon": -2.3376149
+    },
+    {
+      "type": "node",
+      "id": 6032949026,
+      "lat": 53.4630641,
+      "lon": -2.3351848
+    },
+    {
+      "type": "node",
+      "id": 6032949027,
+      "lat": 53.4630697,
+      "lon": -2.3352988
+    },
+    {
+      "type": "node",
+      "id": 6032949028,
+      "lat": 53.4631863,
+      "lon": -2.3358352
+    },
+    {
+      "type": "node",
+      "id": 6032949029,
+      "lat": 53.4631072,
+      "lon": -2.3355509
+    },
+    {
+      "type": "node",
+      "id": 6032949030,
+      "lat": 53.4631032,
+      "lon": -2.3351781
+    },
+    {
+      "type": "node",
+      "id": 6032949031,
+      "lat": 53.463124,
+      "lon": -2.3354249
+    },
+    {
+      "type": "node",
+      "id": 6032949032,
+      "lat": 53.4631759,
+      "lon": -2.335677
+    },
+    {
+      "type": "node",
+      "id": 6032949033,
+      "lat": 53.4632174,
+      "lon": -2.3358057
+    },
+    {
+      "type": "node",
+      "id": 6032949034,
+      "lat": 53.4631104,
+      "lon": -2.3352961
+    },
+    {
+      "type": "node",
+      "id": 6032949035,
+      "lat": 53.4631464,
+      "lon": -2.3355469
+    },
+    {
+      "type": "node",
+      "id": 6032949036,
+      "lat": 53.4633539,
+      "lon": -2.3340328
+    },
+    {
+      "type": "node",
+      "id": 6032949037,
+      "lat": 53.4631903,
+      "lon": -2.3343506
+    },
+    {
+      "type": "node",
+      "id": 6032949038,
+      "lat": 53.4632629,
+      "lon": -2.334183
+    },
+    {
+      "type": "node",
+      "id": 6032949039,
+      "lat": 53.4633739,
+      "lon": -2.3340851
+    },
+    {
+      "type": "node",
+      "id": 6032949040,
+      "lat": 53.463223,
+      "lon": -2.3343842
+    },
+    {
+      "type": "node",
+      "id": 6032949041,
+      "lat": 53.4632901,
+      "lon": -2.3342232
+    },
+    {
+      "type": "node",
+      "id": 6032949042,
+      "lat": 53.4637068,
+      "lon": -2.3336519
+    },
+    {
+      "type": "node",
+      "id": 6032949043,
+      "lat": 53.4637228,
+      "lon": -2.3336989
+    },
+    {
+      "type": "node",
+      "id": 6032949044,
+      "lat": 53.4634697,
+      "lon": -2.3339698
+    },
+    {
+      "type": "node",
+      "id": 6032949045,
+      "lat": 53.4634641,
+      "lon": -2.3339054
+    },
+    {
+      "type": "node",
+      "id": 6032949046,
+      "lat": 53.4639503,
+      "lon": -2.3333931
+    },
+    {
+      "type": "node",
+      "id": 6035227926,
+      "lat": 53.463834,
+      "lon": -2.3372327
+    },
+    {
+      "type": "node",
+      "id": 6035227927,
+      "lat": 53.46382,
+      "lon": -2.3372923
+    },
+    {
+      "type": "node",
+      "id": 7320691904,
+      "lat": 53.4638094,
+      "lon": -2.3371774
+    },
+    {
+      "type": "node",
+      "id": 7320691905,
+      "lat": 53.4637839,
+      "lon": -2.3372085
+    },
+    {
+      "type": "node",
+      "id": 5355420807,
+      "lat": 53.4675226,
+      "lon": -2.3291963
+    },
+    {
+      "type": "node",
+      "id": 5355420811,
+      "lat": 53.4675145,
+      "lon": -2.3290989
+    },
+    {
+      "type": "node",
+      "id": 5355420816,
+      "lat": 53.4643506,
+      "lon": -2.3329621
+    },
+    {
+      "type": "node",
+      "id": 6030026308,
+      "lat": 53.4673144,
+      "lon": -2.3295091
+    },
+    {
+      "type": "node",
+      "id": 6030026315,
+      "lat": 53.4675472,
+      "lon": -2.3289785
+    },
+    {
+      "type": "node",
+      "id": 6030026316,
+      "lat": 53.4672979,
+      "lon": -2.3294593
+    },
+    {
+      "type": "node",
+      "id": 6032332633,
+      "lat": 53.4674767,
+      "lon": -2.3291996
+    },
+    {
+      "type": "node",
+      "id": 6032332634,
+      "lat": 53.4675575,
+      "lon": -2.3290889
+    },
+    {
+      "type": "node",
+      "id": 6032949047,
+      "lat": 53.4643711,
+      "lon": -2.3330042
+    },
+    {
+      "type": "node",
+      "id": 6032949048,
+      "lat": 53.4648509,
+      "lon": -2.3324463
+    },
+    {
+      "type": "node",
+      "id": 6032949049,
+      "lat": 53.4648294,
+      "lon": -2.3324007
+    },
+    {
+      "type": "node",
+      "id": 6032949050,
+      "lat": 53.4665243,
+      "lon": -2.3304507
+    },
+    {
+      "type": "node",
+      "id": 6032949051,
+      "lat": 53.4665043,
+      "lon": -2.3304038
+    },
+    {
+      "type": "node",
+      "id": 6032949052,
+      "lat": 53.46742,
+      "lon": -2.3293778
+    },
+    {
+      "type": "node",
+      "id": 6032949053,
+      "lat": 53.4674991,
+      "lon": -2.3292464
+    },
+    {
+      "type": "node",
+      "id": 6032949054,
+      "lat": 53.4674592,
+      "lon": -2.3293188
+    },
+    {
+      "type": "node",
+      "id": 6032949058,
+      "lat": 53.467428,
+      "lon": -2.3292933
+    },
+    {
+      "type": "node",
+      "id": 9655953068,
+      "lat": 53.4657156,
+      "lon": -2.3313392
+    },
+    {
+      "type": "node",
+      "id": 9655953069,
+      "lat": 53.4657364,
+      "lon": -2.3313904
+    },
+    {
+      "type": "node",
+      "id": 9655953070,
+      "lat": 53.4660475,
+      "lon": -2.3310193
+    },
+    {
+      "type": "node",
+      "id": 9655953071,
+      "lat": 53.4660273,
+      "lon": -2.3309695
+    },
+    {
+      "type": "node",
+      "id": 5355420778,
+      "lat": 53.4675234,
+      "lon": -2.3204935
+    },
+    {
+      "type": "node",
+      "id": 5355420790,
+      "lat": 53.4675578,
+      "lon": -2.3204792
+    },
+    {
+      "type": "node",
+      "id": 6032805616,
+      "lat": 53.4675158,
+      "lon": -2.3202201
+    },
+    {
+      "type": "node",
+      "id": 9105953758,
+      "lat": 53.4674862,
+      "lon": -2.3202326
+    },
+    {
+      "type": "node",
+      "id": 5355420764,
+      "lat": 53.4674567,
+      "lon": -2.3135219
+    },
+    {
+      "type": "node",
+      "id": 5355420768,
+      "lat": 53.4673997,
+      "lon": -2.3141363
+    },
+    {
+      "type": "node",
+      "id": 5355420769,
+      "lat": 53.4673758,
+      "lon": -2.3147617
+    },
+    {
+      "type": "node",
+      "id": 5355420770,
+      "lat": 53.4673916,
+      "lon": -2.3157555
+    },
+    {
+      "type": "node",
+      "id": 5355420772,
+      "lat": 53.4672839,
+      "lon": -2.31753
+    },
+    {
+      "type": "node",
+      "id": 5355420784,
+      "lat": 53.4674509,
+      "lon": -2.3138822
+    },
+    {
+      "type": "node",
+      "id": 5355420785,
+      "lat": 53.4674308,
+      "lon": -2.3141433
+    },
+    {
+      "type": "node",
+      "id": 5355420786,
+      "lat": 53.4674219,
+      "lon": -2.3157525
+    },
+    {
+      "type": "node",
+      "id": 5355420788,
+      "lat": 53.4673134,
+      "lon": -2.3177034
+    },
+    {
+      "type": "node",
+      "id": 5355420789,
+      "lat": 53.4674192,
+      "lon": -2.3192742
+    },
+    {
+      "type": "node",
+      "id": 6030156287,
+      "lat": 53.4674478,
+      "lon": -2.3167748
+    },
+    {
+      "type": "node",
+      "id": 6030156288,
+      "lat": 53.4674454,
+      "lon": -2.3170591
+    },
+    {
+      "type": "node",
+      "id": 6030156289,
+      "lat": 53.4674168,
+      "lon": -2.3167783
+    },
+    {
+      "type": "node",
+      "id": 6030156290,
+      "lat": 53.4674087,
+      "lon": -2.3170345
+    },
+    {
+      "type": "node",
+      "id": 6030156291,
+      "lat": 53.4673043,
+      "lon": -2.317428
+    },
+    {
+      "type": "node",
+      "id": 6030156292,
+      "lat": 53.467279,
+      "lon": -2.3177954
+    },
+    {
+      "type": "node",
+      "id": 6030156293,
+      "lat": 53.4673341,
+      "lon": -2.3174972
+    },
+    {
+      "type": "node",
+      "id": 6032313719,
+      "lat": 53.4674867,
+      "lon": -2.3135301
+    },
+    {
+      "type": "node",
+      "id": 6032313723,
+      "lat": 53.4674162,
+      "lon": -2.3143988
+    },
+    {
+      "type": "node",
+      "id": 6032313729,
+      "lat": 53.4674194,
+      "lon": -2.3138724
+    },
+    {
+      "type": "node",
+      "id": 6032313730,
+      "lat": 53.4673855,
+      "lon": -2.3143902
+    },
+    {
+      "type": "node",
+      "id": 6032805613,
+      "lat": 53.4674815,
+      "lon": -2.31995
+    },
+    {
+      "type": "node",
+      "id": 6032805614,
+      "lat": 53.4673866,
+      "lon": -2.3192776
+    },
+    {
+      "type": "node",
+      "id": 6032805615,
+      "lat": 53.4674455,
+      "lon": -2.3199561
+    },
+    {
+      "type": "node",
+      "id": 6032805617,
+      "lat": 53.467318,
+      "lon": -2.3175965
+    },
+    {
+      "type": "node",
+      "id": 6032805618,
+      "lat": 53.4673155,
+      "lon": -2.317803
+    },
+    {
+      "type": "node",
+      "id": 6032805622,
+      "lat": 53.4672756,
+      "lon": -2.3176536
+    },
+    {
+      "type": "node",
+      "id": 6032805623,
+      "lat": 53.4673865,
+      "lon": -2.3171604
+    },
+    {
+      "type": "node",
+      "id": 6032805624,
+      "lat": 53.4674148,
+      "lon": -2.3172238
+    },
+    {
+      "type": "node",
+      "id": 6032805625,
+      "lat": 53.4674236,
+      "lon": -2.3171859
+    },
+    {
+      "type": "node",
+      "id": 6032805626,
+      "lat": 53.4674352,
+      "lon": -2.3163278
+    },
+    {
+      "type": "node",
+      "id": 6032805627,
+      "lat": 53.4674031,
+      "lon": -2.3163272
+    },
+    {
+      "type": "node",
+      "id": 6032805628,
+      "lat": 53.4674061,
+      "lon": -2.3147638
+    },
+    {
+      "type": "node",
+      "id": 6037726464,
+      "lat": 53.4673939,
+      "lon": -2.3171191
+    },
+    {
+      "type": "node",
+      "id": 6037726465,
+      "lat": 53.4674341,
+      "lon": -2.3171248
+    },
+    {
+      "type": "node",
+      "id": 6037726979,
+      "lat": 53.467367,
+      "lon": -2.3172283
+    },
+    {
+      "type": "node",
+      "id": 6037726981,
+      "lat": 53.4673656,
+      "lon": -2.3173879
+    },
+    {
+      "type": "node",
+      "id": 6037727099,
+      "lat": 53.4673894,
+      "lon": -2.3173117
+    },
+    {
+      "type": "node",
+      "id": 6037727100,
+      "lat": 53.4673523,
+      "lon": -2.317272
+    },
+    {
+      "type": "node",
+      "id": 7072597433,
+      "lat": 53.4673812,
+      "lon": -2.3187368
+    },
+    {
+      "type": "node",
+      "id": 7072597434,
+      "lat": 53.4673494,
+      "lon": -2.3187414
+    },
+    {
+      "type": "node",
+      "id": 9105762242,
+      "lat": 53.4674118,
+      "lon": -2.3154138
+    },
+    {
+      "type": "node",
+      "id": 9105762243,
+      "lat": 53.4673814,
+      "lon": -2.3154155
+    },
+    {
+      "type": "node",
+      "id": 9105953752,
+      "lat": 53.4673238,
+      "lon": -2.3179717
+    },
+    {
+      "type": "node",
+      "id": 9105953753,
+      "lat": 53.4672927,
+      "lon": -2.3179723
+    },
+    {
+      "type": "node",
+      "id": 9105953754,
+      "lat": 53.4674144,
+      "lon": -2.3196216
+    },
+    {
+      "type": "node",
+      "id": 9105953756,
+      "lat": 53.4674455,
+      "lon": -2.3196145
+    },
+    {
+      "type": "node",
+      "id": 9105953789,
+      "lat": 53.4674151,
+      "lon": -2.3169149
+    },
+    {
+      "type": "node",
+      "id": 9105953790,
+      "lat": 53.467448,
+      "lon": -2.316918
+    },
+    {
+      "type": "node",
+      "id": 1293896820,
+      "lat": 53.4672883,
+      "lon": -2.3069399
+    },
+    {
+      "type": "node",
+      "id": 5355420747,
+      "lat": 53.4673107,
+      "lon": -2.3071521
+    },
+    {
+      "type": "node",
+      "id": 5355420749,
+      "lat": 53.4672796,
+      "lon": -2.3071559
+    },
+    {
+      "type": "node",
+      "id": 5355420759,
+      "lat": 53.4674388,
+      "lon": -2.3097001
+    },
+    {
+      "type": "node",
+      "id": 5355420760,
+      "lat": 53.4674103,
+      "lon": -2.3097051
+    },
+    {
+      "type": "node",
+      "id": 5355420761,
+      "lat": 53.4675095,
+      "lon": -2.3115903
+    },
+    {
+      "type": "node",
+      "id": 5355420762,
+      "lat": 53.4675414,
+      "lon": -2.3116053
+    },
+    {
+      "type": "node",
+      "id": 5355420763,
+      "lat": 53.4675141,
+      "lon": -2.3127902
+    },
+    {
+      "type": "node",
+      "id": 5355420783,
+      "lat": 53.4675504,
+      "lon": -2.3126265
+    },
+    {
+      "type": "node",
+      "id": 6032313716,
+      "lat": 53.4674584,
+      "lon": -2.3101797
+    },
+    {
+      "type": "node",
+      "id": 6032313717,
+      "lat": 53.4675537,
+      "lon": -2.3118699
+    },
+    {
+      "type": "node",
+      "id": 6032313718,
+      "lat": 53.4675447,
+      "lon": -2.3127893
+    },
+    {
+      "type": "node",
+      "id": 6032313720,
+      "lat": 53.4675243,
+      "lon": -2.3131017
+    },
+    {
+      "type": "node",
+      "id": 6032313724,
+      "lat": 53.467426,
+      "lon": -2.3101821
+    },
+    {
+      "type": "node",
+      "id": 6032313725,
+      "lat": 53.467519,
+      "lon": -2.3117779
+    },
+    {
+      "type": "node",
+      "id": 6032313726,
+      "lat": 53.4674748,
+      "lon": -2.3133098
+    },
+    {
+      "type": "node",
+      "id": 6032313728,
+      "lat": 53.4674949,
+      "lon": -2.3130955
+    },
+    {
+      "type": "node",
+      "id": 6032313731,
+      "lat": 53.4674402,
+      "lon": -2.3104755
+    },
+    {
+      "type": "node",
+      "id": 6032313732,
+      "lat": 53.4674722,
+      "lon": -2.3104702
+    },
+    {
+      "type": "node",
+      "id": 6032743192,
+      "lat": 53.4673861,
+      "lon": -2.3080456
+    },
+    {
+      "type": "node",
+      "id": 6032743193,
+      "lat": 53.4673067,
+      "lon": -2.3074202
+    },
+    {
+      "type": "node",
+      "id": 6032743194,
+      "lat": 53.4673518,
+      "lon": -2.3080476
+    },
+    {
+      "type": "node",
+      "id": 6032743196,
+      "lat": 53.4673406,
+      "lon": -2.3078504
+    },
+    {
+      "type": "node",
+      "id": 6032743197,
+      "lat": 53.4673696,
+      "lon": -2.3083907
+    },
+    {
+      "type": "node",
+      "id": 6032743198,
+      "lat": 53.4674078,
+      "lon": -2.3083891
+    },
+    {
+      "type": "node",
+      "id": 6032743199,
+      "lat": 53.4673734,
+      "lon": -2.3078431
+    },
+    {
+      "type": "node",
+      "id": 6037726473,
+      "lat": 53.4675277,
+      "lon": -2.3119904
+    },
+    {
+      "type": "node",
+      "id": 6037726474,
+      "lat": 53.4675574,
+      "lon": -2.3120067
+    },
+    {
+      "type": "node",
+      "id": 6037726892,
+      "lat": 53.4675298,
+      "lon": -2.3123076
+    },
+    {
+      "type": "node",
+      "id": 7315059798,
+      "lat": 53.4672569,
+      "lon": -2.3069483
+    },
+    {
+      "type": "node",
+      "id": 7315079185,
+      "lat": 53.4675281,
+      "lon": -2.3120729
+    },
+    {
+      "type": "node",
+      "id": 7315079186,
+      "lat": 53.4675582,
+      "lon": -2.3121179
+    },
+    {
+      "type": "node",
+      "id": 7315119445,
+      "lat": 53.4673937,
+      "lon": -2.3091411
+    },
+    {
+      "type": "node",
+      "id": 7315119446,
+      "lat": 53.4674261,
+      "lon": -2.3091363
+    },
+    {
+      "type": "node",
+      "id": 8509824244,
+      "lat": 53.4675496,
+      "lon": -2.3117756
+    },
+    {
+      "type": "node",
+      "id": 8509824249,
+      "lat": 53.4675216,
+      "lon": -2.312624
+    },
+    {
+      "type": "node",
+      "id": 8509850872,
+      "lat": 53.4674514,
+      "lon": -2.3099188
+    },
+    {
+      "type": "node",
+      "id": 8509850873,
+      "lat": 53.4674165,
+      "lon": -2.3099213
+    },
+    {
+      "type": "node",
+      "id": 9105683146,
+      "lat": 53.4675278,
+      "lon": -2.3120302
+    },
+    {
+      "type": "node",
+      "id": 9105683147,
+      "lat": 53.4675575,
+      "lon": -2.3120625
+    },
+    {
+      "type": "node",
+      "id": 9105699248,
+      "lat": 53.4673378,
+      "lon": -2.3074117
+    },
+    {
+      "type": "node",
+      "id": 9105774522,
+      "lat": 53.4675321,
+      "lon": -2.3122514
+    },
+    {
+      "type": "node",
+      "id": 9105774523,
+      "lat": 53.4675296,
+      "lon": -2.3121344
+    },
+    {
+      "type": "node",
+      "id": 9105953794,
+      "lat": 53.467505,
+      "lon": -2.3133156
+    },
+    {
+      "type": "node",
+      "id": 9105953799,
+      "lat": 53.4675219,
+      "lon": -2.3123883
+    },
+    {
+      "type": "node",
+      "id": 9499245909,
+      "lat": 53.4674889,
+      "lon": -2.3112573
+    },
+    {
+      "type": "node",
+      "id": 9499245910,
+      "lat": 53.4675181,
+      "lon": -2.3112501
+    },
+    {
+      "type": "node",
+      "id": 5355421136,
+      "lat": 53.4680868,
+      "lon": -2.3482753
+    },
+    {
+      "type": "node",
+      "id": 5355421138,
+      "lat": 53.4681406,
+      "lon": -2.3481676
+    },
+    {
+      "type": "node",
+      "id": 6032972708,
+      "lat": 53.4675786,
+      "lon": -2.3471557
+    },
+    {
+      "type": "node",
+      "id": 6032972709,
+      "lat": 53.4676249,
+      "lon": -2.3472656
+    },
+    {
+      "type": "node",
+      "id": 6032972710,
+      "lat": 53.4676202,
+      "lon": -2.3470694
+    },
+    {
+      "type": "node",
+      "id": 7315119439,
+      "lat": 53.467927,
+      "lon": -2.3479393
+    },
+    {
+      "type": "node",
+      "id": 7315119440,
+      "lat": 53.4679877,
+      "lon": -2.3478406
+    },
+    {
+      "type": "node",
+      "id": 9346443008,
+      "lat": 53.4675913,
+      "lon": -2.3471935
+    },
+    {
+      "type": "node",
+      "id": 5355420797,
+      "lat": 53.4682207,
+      "lon": -2.3269878
+    },
+    {
+      "type": "node",
+      "id": 5355420799,
+      "lat": 53.4681966,
+      "lon": -2.3269552
+    },
+    {
+      "type": "node",
+      "id": 5355420806,
+      "lat": 53.4677823,
+      "lon": -2.3280048
+    },
+    {
+      "type": "node",
+      "id": 5355420809,
+      "lat": 53.4678484,
+      "lon": -2.3277555
+    },
+    {
+      "type": "node",
+      "id": 5355420810,
+      "lat": 53.4676894,
+      "lon": -2.3281469
+    },
+    {
+      "type": "node",
+      "id": 6030026307,
+      "lat": 53.4675819,
+      "lon": -2.3289815
+    },
+    {
+      "type": "node",
+      "id": 6030026309,
+      "lat": 53.4676412,
+      "lon": -2.3285333
+    },
+    {
+      "type": "node",
+      "id": 6030026310,
+      "lat": 53.4678747,
+      "lon": -2.3277872
+    },
+    {
+      "type": "node",
+      "id": 6030026311,
+      "lat": 53.4677526,
+      "lon": -2.3279743
+    },
+    {
+      "type": "node",
+      "id": 6030026312,
+      "lat": 53.467604,
+      "lon": -2.3285297
+    },
+    {
+      "type": "node",
+      "id": 6030026313,
+      "lat": 53.467661,
+      "lon": -2.3282541
+    },
+    {
+      "type": "node",
+      "id": 6030026314,
+      "lat": 53.4676938,
+      "lon": -2.3282771
+    },
+    {
+      "type": "node",
+      "id": 6030196168,
+      "lat": 53.4683198,
+      "lon": -2.3267114
+    },
+    {
+      "type": "node",
+      "id": 6030196169,
+      "lat": 53.4682906,
+      "lon": -2.3266729
+    },
+    {
+      "type": "node",
+      "id": 6032949055,
+      "lat": 53.4677362,
+      "lon": -2.3281279
+    },
+    {
+      "type": "node",
+      "id": 6032949056,
+      "lat": 53.4676316,
+      "lon": -2.3283814
+    },
+    {
+      "type": "node",
+      "id": 6032949057,
+      "lat": 53.4676627,
+      "lon": -2.3283961
+    },
+    {
+      "type": "node",
+      "id": 6032949063,
+      "lat": 53.4682694,
+      "lon": -2.3267519
+    },
+    {
+      "type": "node",
+      "id": 6032949064,
+      "lat": 53.4683014,
+      "lon": -2.3267709
+    },
+    {
+      "type": "node",
+      "id": 6037598950,
+      "lat": 53.4676113,
+      "lon": -2.3287591
+    },
+    {
+      "type": "node",
+      "id": 6037598951,
+      "lat": 53.4675697,
+      "lon": -2.3288006
+    },
+    {
+      "type": "node",
+      "id": 6810330496,
+      "lat": 53.4683146,
+      "lon": -2.3265856
+    },
+    {
+      "type": "node",
+      "id": 6810330506,
+      "lat": 53.4683469,
+      "lon": -2.3265942
+    },
+    {
+      "type": "node",
+      "id": 9105953741,
+      "lat": 53.4682955,
+      "lon": -2.3266563
+    },
+    {
+      "type": "node",
+      "id": 9105953742,
+      "lat": 53.4683319,
+      "lon": -2.3266705
+    },
+    {
+      "type": "node",
+      "id": 1673013443,
+      "lat": 53.468309,
+      "lon": -2.3246903
+    },
+    {
+      "type": "node",
+      "id": 5355420779,
+      "lat": 53.4678162,
+      "lon": -2.3217356
+    },
+    {
+      "type": "node",
+      "id": 5355420781,
+      "lat": 53.4680758,
+      "lon": -2.3228427
+    },
+    {
+      "type": "node",
+      "id": 5355420792,
+      "lat": 53.4681102,
+      "lon": -2.322829
+    },
+    {
+      "type": "node",
+      "id": 5355420800,
+      "lat": 53.4683908,
+      "lon": -2.326394
+    },
+    {
+      "type": "node",
+      "id": 5355420801,
+      "lat": 53.4683566,
+      "lon": -2.3263747
+    },
+    {
+      "type": "node",
+      "id": 5355420802,
+      "lat": 53.4683956,
+      "lon": -2.325508
+    },
+    {
+      "type": "node",
+      "id": 5355420803,
+      "lat": 53.4683625,
+      "lon": -2.3255229
+    },
+    {
+      "type": "node",
+      "id": 6030196155,
+      "lat": 53.4678472,
+      "lon": -2.3217095
+    },
+    {
+      "type": "node",
+      "id": 6030196156,
+      "lat": 53.4677343,
+      "lon": -2.3212904
+    },
+    {
+      "type": "node",
+      "id": 6030196157,
+      "lat": 53.4677035,
+      "lon": -2.3213148
+    },
+    {
+      "type": "node",
+      "id": 6030196158,
+      "lat": 53.4679836,
+      "lon": -2.3223599
+    },
+    {
+      "type": "node",
+      "id": 6030196159,
+      "lat": 53.4681365,
+      "lon": -2.3233494
+    },
+    {
+      "type": "node",
+      "id": 6030196160,
+      "lat": 53.46817,
+      "lon": -2.3233433
+    },
+    {
+      "type": "node",
+      "id": 6030196161,
+      "lat": 53.4680131,
+      "lon": -2.3223377
+    },
+    {
+      "type": "node",
+      "id": 6030196163,
+      "lat": 53.4684106,
+      "lon": -2.326223
+    },
+    {
+      "type": "node",
+      "id": 6030196164,
+      "lat": 53.4683757,
+      "lon": -2.3262154
+    },
+    {
+      "type": "node",
+      "id": 6030196166,
+      "lat": 53.4680358,
+      "lon": -2.3226066
+    },
+    {
+      "type": "node",
+      "id": 6030196167,
+      "lat": 53.4680684,
+      "lon": -2.3225904
+    },
+    {
+      "type": "node",
+      "id": 6032805609,
+      "lat": 53.4681436,
+      "lon": -2.3230969
+    },
+    {
+      "type": "node",
+      "id": 6032805610,
+      "lat": 53.4681095,
+      "lon": -2.3231023
+    },
+    {
+      "type": "node",
+      "id": 6032805611,
+      "lat": 53.4676259,
+      "lon": -2.3208314
+    },
+    {
+      "type": "node",
+      "id": 6032805612,
+      "lat": 53.4675939,
+      "lon": -2.320854
+    },
+    {
+      "type": "node",
+      "id": 6032949059,
+      "lat": 53.4683839,
+      "lon": -2.3258075
+    },
+    {
+      "type": "node",
+      "id": 6032949060,
+      "lat": 53.468419,
+      "lon": -2.3257967
+    },
+    {
+      "type": "node",
+      "id": 6032949061,
+      "lat": 53.4684241,
+      "lon": -2.326029
+    },
+    {
+      "type": "node",
+      "id": 6032949062,
+      "lat": 53.4683863,
+      "lon": -2.3260353
+    },
+    {
+      "type": "node",
+      "id": 6037598749,
+      "lat": 53.468289,
+      "lon": -2.3245124
+    },
+    {
+      "type": "node",
+      "id": 6037598750,
+      "lat": 53.4682559,
+      "lon": -2.3245192
+    },
+    {
+      "type": "node",
+      "id": 6037598924,
+      "lat": 53.4682748,
+      "lon": -2.3246997
+    },
+    {
+      "type": "node",
+      "id": 7315119443,
+      "lat": 53.4681982,
+      "lon": -2.3239603
+    },
+    {
+      "type": "node",
+      "id": 7315119444,
+      "lat": 53.4682331,
+      "lon": -2.3239482
+    },
+    {
+      "type": "node",
+      "id": 9105953739,
+      "lat": 53.4683639,
+      "lon": -2.3265171
+    },
+    {
+      "type": "node",
+      "id": 9105953740,
+      "lat": 53.468329,
+      "lon": -2.3265136
+    },
+    {
+      "type": "node",
+      "id": 9105953743,
+      "lat": 53.4682851,
+      "lon": -2.3247902
+    },
+    {
+      "type": "node",
+      "id": 9105953744,
+      "lat": 53.4683185,
+      "lon": -2.3247822
+    },
+    {
+      "type": "node",
+      "id": 9105953745,
+      "lat": 53.4682645,
+      "lon": -2.3246092
+    },
+    {
+      "type": "node",
+      "id": 9105953746,
+      "lat": 53.4682994,
+      "lon": -2.3245984
+    },
+    {
+      "type": "node",
+      "id": 9105953761,
+      "lat": 53.4679361,
+      "lon": -2.3220392
+    },
+    {
+      "type": "node",
+      "id": 9105953762,
+      "lat": 53.467906,
+      "lon": -2.3220631
+    },
+    {
+      "type": "node",
+      "id": 6037726891,
+      "lat": 53.4675606,
+      "lon": -2.3122887
+    },
+    {
+      "type": "node",
+      "id": 9105774521,
+      "lat": 53.4675602,
+      "lon": -2.3122286
+    },
+    {
+      "type": "node",
+      "id": 9105774524,
+      "lat": 53.4675598,
+      "lon": -2.3121772
+    },
+    {
+      "type": "node",
+      "id": 9105953798,
+      "lat": 53.4675586,
+      "lon": -2.3123689
+    },
+    {
+      "type": "node",
+      "id": 1295394382,
+      "lat": 53.4675185,
+      "lon": -2.304946
+    },
+    {
+      "type": "node",
+      "id": 5355420744,
+      "lat": 53.4673372,
+      "lon": -2.3052999
+    },
+    {
+      "type": "node",
+      "id": 5355420745,
+      "lat": 53.4673209,
+      "lon": -2.3052706
+    },
+    {
+      "type": "node",
+      "id": 5355420746,
+      "lat": 53.4672456,
+      "lon": -2.306552
+    },
+    {
+      "type": "node",
+      "id": 5355420748,
+      "lat": 53.467201,
+      "lon": -2.3060898
+    },
+    {
+      "type": "node",
+      "id": 5355420750,
+      "lat": 53.4674558,
+      "lon": -2.3049767
+    },
+    {
+      "type": "node",
+      "id": 5355420751,
+      "lat": 53.4675537,
+      "lon": -2.3048999
+    },
+    {
+      "type": "node",
+      "id": 5355420752,
+      "lat": 53.4672093,
+      "lon": -2.305809
+    },
+    {
+      "type": "node",
+      "id": 5355420753,
+      "lat": 53.4672328,
+      "lon": -2.3058108
+    },
+    {
+      "type": "node",
+      "id": 5355420754,
+      "lat": 53.4672423,
+      "lon": -2.3055587
+    },
+    {
+      "type": "node",
+      "id": 5355420755,
+      "lat": 53.4672641,
+      "lon": -2.3055784
+    },
+    {
+      "type": "node",
+      "id": 5355420756,
+      "lat": 53.4673897,
+      "lon": -2.3050997
+    },
+    {
+      "type": "node",
+      "id": 5355420757,
+      "lat": 53.4674073,
+      "lon": -2.3051401
+    },
+    {
+      "type": "node",
+      "id": 6032743200,
+      "lat": 53.4672243,
+      "lon": -2.3060907
+    },
+    {
+      "type": "node",
+      "id": 6032743201,
+      "lat": 53.4672237,
+      "lon": -2.3065551
+    },
+    {
+      "type": "node",
+      "id": 6033068771,
+      "lat": 53.467539,
+      "lon": -2.3048511
+    },
+    {
+      "type": "node",
+      "id": 6033068772,
+      "lat": 53.4674759,
+      "lon": -2.305018
+    },
+    {
+      "type": "node",
+      "id": 6037726923,
+      "lat": 53.4674202,
+      "lon": -2.305031
+    },
+    {
+      "type": "node",
+      "id": 6037726924,
+      "lat": 53.467437,
+      "lon": -2.3050877
+    },
+    {
+      "type": "node",
+      "id": 7315059802,
+      "lat": 53.4674986,
+      "lon": -2.3049094
+    },
+    {
+      "type": "node",
+      "id": 7320691915,
+      "lat": 53.4672556,
+      "lon": -2.3066352
+    },
+    {
+      "type": "node",
+      "id": 7320691916,
+      "lat": 53.4672308,
+      "lon": -2.3066366
+    },
+    {
+      "type": "node",
+      "id": 8243401747,
+      "lat": 53.4672956,
+      "lon": -2.3054355
+    },
+    {
+      "type": "node",
+      "id": 8243401748,
+      "lat": 53.4672778,
+      "lon": -2.3054098
+    },
+    {
+      "type": "node",
+      "id": 8243401750,
+      "lat": 53.4672209,
+      "lon": -2.3056841
+    },
+    {
+      "type": "node",
+      "id": 8243401751,
+      "lat": 53.467244,
+      "lon": -2.3056937
+    },
+    {
+      "type": "node",
+      "id": 8243401754,
+      "lat": 53.4672022,
+      "lon": -2.3059507
+    },
+    {
+      "type": "node",
+      "id": 8243401755,
+      "lat": 53.4672259,
+      "lon": -2.3059528
+    },
+    {
+      "type": "node",
+      "id": 9105699246,
+      "lat": 53.4672405,
+      "lon": -2.3067511
+    },
+    {
+      "type": "node",
+      "id": 9105699247,
+      "lat": 53.4672684,
+      "lon": -2.3067552
+    },
+    {
+      "type": "node",
+      "id": 5015446622,
+      "lat": 53.4664868,
+      "lon": -2.2883604
+    },
+    {
+      "type": "node",
+      "id": 5015446624,
+      "lat": 53.4671353,
+      "lon": -2.2903691
+    },
+    {
+      "type": "node",
+      "id": 5355420731,
+      "lat": 53.4666327,
+      "lon": -2.2889885
+    },
+    {
+      "type": "node",
+      "id": 5355420732,
+      "lat": 53.46666,
+      "lon": -2.2889605
+    },
+    {
+      "type": "node",
+      "id": 6030042369,
+      "lat": 53.4675412,
+      "lon": -2.2913844
+    },
+    {
+      "type": "node",
+      "id": 6030042370,
+      "lat": 53.4665538,
+      "lon": -2.2886094
+    },
+    {
+      "type": "node",
+      "id": 6030042371,
+      "lat": 53.4667846,
+      "lon": -2.2893088
+    },
+    {
+      "type": "node",
+      "id": 6030042372,
+      "lat": 53.4667569,
+      "lon": -2.2893341
+    },
+    {
+      "type": "node",
+      "id": 6030042373,
+      "lat": 53.4665231,
+      "lon": -2.2886322
+    },
+    {
+      "type": "node",
+      "id": 6032654847,
+      "lat": 53.4674296,
+      "lon": -2.2910215
+    },
+    {
+      "type": "node",
+      "id": 6032654848,
+      "lat": 53.467163,
+      "lon": -2.2903416
+    },
+    {
+      "type": "node",
+      "id": 6032654849,
+      "lat": 53.4674021,
+      "lon": -2.2910518
+    },
+    {
+      "type": "node",
+      "id": 6033068730,
+      "lat": 53.4669119,
+      "lon": -2.2896523
+    },
+    {
+      "type": "node",
+      "id": 6033068731,
+      "lat": 53.4668848,
+      "lon": -2.2896785
+    },
+    {
+      "type": "node",
+      "id": 6033068732,
+      "lat": 53.4672931,
+      "lon": -2.2906883
+    },
+    {
+      "type": "node",
+      "id": 6033068733,
+      "lat": 53.4672656,
+      "lon": -2.2907184
+    },
+    {
+      "type": "node",
+      "id": 7260408749,
+      "lat": 53.4664561,
+      "lon": -2.2883819
+    },
+    {
+      "type": "node",
+      "id": 7315119448,
+      "lat": 53.4662513,
+      "lon": -2.2875404
+    },
+    {
+      "type": "node",
+      "id": 7315119449,
+      "lat": 53.466421,
+      "lon": -2.2882604
+    },
+    {
+      "type": "node",
+      "id": 7600401109,
+      "lat": 53.466128,
+      "lon": -2.2872212
+    },
+    {
+      "type": "node",
+      "id": 8685553236,
+      "lat": 53.4662127,
+      "lon": -2.287543
+    },
+    {
+      "type": "node",
+      "id": 8685553237,
+      "lat": 53.4662432,
+      "lon": -2.287514
+    },
+    {
+      "type": "node",
+      "id": 8685553238,
+      "lat": 53.4664288,
+      "lon": -2.2882891
+    },
+    {
+      "type": "node",
+      "id": 8685553239,
+      "lat": 53.4664606,
+      "lon": -2.288273
+    },
+    {
+      "type": "node",
+      "id": 4998100587,
+      "lat": 53.4645884,
+      "lon": -2.2808213
+    },
+    {
+      "type": "node",
+      "id": 4998100590,
+      "lat": 53.4647321,
+      "lon": -2.2831033
+    },
+    {
+      "type": "node",
+      "id": 4998100592,
+      "lat": 53.4648714,
+      "lon": -2.2835352
+    },
+    {
+      "type": "node",
+      "id": 5000789233,
+      "lat": 53.4646345,
+      "lon": -2.2826813
+    },
+    {
+      "type": "node",
+      "id": 5000789234,
+      "lat": 53.4645445,
+      "lon": -2.2818627
+    },
+    {
+      "type": "node",
+      "id": 5000789235,
+      "lat": 53.4645393,
+      "lon": -2.2815908
+    },
+    {
+      "type": "node",
+      "id": 5000789236,
+      "lat": 53.4645538,
+      "lon": -2.2812024
+    },
+    {
+      "type": "node",
+      "id": 5000792512,
+      "lat": 53.4646178,
+      "lon": -2.2808294
+    },
+    {
+      "type": "node",
+      "id": 5000792513,
+      "lat": 53.4645824,
+      "lon": -2.2812127
+    },
+    {
+      "type": "node",
+      "id": 5000792514,
+      "lat": 53.4645687,
+      "lon": -2.2815923
+    },
+    {
+      "type": "node",
+      "id": 5000792515,
+      "lat": 53.4645721,
+      "lon": -2.2818625
+    },
+    {
+      "type": "node",
+      "id": 5000792516,
+      "lat": 53.4648968,
+      "lon": -2.2835127
+    },
+    {
+      "type": "node",
+      "id": 5355420726,
+      "lat": 53.4658409,
+      "lon": -2.2862519
+    },
+    {
+      "type": "node",
+      "id": 5355420727,
+      "lat": 53.4658649,
+      "lon": -2.2862245
+    },
+    {
+      "type": "node",
+      "id": 5355420728,
+      "lat": 53.4659834,
+      "lon": -2.2865887
+    },
+    {
+      "type": "node",
+      "id": 5355420729,
+      "lat": 53.4659516,
+      "lon": -2.2866094
+    },
+    {
+      "type": "node",
+      "id": 6033068720,
+      "lat": 53.4645975,
+      "lon": -2.2824583
+    },
+    {
+      "type": "node",
+      "id": 6033068721,
+      "lat": 53.4646881,
+      "lon": -2.28294
+    },
+    {
+      "type": "node",
+      "id": 6033068722,
+      "lat": 53.4647172,
+      "lon": -2.2829192
+    },
+    {
+      "type": "node",
+      "id": 6033068723,
+      "lat": 53.4648114,
+      "lon": -2.2832606
+    },
+    {
+      "type": "node",
+      "id": 6033068724,
+      "lat": 53.4647855,
+      "lon": -2.2832848
+    },
+    {
+      "type": "node",
+      "id": 6033068725,
+      "lat": 53.46476,
+      "lon": -2.2830775
+    },
+    {
+      "type": "node",
+      "id": 6033068726,
+      "lat": 53.4654569,
+      "lon": -2.2851475
+    },
+    {
+      "type": "node",
+      "id": 6033068727,
+      "lat": 53.4654817,
+      "lon": -2.2851207
+    },
+    {
+      "type": "node",
+      "id": 6033068728,
+      "lat": 53.4657206,
+      "lon": -2.2859053
+    },
+    {
+      "type": "node",
+      "id": 6033068729,
+      "lat": 53.4657465,
+      "lon": -2.2858818
+    },
+    {
+      "type": "node",
+      "id": 7260408742,
+      "lat": 53.4645686,
+      "lon": -2.2822257
+    },
+    {
+      "type": "node",
+      "id": 7351400819,
+      "lat": 53.4646627,
+      "lon": -2.2826695
+    },
+    {
+      "type": "node",
+      "id": 7351400820,
+      "lat": 53.4646254,
+      "lon": -2.2824346
+    },
+    {
+      "type": "node",
+      "id": 7351400822,
+      "lat": 53.4645979,
+      "lon": -2.2822163
+    },
+    {
+      "type": "node",
+      "id": 7600401108,
+      "lat": 53.4661552,
+      "lon": -2.2872011
+    },
+    {
+      "type": "node",
+      "id": 8464819403,
+      "lat": 53.4660881,
+      "lon": -2.2869569
+    },
+    {
+      "type": "node",
+      "id": 8464819404,
+      "lat": 53.46611,
+      "lon": -2.2871652
+    },
+    {
+      "type": "node",
+      "id": 9064510979,
+      "lat": 53.464582,
+      "lon": -2.28204
+    },
+    {
+      "type": "node",
+      "id": 9064510980,
+      "lat": 53.4645686,
+      "lon": -2.2817275
+    },
+    {
+      "type": "node",
+      "id": 9064510981,
+      "lat": 53.4645405,
+      "lon": -2.2817268
+    },
+    {
+      "type": "node",
+      "id": 9064510982,
+      "lat": 53.4645541,
+      "lon": -2.2820446
+    },
+    {
+      "type": "node",
+      "id": 9064510983,
+      "lat": 53.4645428,
+      "lon": -2.2813971
+    },
+    {
+      "type": "node",
+      "id": 9064510984,
+      "lat": 53.4645735,
+      "lon": -2.2814018
+    },
+    {
+      "type": "node",
+      "id": 9064511006,
+      "lat": 53.4659259,
+      "lon": -2.2864062
+    },
+    {
+      "type": "node",
+      "id": 9064511007,
+      "lat": 53.4658982,
+      "lon": -2.28643
+    },
+    {
+      "type": "node",
+      "id": 2328748793,
+      "lat": 53.46493,
+      "lon": -2.2791167
+    },
+    {
+      "type": "node",
+      "id": 2328748796,
+      "lat": 53.4649841,
+      "lon": -2.2791975
+    },
+    {
+      "type": "node",
+      "id": 2328748803,
+      "lat": 53.4650216,
+      "lon": -2.2790072
+    },
+    {
+      "type": "node",
+      "id": 4998100585,
+      "lat": 53.464794,
+      "lon": -2.2797701
+    },
+    {
+      "type": "node",
+      "id": 4998100586,
+      "lat": 53.4647298,
+      "lon": -2.2800758
+    },
+    {
+      "type": "node",
+      "id": 5000792507,
+      "lat": 53.4649258,
+      "lon": -2.2794495
+    },
+    {
+      "type": "node",
+      "id": 5000792508,
+      "lat": 53.4648584,
+      "lon": -2.2796832
+    },
+    {
+      "type": "node",
+      "id": 5000792509,
+      "lat": 53.4648283,
+      "lon": -2.2797919
+    },
+    {
+      "type": "node",
+      "id": 5000792510,
+      "lat": 53.4647594,
+      "lon": -2.2800911
+    },
+    {
+      "type": "node",
+      "id": 5000792511,
+      "lat": 53.4646714,
+      "lon": -2.280513
+    },
+    {
+      "type": "node",
+      "id": 5813712327,
+      "lat": 53.4651008,
+      "lon": -2.2786458
+    },
+    {
+      "type": "node",
+      "id": 5813712329,
+      "lat": 53.4650324,
+      "lon": -2.2786183
+    },
+    {
+      "type": "node",
+      "id": 6032654852,
+      "lat": 53.4646429,
+      "lon": -2.2804912
+    },
+    {
+      "type": "node",
+      "id": 6033068716,
+      "lat": 53.4648533,
+      "lon": -2.2794894
+    },
+    {
+      "type": "node",
+      "id": 6033068717,
+      "lat": 53.464902,
+      "lon": -2.2792641
+    },
+    {
+      "type": "node",
+      "id": 6033068718,
+      "lat": 53.4649571,
+      "lon": -2.2793352
+    },
+    {
+      "type": "node",
+      "id": 6033068719,
+      "lat": 53.4648178,
+      "lon": -2.2796604
+    },
+    {
+      "type": "node",
+      "id": 5355420733,
+      "lat": 53.4698861,
+      "lon": -2.3024715
+    },
+    {
+      "type": "node",
+      "id": 5355420734,
+      "lat": 53.4699344,
+      "lon": -2.3027528
+    },
+    {
+      "type": "node",
+      "id": 5355420735,
+      "lat": 53.4697926,
+      "lon": -2.3030732
+    },
+    {
+      "type": "node",
+      "id": 5355420736,
+      "lat": 53.4677073,
+      "lon": -2.3046426
+    },
+    {
+      "type": "node",
+      "id": 5355420737,
+      "lat": 53.4698386,
+      "lon": -2.3029811
+    },
+    {
+      "type": "node",
+      "id": 5355420739,
+      "lat": 53.4696583,
+      "lon": -2.3033
+    },
+    {
+      "type": "node",
+      "id": 5355420740,
+      "lat": 53.469718,
+      "lon": -2.303253
+    },
+    {
+      "type": "node",
+      "id": 5355420741,
+      "lat": 53.4698779,
+      "lon": -2.3030077
+    },
+    {
+      "type": "node",
+      "id": 5355420742,
+      "lat": 53.4697799,
+      "lon": -2.303187
+    },
+    {
+      "type": "node",
+      "id": 5355420743,
+      "lat": 53.4677286,
+      "lon": -2.3047304
+    },
+    {
+      "type": "node",
+      "id": 6030137063,
+      "lat": 53.4696328,
+      "lon": -2.3013467
+    },
+    {
+      "type": "node",
+      "id": 6030137064,
+      "lat": 53.4696591,
+      "lon": -2.301318
+    },
+    {
+      "type": "node",
+      "id": 6030137065,
+      "lat": 53.4697414,
+      "lon": -2.3031615
+    },
+    {
+      "type": "node",
+      "id": 6030137066,
+      "lat": 53.4696429,
+      "lon": -2.3032491
+    },
+    {
+      "type": "node",
+      "id": 6030137067,
+      "lat": 53.4699227,
+      "lon": -2.3024698
+    },
+    {
+      "type": "node",
+      "id": 6030137068,
+      "lat": 53.4698962,
+      "lon": -2.3026916
+    },
+    {
+      "type": "node",
+      "id": 6030137069,
+      "lat": 53.4696963,
+      "lon": -2.3032089
+    },
+    {
+      "type": "node",
+      "id": 6030137070,
+      "lat": 53.4695256,
+      "lon": -2.3033187
+    },
+    {
+      "type": "node",
+      "id": 6030137071,
+      "lat": 53.4695846,
+      "lon": -2.3033511
+    },
+    {
+      "type": "node",
+      "id": 6030137072,
+      "lat": 53.4694405,
+      "lon": -2.3034134
+    },
+    {
+      "type": "node",
+      "id": 6030137073,
+      "lat": 53.4692636,
+      "lon": -2.3035184
+    },
+    {
+      "type": "node",
+      "id": 6030137074,
+      "lat": 53.4682769,
+      "lon": -2.3042529
+    },
+    {
+      "type": "node",
+      "id": 6030137075,
+      "lat": 53.4680566,
+      "lon": -2.3043653
+    },
+    {
+      "type": "node",
+      "id": 6030137076,
+      "lat": 53.4695015,
+      "lon": -2.3033904
+    },
+    {
+      "type": "node",
+      "id": 6030137078,
+      "lat": 53.4681829,
+      "lon": -2.3043082
+    },
+    {
+      "type": "node",
+      "id": 6030137079,
+      "lat": 53.4682343,
+      "lon": -2.3042825
+    },
+    {
+      "type": "node",
+      "id": 6030137080,
+      "lat": 53.4699016,
+      "lon": -2.3029266
+    },
+    {
+      "type": "node",
+      "id": 6030137081,
+      "lat": 53.4698375,
+      "lon": -2.3030938
+    },
+    {
+      "type": "node",
+      "id": 6030137082,
+      "lat": 53.469754,
+      "lon": -2.3032172
+    },
+    {
+      "type": "node",
+      "id": 6030137083,
+      "lat": 53.4698954,
+      "lon": -2.3025827
+    },
+    {
+      "type": "node",
+      "id": 6030137084,
+      "lat": 53.4699372,
+      "lon": -2.3026083
+    },
+    {
+      "type": "node",
+      "id": 6030137785,
+      "lat": 53.4695847,
+      "lon": -2.3032846
+    },
+    {
+      "type": "node",
+      "id": 6030137786,
+      "lat": 53.4692497,
+      "lon": -2.3034719
+    },
+    {
+      "type": "node",
+      "id": 6032743202,
+      "lat": 53.4693583,
+      "lon": -2.303459
+    },
+    {
+      "type": "node",
+      "id": 6032743203,
+      "lat": 53.4694186,
+      "lon": -2.3033718
+    },
+    {
+      "type": "node",
+      "id": 6033068763,
+      "lat": 53.4698952,
+      "lon": -2.3023358
+    },
+    {
+      "type": "node",
+      "id": 6033068764,
+      "lat": 53.4698644,
+      "lon": -2.3023525
+    },
+    {
+      "type": "node",
+      "id": 6033068765,
+      "lat": 53.4697683,
+      "lon": -2.3019261
+    },
+    {
+      "type": "node",
+      "id": 6033068766,
+      "lat": 53.4697974,
+      "lon": -2.3018986
+    },
+    {
+      "type": "node",
+      "id": 6033068767,
+      "lat": 53.4694745,
+      "lon": -2.3034329
+    },
+    {
+      "type": "node",
+      "id": 6033068768,
+      "lat": 53.4693412,
+      "lon": -2.3035294
+    },
+    {
+      "type": "node",
+      "id": 6033068769,
+      "lat": 53.467798,
+      "lon": -2.304556
+    },
+    {
+      "type": "node",
+      "id": 6033068770,
+      "lat": 53.4676352,
+      "lon": -2.3048148
+    },
+    {
+      "type": "node",
+      "id": 6037867181,
+      "lat": 53.4699305,
+      "lon": -2.3027893
+    },
+    {
+      "type": "node",
+      "id": 6037867182,
+      "lat": 53.4698926,
+      "lon": -2.3027406
+    },
+    {
+      "type": "node",
+      "id": 6037869075,
+      "lat": 53.4698728,
+      "lon": -2.3028609
+    },
+    {
+      "type": "node",
+      "id": 7315012403,
+      "lat": 53.4697748,
+      "lon": -2.3031101
+    },
+    {
+      "type": "node",
+      "id": 7315012404,
+      "lat": 53.4698104,
+      "lon": -2.3031422
+    },
+    {
+      "type": "node",
+      "id": 8307636405,
+      "lat": 53.4699176,
+      "lon": -2.3028623
+    },
+    {
+      "type": "node",
+      "id": 8307636410,
+      "lat": 53.4699374,
+      "lon": -2.3026832
+    },
+    {
+      "type": "node",
+      "id": 8307636413,
+      "lat": 53.4698837,
+      "lon": -2.3027947
+    },
+    {
+      "type": "node",
+      "id": 8506269555,
+      "lat": 53.4698529,
+      "lon": -2.303061
+    },
+    {
+      "type": "node",
+      "id": 8506269556,
+      "lat": 53.4698154,
+      "lon": -2.3030275
+    },
+    {
+      "type": "node",
+      "id": 9038991148,
+      "lat": 53.4699201,
+      "lon": -2.3028479
+    },
+    {
+      "type": "node",
+      "id": 9038991149,
+      "lat": 53.4698749,
+      "lon": -2.3028484
+    },
+    {
+      "type": "node",
+      "id": 9038991151,
+      "lat": 53.4698935,
+      "lon": -2.3027282
+    },
+    {
+      "type": "node",
+      "id": 9038991152,
+      "lat": 53.4699353,
+      "lon": -2.3027322
+    },
+    {
+      "type": "node",
+      "id": 9038991156,
+      "lat": 53.4698991,
+      "lon": -2.3023549
+    },
+    {
+      "type": "node",
+      "id": 9038991157,
+      "lat": 53.4698687,
+      "lon": -2.3023758
+    },
+    {
+      "type": "node",
+      "id": 2264990347,
+      "lat": 53.4686569,
+      "lon": -2.2968176
+    },
+    {
+      "type": "node",
+      "id": 5139424472,
+      "lat": 53.468551,
+      "lon": -2.2940017
+    },
+    {
+      "type": "node",
+      "id": 5139424476,
+      "lat": 53.4686432,
+      "lon": -2.2945529
+    },
+    {
+      "type": "node",
+      "id": 5139424477,
+      "lat": 53.4685215,
+      "lon": -2.2950202
+    },
+    {
+      "type": "node",
+      "id": 5139424486,
+      "lat": 53.4689009,
+      "lon": -2.298229
+    },
+    {
+      "type": "node",
+      "id": 5139434678,
+      "lat": 53.4685278,
+      "lon": -2.294043
+    },
+    {
+      "type": "node",
+      "id": 5139434681,
+      "lat": 53.4686033,
+      "lon": -2.2944971
+    },
+    {
+      "type": "node",
+      "id": 5139434683,
+      "lat": 53.4684911,
+      "lon": -2.2949874
+    },
+    {
+      "type": "node",
+      "id": 5139434690,
+      "lat": 53.468847,
+      "lon": -2.2975865
+    },
+    {
+      "type": "node",
+      "id": 5139434693,
+      "lat": 53.4688824,
+      "lon": -2.2984282
+    },
+    {
+      "type": "node",
+      "id": 5155271536,
+      "lat": 53.4683443,
+      "lon": -2.2958573
+    },
+    {
+      "type": "node",
+      "id": 5155271537,
+      "lat": 53.4684188,
+      "lon": -2.2952777
+    },
+    {
+      "type": "node",
+      "id": 5155271539,
+      "lat": 53.4688943,
+      "lon": -2.2974985
+    },
+    {
+      "type": "node",
+      "id": 5155271546,
+      "lat": 53.468383,
+      "lon": -2.2962846
+    },
+    {
+      "type": "node",
+      "id": 5155271548,
+      "lat": 53.4683129,
+      "lon": -2.2960757
+    },
+    {
+      "type": "node",
+      "id": 5155271550,
+      "lat": 53.4683883,
+      "lon": -2.295245
+    },
+    {
+      "type": "node",
+      "id": 6030088942,
+      "lat": 53.468849,
+      "lon": -2.2973443
+    },
+    {
+      "type": "node",
+      "id": 6030088943,
+      "lat": 53.4689204,
+      "lon": -2.2976731
+    },
+    {
+      "type": "node",
+      "id": 6030088944,
+      "lat": 53.4688768,
+      "lon": -2.2978158
+    },
+    {
+      "type": "node",
+      "id": 6030088945,
+      "lat": 53.4687891,
+      "lon": -2.2974006
+    },
+    {
+      "type": "node",
+      "id": 6030088946,
+      "lat": 53.4689113,
+      "lon": -2.2985493
+    },
+    {
+      "type": "node",
+      "id": 6030088947,
+      "lat": 53.4688629,
+      "lon": -2.298228
+    },
+    {
+      "type": "node",
+      "id": 6030088948,
+      "lat": 53.4689429,
+      "lon": -2.2985262
+    },
+    {
+      "type": "node",
+      "id": 6030088949,
+      "lat": 53.4689223,
+      "lon": -2.2978179
+    },
+    {
+      "type": "node",
+      "id": 6032654835,
+      "lat": 53.4689187,
+      "lon": -2.2984168
+    },
+    {
+      "type": "node",
+      "id": 6032654836,
+      "lat": 53.4684529,
+      "lon": -2.2962584
+    },
+    {
+      "type": "node",
+      "id": 6032654840,
+      "lat": 53.4683173,
+      "lon": -2.2954405
+    },
+    {
+      "type": "node",
+      "id": 6033068739,
+      "lat": 53.4685339,
+      "lon": -2.2948732
+    },
+    {
+      "type": "node",
+      "id": 6033068741,
+      "lat": 53.4683752,
+      "lon": -2.2954117
+    },
+    {
+      "type": "node",
+      "id": 6033068742,
+      "lat": 53.4683497,
+      "lon": -2.2953412
+    },
+    {
+      "type": "node",
+      "id": 6033068743,
+      "lat": 53.4682926,
+      "lon": -2.2955418
+    },
+    {
+      "type": "node",
+      "id": 6033068746,
+      "lat": 53.4682734,
+      "lon": -2.2957426
+    },
+    {
+      "type": "node",
+      "id": 6033068751,
+      "lat": 53.4688203,
+      "lon": -2.2974931
+    },
+    {
+      "type": "node",
+      "id": 6033068752,
+      "lat": 53.468883,
+      "lon": -2.2974505
+    },
+    {
+      "type": "node",
+      "id": 6033068753,
+      "lat": 53.4689097,
+      "lon": -2.2975826
+    },
+    {
+      "type": "node",
+      "id": 6033068754,
+      "lat": 53.4689857,
+      "lon": -2.2987007
+    },
+    {
+      "type": "node",
+      "id": 6033068755,
+      "lat": 53.4689558,
+      "lon": -2.2987232
+    },
+    {
+      "type": "node",
+      "id": 6033068756,
+      "lat": 53.468871,
+      "lon": -2.2983408
+    },
+    {
+      "type": "node",
+      "id": 6033068757,
+      "lat": 53.4689081,
+      "lon": -2.2983355
+    },
+    {
+      "type": "node",
+      "id": 6033068758,
+      "lat": 53.4688618,
+      "lon": -2.2981663
+    },
+    {
+      "type": "node",
+      "id": 6033068759,
+      "lat": 53.468876,
+      "lon": -2.2978924
+    },
+    {
+      "type": "node",
+      "id": 6033068760,
+      "lat": 53.4688664,
+      "lon": -2.2976999
+    },
+    {
+      "type": "node",
+      "id": 6033068761,
+      "lat": 53.4692494,
+      "lon": -2.2998427
+    },
+    {
+      "type": "node",
+      "id": 6033068762,
+      "lat": 53.4692793,
+      "lon": -2.2998192
+    },
+    {
+      "type": "node",
+      "id": 6037867153,
+      "lat": 53.4682868,
+      "lon": -2.2955828
+    },
+    {
+      "type": "node",
+      "id": 6037867154,
+      "lat": 53.4683405,
+      "lon": -2.2956073
+    },
+    {
+      "type": "node",
+      "id": 6037867169,
+      "lat": 53.4689114,
+      "lon": -2.2980683
+    },
+    {
+      "type": "node",
+      "id": 6037867170,
+      "lat": 53.4688676,
+      "lon": -2.2980393
+    },
+    {
+      "type": "node",
+      "id": 6037867207,
+      "lat": 53.4689147,
+      "lon": -2.2979743
+    },
+    {
+      "type": "node",
+      "id": 7260408756,
+      "lat": 53.4687152,
+      "lon": -2.297188
+    },
+    {
+      "type": "node",
+      "id": 7260408758,
+      "lat": 53.4690253,
+      "lon": -2.2989933
+    },
+    {
+      "type": "node",
+      "id": 7260408759,
+      "lat": 53.4690547,
+      "lon": -2.2989726
+    },
+    {
+      "type": "node",
+      "id": 7315119447,
+      "lat": 53.4685993,
+      "lon": -2.2968682
+    },
+    {
+      "type": "node",
+      "id": 8243461159,
+      "lat": 53.4689025,
+      "lon": -2.2981707
+    },
+    {
+      "type": "node",
+      "id": 8505157093,
+      "lat": 53.4682778,
+      "lon": -2.2958653
+    },
+    {
+      "type": "node",
+      "id": 8505157099,
+      "lat": 53.4688884,
+      "lon": -2.2974735
+    },
+    {
+      "type": "node",
+      "id": 8505157100,
+      "lat": 53.4688267,
+      "lon": -2.2975138
+    },
+    {
+      "type": "node",
+      "id": 8505157113,
+      "lat": 53.4688658,
+      "lon": -2.298114
+    },
+    {
+      "type": "node",
+      "id": 8505157114,
+      "lat": 53.4689078,
+      "lon": -2.2981322
+    },
+    {
+      "type": "node",
+      "id": 8505193423,
+      "lat": 53.4689158,
+      "lon": -2.2979479
+    },
+    {
+      "type": "node",
+      "id": 9035792674,
+      "lat": 53.4688694,
+      "lon": -2.2980087
+    },
+    {
+      "type": "node",
+      "id": 9035792685,
+      "lat": 53.468344,
+      "lon": -2.2961839
+    },
+    {
+      "type": "node",
+      "id": 9035792686,
+      "lat": 53.4682918,
+      "lon": -2.2959722
+    },
+    {
+      "type": "node",
+      "id": 9035792687,
+      "lat": 53.4682774,
+      "lon": -2.2956621
+    },
+    {
+      "type": "node",
+      "id": 9035792688,
+      "lat": 53.468274,
+      "lon": -2.2958042
+    },
+    {
+      "type": "node",
+      "id": 9035792708,
+      "lat": 53.4685551,
+      "lon": -2.2949323
+    },
+    {
+      "type": "node",
+      "id": 9035792709,
+      "lat": 53.4685869,
+      "lon": -2.2948447
+    },
+    {
+      "type": "node",
+      "id": 9035792710,
+      "lat": 53.4686133,
+      "lon": -2.2947537
+    },
+    {
+      "type": "node",
+      "id": 9035792711,
+      "lat": 53.4686337,
+      "lon": -2.2946554
+    },
+    {
+      "type": "node",
+      "id": 9035792712,
+      "lat": 53.4686449,
+      "lon": -2.2944555
+    },
+    {
+      "type": "node",
+      "id": 9035792713,
+      "lat": 53.4686396,
+      "lon": -2.2943584
+    },
+    {
+      "type": "node",
+      "id": 9035792714,
+      "lat": 53.4686273,
+      "lon": -2.2942631
+    },
+    {
+      "type": "node",
+      "id": 9035792715,
+      "lat": 53.4686082,
+      "lon": -2.294171
+    },
+    {
+      "type": "node",
+      "id": 9035792716,
+      "lat": 53.4685827,
+      "lon": -2.2940835
+    },
+    {
+      "type": "node",
+      "id": 9035816117,
+      "lat": 53.4685621,
+      "lon": -2.2947857
+    },
+    {
+      "type": "node",
+      "id": 9035816118,
+      "lat": 53.4685832,
+      "lon": -2.2946928
+    },
+    {
+      "type": "node",
+      "id": 9035816119,
+      "lat": 53.4685971,
+      "lon": -2.2945961
+    },
+    {
+      "type": "node",
+      "id": 9035816120,
+      "lat": 53.4686021,
+      "lon": -2.2944014
+    },
+    {
+      "type": "node",
+      "id": 9035816121,
+      "lat": 53.4685937,
+      "lon": -2.2943066
+    },
+    {
+      "type": "node",
+      "id": 9035816122,
+      "lat": 53.4685784,
+      "lon": -2.2942143
+    },
+    {
+      "type": "node",
+      "id": 9035816123,
+      "lat": 53.4685563,
+      "lon": -2.294126
+    },
+    {
+      "type": "node",
+      "id": 9035816132,
+      "lat": 53.4683544,
+      "lon": -2.2955077
+    },
+    {
+      "type": "node",
+      "id": 9035816133,
+      "lat": 53.4683952,
+      "lon": -2.2953431
+    },
+    {
+      "type": "node",
+      "id": 9035816134,
+      "lat": 53.4683363,
+      "lon": -2.2956906
+    },
+    {
+      "type": "node",
+      "id": 9035816135,
+      "lat": 53.4683375,
+      "lon": -2.2957743
+    },
+    {
+      "type": "node",
+      "id": 9035816136,
+      "lat": 53.468357,
+      "lon": -2.2959416
+    },
+    {
+      "type": "node",
+      "id": 9035816137,
+      "lat": 53.4683754,
+      "lon": -2.296023
+    },
+    {
+      "type": "node",
+      "id": 9035816138,
+      "lat": 53.4683992,
+      "lon": -2.2961003
+    },
+    {
+      "type": "node",
+      "id": 9035816139,
+      "lat": 53.4688736,
+      "lon": -2.2977569
+    },
+    {
+      "type": "node",
+      "id": 9035816140,
+      "lat": 53.4689229,
+      "lon": -2.2977475
+    },
+    {
+      "type": "node",
+      "id": 5015450567,
+      "lat": 53.4678371,
+      "lon": -2.2920397
+    },
+    {
+      "type": "node",
+      "id": 5139434677,
+      "lat": 53.4678095,
+      "lon": -2.2920714
+    },
+    {
+      "type": "node",
+      "id": 6030042368,
+      "lat": 53.467677,
+      "lon": -2.2917195
+    },
+    {
+      "type": "node",
+      "id": 6030042374,
+      "lat": 53.4675691,
+      "lon": -2.2913548
+    },
+    {
+      "type": "node",
+      "id": 6033068734,
+      "lat": 53.467707,
+      "lon": -2.2916921
+    },
+    {
+      "type": "node",
+      "id": 7260408750,
+      "lat": 53.4677243,
+      "lon": -2.2917387
+    },
+    {
+      "type": "node",
+      "id": 7260408753,
+      "lat": 53.4676968,
+      "lon": -2.2917662
+    }
+  ]
+}
