@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-turbo"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2024-05-23T15:24:51Z</time></metadata><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/10521889"/><trkseg><trkpt lat="53.4649841" lon="-2.2791975"/><trkpt lat="53.4650216" lon="-2.2790072"/><trkpt lat="53.4651008" lon="-2.2786458"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/224037972"/><trkseg><trkpt lat="53.4650324" lon="-2.2786183"/><trkpt lat="53.46493" lon="-2.2791167"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/510829419"/><trkseg><trkpt lat="53.46493" lon="-2.2791167"/><trkpt lat="53.464902" lon="-2.2792641"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/554981164"/><trkseg><trkpt lat="53.4688824" lon="-2.2984282"/><trkpt lat="53.4689113" lon="-2.2985493"/><trkpt lat="53.4689558" lon="-2.2987232"/><trkpt lat="53.4690253" lon="-2.2989933"/><trkpt lat="53.4692494" lon="-2.2998427"/><trkpt lat="53.4696328" lon="-2.3013467"/><trkpt lat="53.4697683" lon="-2.3019261"/><trkpt lat="53.4698644" lon="-2.3023525"/><trkpt lat="53.4698687" lon="-2.3023758"/><trkpt lat="53.4698861" lon="-2.3024715"/><trkpt lat="53.4698954" lon="-2.3025827"/><trkpt lat="53.4698962" lon="-2.3026916"/><trkpt lat="53.4698935" lon="-2.3027282"/><trkpt lat="53.4698926" lon="-2.3027406"/><trkpt lat="53.4698837" lon="-2.3027947"/><trkpt lat="53.4698749" lon="-2.3028484"/><trkpt lat="53.4698728" lon="-2.3028609"/><trkpt lat="53.4698386" lon="-2.3029811"/><trkpt lat="53.4698154" lon="-2.3030275"/><trkpt lat="53.4697926" lon="-2.3030732"/><trkpt lat="53.4697748" lon="-2.3031101"/><trkpt lat="53.4697414" lon="-2.3031615"/><trkpt lat="53.4696963" lon="-2.3032089"/><trkpt lat="53.4696429" lon="-2.3032491"/><trkpt lat="53.4695847" lon="-2.3032846"/><trkpt lat="53.4695256" lon="-2.3033187"/><trkpt lat="53.4694186" lon="-2.3033718"/><trkpt lat="53.4692497" lon="-2.3034719"/><trkpt lat="53.4680566" lon="-2.3043653"/><trkpt lat="53.467798" lon="-2.304556"/><trkpt lat="53.4677073" lon="-2.3046426"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/554981165"/><trkseg><trkpt lat="53.4677286" lon="-2.3047304"/><trkpt lat="53.4693412" lon="-2.3035294"/><trkpt lat="53.4694745" lon="-2.3034329"/><trkpt lat="53.4695846" lon="-2.3033511"/><trkpt lat="53.4696583" lon="-2.3033"/><trkpt lat="53.469718" lon="-2.303253"/><trkpt lat="53.469754" lon="-2.3032172"/><trkpt lat="53.4697799" lon="-2.303187"/><trkpt lat="53.4698104" lon="-2.3031422"/><trkpt lat="53.4698375" lon="-2.3030938"/><trkpt lat="53.4698529" lon="-2.303061"/><trkpt lat="53.4698779" lon="-2.3030077"/><trkpt lat="53.4699016" lon="-2.3029266"/><trkpt lat="53.4699176" lon="-2.3028623"/><trkpt lat="53.4699201" lon="-2.3028479"/><trkpt lat="53.4699305" lon="-2.3027893"/><trkpt lat="53.4699344" lon="-2.3027528"/><trkpt lat="53.4699353" lon="-2.3027322"/><trkpt lat="53.4699374" lon="-2.3026832"/><trkpt lat="53.4699372" lon="-2.3026083"/><trkpt lat="53.4699227" lon="-2.3024698"/><trkpt lat="53.4698991" lon="-2.3023549"/><trkpt lat="53.4698952" lon="-2.3023358"/><trkpt lat="53.4697974" lon="-2.3018986"/><trkpt lat="53.4696591" lon="-2.301318"/><trkpt lat="53.4692793" lon="-2.2998192"/><trkpt lat="53.4690547" lon="-2.2989726"/><trkpt lat="53.4689857" lon="-2.2987007"/><trkpt lat="53.4689429" lon="-2.2985262"/><trkpt lat="53.4689187" lon="-2.2984168"/><trkpt lat="53.4689081" lon="-2.2983355"/><trkpt lat="53.4689009" lon="-2.298229"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/554981166"/><trkseg><trkpt lat="53.4673734" lon="-2.3078431"/><trkpt lat="53.4673378" lon="-2.3074117"/><trkpt lat="53.4673107" lon="-2.3071521"/><trkpt lat="53.4672883" lon="-2.3069399"/><trkpt lat="53.4672684" lon="-2.3067552"/><trkpt lat="53.4672556" lon="-2.3066352"/><trkpt lat="53.4672456" lon="-2.306552"/><trkpt lat="53.4672243" lon="-2.3060907"/><trkpt lat="53.4672259" lon="-2.3059528"/><trkpt lat="53.4672328" lon="-2.3058108"/><trkpt lat="53.467244" lon="-2.3056937"/><trkpt lat="53.4672641" lon="-2.3055784"/><trkpt lat="53.4672956" lon="-2.3054355"/><trkpt lat="53.4673372" lon="-2.3052999"/><trkpt lat="53.4674073" lon="-2.3051401"/><trkpt lat="53.467437" lon="-2.3050877"/><trkpt lat="53.4674759" lon="-2.305018"/><trkpt lat="53.4675185" lon="-2.304946"/><trkpt lat="53.4675537" lon="-2.3048999"/><trkpt lat="53.4676352" lon="-2.3048148"/><trkpt lat="53.4677286" lon="-2.3047304"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/554981167"/><trkseg><trkpt lat="53.4677073" lon="-2.3046426"/><trkpt lat="53.467539" lon="-2.3048511"/><trkpt lat="53.4674986" lon="-2.3049094"/><trkpt lat="53.4674558" lon="-2.3049767"/><trkpt lat="53.4674202" lon="-2.305031"/><trkpt lat="53.4673897" lon="-2.3050997"/><trkpt lat="53.4673209" lon="-2.3052706"/><trkpt lat="53.4672778" lon="-2.3054098"/><trkpt lat="53.4672423" lon="-2.3055587"/><trkpt lat="53.4672209" lon="-2.3056841"/><trkpt lat="53.4672093" lon="-2.305809"/><trkpt lat="53.4672022" lon="-2.3059507"/><trkpt lat="53.467201" lon="-2.3060898"/><trkpt lat="53.4672237" lon="-2.3065551"/><trkpt lat="53.4672308" lon="-2.3066366"/><trkpt lat="53.4672405" lon="-2.3067511"/><trkpt lat="53.4672569" lon="-2.3069483"/><trkpt lat="53.4672796" lon="-2.3071559"/><trkpt lat="53.4673067" lon="-2.3074202"/><trkpt lat="53.4673406" lon="-2.3078504"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/554981168"/><trkseg><trkpt lat="53.4674103" lon="-2.3097051"/><trkpt lat="53.4674165" lon="-2.3099213"/><trkpt lat="53.467426" lon="-2.3101821"/><trkpt lat="53.4674402" lon="-2.3104755"/><trkpt lat="53.4674889" lon="-2.3112573"/><trkpt lat="53.4675095" lon="-2.3115903"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/554981169"/><trkseg><trkpt lat="53.4670689" lon="-2.345789"/><trkpt lat="53.4669661" lon="-2.3455492"/><trkpt lat="53.4663775" lon="-2.3441738"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/554981170"/><trkseg><trkpt lat="53.4660475" lon="-2.3310193"/><trkpt lat="53.4665243" lon="-2.3304507"/><trkpt lat="53.4673144" lon="-2.3295091"/><trkpt lat="53.46742" lon="-2.3293778"/><trkpt lat="53.4674592" lon="-2.3293188"/><trkpt lat="53.4674991" lon="-2.3292464"/><trkpt lat="53.4675226" lon="-2.3291963"/><trkpt lat="53.4675575" lon="-2.3290889"/><trkpt lat="53.4675819" lon="-2.3289815"/><trkpt lat="53.4676113" lon="-2.3287591"/><trkpt lat="53.4676412" lon="-2.3285333"/><trkpt lat="53.4676627" lon="-2.3283961"/><trkpt lat="53.4676938" lon="-2.3282771"/><trkpt lat="53.4677362" lon="-2.3281279"/><trkpt lat="53.4677823" lon="-2.3280048"/><trkpt lat="53.4678747" lon="-2.3277872"/><trkpt lat="53.4682207" lon="-2.3269878"/><trkpt lat="53.4683014" lon="-2.3267709"/><trkpt lat="53.4683198" lon="-2.3267114"/><trkpt lat="53.4683319" lon="-2.3266705"/><trkpt lat="53.4683469" lon="-2.3265942"/><trkpt lat="53.4683639" lon="-2.3265171"/><trkpt lat="53.4683908" lon="-2.326394"/><trkpt lat="53.4684106" lon="-2.326223"/><trkpt lat="53.4684241" lon="-2.326029"/><trkpt lat="53.468419" lon="-2.3257967"/><trkpt lat="53.4683956" lon="-2.325508"/><trkpt lat="53.4683185" lon="-2.3247822"/><trkpt lat="53.468309" lon="-2.3246903"/><trkpt lat="53.4682994" lon="-2.3245984"/><trkpt lat="53.468289" lon="-2.3245124"/><trkpt lat="53.4682331" lon="-2.3239482"/><trkpt lat="53.46817" lon="-2.3233433"/><trkpt lat="53.4681436" lon="-2.3230969"/><trkpt lat="53.4681102" lon="-2.322829"/><trkpt lat="53.4680684" lon="-2.3225904"/><trkpt lat="53.4680131" lon="-2.3223377"/><trkpt lat="53.4679361" lon="-2.3220392"/><trkpt lat="53.4678472" lon="-2.3217095"/><trkpt lat="53.4677343" lon="-2.3212904"/><trkpt lat="53.4676259" lon="-2.3208314"/><trkpt lat="53.4675578" lon="-2.3204792"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/554981171"/><trkseg><trkpt lat="53.4631321" lon="-2.3345418"/><trkpt lat="53.4630959" lon="-2.3347109"/><trkpt lat="53.4630689" lon="-2.3348972"/><trkpt lat="53.4630612" lon="-2.3350683"/><trkpt lat="53.4630641" lon="-2.3351848"/><trkpt lat="53.4630697" lon="-2.3352988"/><trkpt lat="53.4631072" lon="-2.3355509"/><trkpt lat="53.4631863" lon="-2.3358352"/><trkpt lat="53.4632945" lon="-2.3360941"/><trkpt lat="53.4636085" lon="-2.3368098"/><trkpt lat="53.4637839" lon="-2.3372085"/><trkpt lat="53.46382" lon="-2.3372923"/><trkpt lat="53.4639615" lon="-2.3376149"/><trkpt lat="53.4642998" lon="-2.3383917"/><trkpt lat="53.4648701" lon="-2.3397768"/><trkpt lat="53.4652291" lon="-2.3407596"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=TPL
+service=siding
+voltage=750</desc><link href="http://osm.org/browse/way/640074911"/><trkseg><trkpt lat="53.4695846" lon="-2.3033511"/><trkpt lat="53.4695015" lon="-2.3033904"/><trkpt lat="53.4694405" lon="-2.3034134"/><trkpt lat="53.4693583" lon="-2.303459"/><trkpt lat="53.4692636" lon="-2.3035184"/><trkpt lat="53.4682769" lon="-2.3042529"/><trkpt lat="53.4682343" lon="-2.3042825"/><trkpt lat="53.4681829" lon="-2.3043082"/><trkpt lat="53.4680566" lon="-2.3043653"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/747352983"/><trkseg><trkpt lat="53.4652291" lon="-2.3407596"/><trkpt lat="53.4653051" lon="-2.3409589"/><trkpt lat="53.4653532" lon="-2.3410884"/><trkpt lat="53.4653959" lon="-2.3411906"/><trkpt lat="53.4654263" lon="-2.3412836"/><trkpt lat="53.4654905" lon="-2.3414451"/><trkpt lat="53.4655567" lon="-2.3416133"/><trkpt lat="53.4657417" lon="-2.3420965"/><trkpt lat="53.4658937" lon="-2.3424891"/><trkpt lat="53.4659388" lon="-2.3426055"/><trkpt lat="53.465985" lon="-2.3427418"/><trkpt lat="53.4660139" lon="-2.3428694"/><trkpt lat="53.4660182" lon="-2.342898"/><trkpt lat="53.466031" lon="-2.3429994"/><trkpt lat="53.4660381" lon="-2.3430945"/><trkpt lat="53.4660394" lon="-2.3431918"/><trkpt lat="53.4660431" lon="-2.3433071"/><trkpt lat="53.4660475" lon="-2.3433489"/><trkpt lat="53.4660652" lon="-2.3434747"/><trkpt lat="53.4660887" lon="-2.3435675"/><trkpt lat="53.4661252" lon="-2.3436763"/><trkpt lat="53.4661847" lon="-2.3438205"/><trkpt lat="53.466224" lon="-2.3439184"/><trkpt lat="53.4663533" lon="-2.3442128"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/747352984"/><trkseg><trkpt lat="53.4675095" lon="-2.3115903"/><trkpt lat="53.467519" lon="-2.3117779"/><trkpt lat="53.4675277" lon="-2.3119904"/><trkpt lat="53.4675278" lon="-2.3120302"/><trkpt lat="53.4675281" lon="-2.3120729"/><trkpt lat="53.4675296" lon="-2.3121344"/><trkpt lat="53.4675321" lon="-2.3122514"/><trkpt lat="53.4675298" lon="-2.3123076"/><trkpt lat="53.4675219" lon="-2.3123883"/><trkpt lat="53.4675216" lon="-2.312624"/><trkpt lat="53.4675141" lon="-2.3127902"/><trkpt lat="53.4674949" lon="-2.3130955"/><trkpt lat="53.4674748" lon="-2.3133098"/><trkpt lat="53.4674567" lon="-2.3135219"/><trkpt lat="53.4674194" lon="-2.3138724"/><trkpt lat="53.4673997" lon="-2.3141363"/><trkpt lat="53.4673855" lon="-2.3143902"/><trkpt lat="53.4673758" lon="-2.3147617"/><trkpt lat="53.4673814" lon="-2.3154155"/><trkpt lat="53.4673916" lon="-2.3157555"/><trkpt lat="53.4674031" lon="-2.3163272"/><trkpt lat="53.4674168" lon="-2.3167783"/><trkpt lat="53.4674151" lon="-2.3169149"/><trkpt lat="53.4674087" lon="-2.3170345"/><trkpt lat="53.4673939" lon="-2.3171191"/><trkpt lat="53.4673865" lon="-2.3171604"/><trkpt lat="53.467367" lon="-2.3172283"/><trkpt lat="53.4673523" lon="-2.317272"/><trkpt lat="53.4673043" lon="-2.317428"/><trkpt lat="53.4672839" lon="-2.31753"/><trkpt lat="53.4672756" lon="-2.3176536"/><trkpt lat="53.467279" lon="-2.3177954"/><trkpt lat="53.4672927" lon="-2.3179723"/><trkpt lat="53.4673494" lon="-2.3187414"/><trkpt lat="53.4673866" lon="-2.3192776"/><trkpt lat="53.4674144" lon="-2.3196216"/><trkpt lat="53.4674455" lon="-2.3199561"/><trkpt lat="53.4674862" lon="-2.3202326"/><trkpt lat="53.4675234" lon="-2.3204935"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/747352985"/><trkseg><trkpt lat="53.4673406" lon="-2.3078504"/><trkpt lat="53.4673518" lon="-2.3080476"/><trkpt lat="53.4673696" lon="-2.3083907"/><trkpt lat="53.4673937" lon="-2.3091411"/><trkpt lat="53.4674103" lon="-2.3097051"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/747352986"/><trkseg><trkpt lat="53.4652568" lon="-2.340728"/><trkpt lat="53.465066" lon="-2.3402313"/><trkpt lat="53.4648988" lon="-2.3397473"/><trkpt lat="53.4643264" lon="-2.3383594"/><trkpt lat="53.4639863" lon="-2.3375787"/><trkpt lat="53.463834" lon="-2.3372327"/><trkpt lat="53.4638094" lon="-2.3371774"/><trkpt lat="53.4636364" lon="-2.3367835"/><trkpt lat="53.4633189" lon="-2.3360638"/><trkpt lat="53.4632174" lon="-2.3358057"/><trkpt lat="53.4631759" lon="-2.335677"/><trkpt lat="53.4631464" lon="-2.3355469"/><trkpt lat="53.463124" lon="-2.3354249"/><trkpt lat="53.4631104" lon="-2.3352961"/><trkpt lat="53.4631032" lon="-2.3351781"/><trkpt lat="53.4631018" lon="-2.335068"/><trkpt lat="53.4631106" lon="-2.3348981"/><trkpt lat="53.4631307" lon="-2.334734"/><trkpt lat="53.4631654" lon="-2.3345662"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/747352987"/><trkseg><trkpt lat="53.4673064" lon="-2.3464388"/><trkpt lat="53.4674317" lon="-2.3467354"/><trkpt lat="53.4674945" lon="-2.3469067"/><trkpt lat="53.4675402" lon="-2.3470434"/><trkpt lat="53.4675786" lon="-2.3471557"/><trkpt lat="53.4675913" lon="-2.3471935"/><trkpt lat="53.4676249" lon="-2.3472656"/><trkpt lat="53.467927" lon="-2.3479393"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/747352989"/><trkseg><trkpt lat="53.4674388" lon="-2.3097001"/><trkpt lat="53.4674261" lon="-2.3091363"/><trkpt lat="53.4674078" lon="-2.3083891"/><trkpt lat="53.4673861" lon="-2.3080456"/><trkpt lat="53.4673734" lon="-2.3078431"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/747352994"/><trkseg><trkpt lat="53.4675234" lon="-2.3204935"/><trkpt lat="53.4675939" lon="-2.320854"/><trkpt lat="53.4677035" lon="-2.3213148"/><trkpt lat="53.4678162" lon="-2.3217356"/><trkpt lat="53.467906" lon="-2.3220631"/><trkpt lat="53.4679836" lon="-2.3223599"/><trkpt lat="53.4680358" lon="-2.3226066"/><trkpt lat="53.4680758" lon="-2.3228427"/><trkpt lat="53.4681095" lon="-2.3231023"/><trkpt lat="53.4681365" lon="-2.3233494"/><trkpt lat="53.4681982" lon="-2.3239603"/><trkpt lat="53.4682559" lon="-2.3245192"/><trkpt lat="53.4682645" lon="-2.3246092"/><trkpt lat="53.4682748" lon="-2.3246997"/><trkpt lat="53.4682851" lon="-2.3247902"/><trkpt lat="53.4683625" lon="-2.3255229"/><trkpt lat="53.4683839" lon="-2.3258075"/><trkpt lat="53.4683863" lon="-2.3260353"/><trkpt lat="53.4683757" lon="-2.3262154"/><trkpt lat="53.4683566" lon="-2.3263747"/><trkpt lat="53.468329" lon="-2.3265136"/><trkpt lat="53.4683146" lon="-2.3265856"/><trkpt lat="53.4682955" lon="-2.3266563"/><trkpt lat="53.4682906" lon="-2.3266729"/><trkpt lat="53.4682694" lon="-2.3267519"/><trkpt lat="53.4681966" lon="-2.3269552"/><trkpt lat="53.4678484" lon="-2.3277555"/><trkpt lat="53.4677526" lon="-2.3279743"/><trkpt lat="53.4676894" lon="-2.3281469"/><trkpt lat="53.467661" lon="-2.3282541"/><trkpt lat="53.4676316" lon="-2.3283814"/><trkpt lat="53.467604" lon="-2.3285297"/><trkpt lat="53.4675697" lon="-2.3288006"/><trkpt lat="53.4675472" lon="-2.3289785"/><trkpt lat="53.4675145" lon="-2.3290989"/><trkpt lat="53.4674767" lon="-2.3291996"/><trkpt lat="53.467428" lon="-2.3292933"/><trkpt lat="53.4672979" lon="-2.3294593"/><trkpt lat="53.4665043" lon="-2.3304038"/><trkpt lat="53.4660273" lon="-2.3309695"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/747352995"/><trkseg><trkpt lat="53.4675414" lon="-2.3116053"/><trkpt lat="53.4675181" lon="-2.3112501"/><trkpt lat="53.4674722" lon="-2.3104702"/><trkpt lat="53.4674584" lon="-2.3101797"/><trkpt lat="53.4674514" lon="-2.3099188"/><trkpt lat="53.4674388" lon="-2.3097001"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/747352999"/><trkseg><trkpt lat="53.4675578" lon="-2.3204792"/><trkpt lat="53.4675158" lon="-2.3202201"/><trkpt lat="53.4674815" lon="-2.31995"/><trkpt lat="53.4674455" lon="-2.3196145"/><trkpt lat="53.4674192" lon="-2.3192742"/><trkpt lat="53.4673812" lon="-2.3187368"/><trkpt lat="53.4673238" lon="-2.3179717"/><trkpt lat="53.4673155" lon="-2.317803"/><trkpt lat="53.4673134" lon="-2.3177034"/><trkpt lat="53.467318" lon="-2.3175965"/><trkpt lat="53.4673341" lon="-2.3174972"/><trkpt lat="53.4673656" lon="-2.3173879"/><trkpt lat="53.4673894" lon="-2.3173117"/><trkpt lat="53.4674148" lon="-2.3172238"/><trkpt lat="53.4674236" lon="-2.3171859"/><trkpt lat="53.4674341" lon="-2.3171248"/><trkpt lat="53.4674454" lon="-2.3170591"/><trkpt lat="53.467448" lon="-2.316918"/><trkpt lat="53.4674478" lon="-2.3167748"/><trkpt lat="53.4674352" lon="-2.3163278"/><trkpt lat="53.4674219" lon="-2.3157525"/><trkpt lat="53.4674118" lon="-2.3154138"/><trkpt lat="53.4674061" lon="-2.3147638"/><trkpt lat="53.4674162" lon="-2.3143988"/><trkpt lat="53.4674308" lon="-2.3141433"/><trkpt lat="53.4674509" lon="-2.3138822"/><trkpt lat="53.4674867" lon="-2.3135301"/><trkpt lat="53.467505" lon="-2.3133156"/><trkpt lat="53.4675243" lon="-2.3131017"/><trkpt lat="53.4675447" lon="-2.3127893"/><trkpt lat="53.4675504" lon="-2.3126265"/><trkpt lat="53.4675586" lon="-2.3123689"/><trkpt lat="53.4675606" lon="-2.3122887"/><trkpt lat="53.4675602" lon="-2.3122286"/><trkpt lat="53.4675598" lon="-2.3121772"/><trkpt lat="53.4675582" lon="-2.3121179"/><trkpt lat="53.4675575" lon="-2.3120625"/><trkpt lat="53.4675574" lon="-2.3120067"/><trkpt lat="53.4675537" lon="-2.3118699"/><trkpt lat="53.4675496" lon="-2.3117756"/><trkpt lat="53.4675414" lon="-2.3116053"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/747353005"/><trkseg><trkpt lat="53.4663775" lon="-2.3441738"/><trkpt lat="53.4662532" lon="-2.3438837"/><trkpt lat="53.466209" lon="-2.3437867"/><trkpt lat="53.4661495" lon="-2.3436333"/><trkpt lat="53.4661146" lon="-2.3435281"/><trkpt lat="53.4660966" lon="-2.343459"/><trkpt lat="53.4660837" lon="-2.3433893"/><trkpt lat="53.4660751" lon="-2.3432725"/><trkpt lat="53.4660726" lon="-2.3431898"/><trkpt lat="53.466073" lon="-2.343133"/><trkpt lat="53.4660659" lon="-2.343011"/><trkpt lat="53.4660533" lon="-2.3428964"/><trkpt lat="53.4660451" lon="-2.3428146"/><trkpt lat="53.4660097" lon="-2.3426947"/><trkpt lat="53.4659837" lon="-2.3426238"/><trkpt lat="53.4659681" lon="-2.3425815"/><trkpt lat="53.4659211" lon="-2.3424594"/><trkpt lat="53.4657672" lon="-2.3420591"/><trkpt lat="53.465621" lon="-2.3416812"/><trkpt lat="53.4655828" lon="-2.3415845"/><trkpt lat="53.4655215" lon="-2.3414211"/><trkpt lat="53.4654644" lon="-2.3412719"/><trkpt lat="53.4654295" lon="-2.3411822"/><trkpt lat="53.4653917" lon="-2.3410777"/><trkpt lat="53.4653337" lon="-2.340929"/><trkpt lat="53.4652568" lon="-2.340728"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=TPL
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/777729660"/><trkseg><trkpt lat="53.4673064" lon="-2.3464388"/><trkpt lat="53.4674797" lon="-2.3467465"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+name=Metrolink
+railway=light_rail
+ref:GB:tfgm=TPL
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/777729661"/><trkseg><trkpt lat="53.4671849" lon="-2.3461489"/><trkpt lat="53.4670689" lon="-2.345789"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/777954940"/><trkseg><trkpt lat="53.464902" lon="-2.2792641"/><trkpt lat="53.4648533" lon="-2.2794894"/><trkpt lat="53.4648178" lon="-2.2796604"/><trkpt lat="53.464794" lon="-2.2797701"/><trkpt lat="53.4647298" lon="-2.2800758"/><trkpt lat="53.4646429" lon="-2.2804912"/><trkpt lat="53.4645884" lon="-2.2808213"/><trkpt lat="53.4645538" lon="-2.2812024"/><trkpt lat="53.4645428" lon="-2.2813971"/><trkpt lat="53.4645393" lon="-2.2815908"/><trkpt lat="53.4645405" lon="-2.2817268"/><trkpt lat="53.4645445" lon="-2.2818627"/><trkpt lat="53.4645541" lon="-2.2820446"/><trkpt lat="53.4645686" lon="-2.2822257"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/777954942"/><trkseg><trkpt lat="53.4645686" lon="-2.2822257"/><trkpt lat="53.4645975" lon="-2.2824583"/><trkpt lat="53.4646345" lon="-2.2826813"/><trkpt lat="53.4646881" lon="-2.28294"/><trkpt lat="53.4647321" lon="-2.2831033"/><trkpt lat="53.4647855" lon="-2.2832848"/><trkpt lat="53.4648714" lon="-2.2835352"/><trkpt lat="53.4654569" lon="-2.2851475"/><trkpt lat="53.4657206" lon="-2.2859053"/><trkpt lat="53.4658409" lon="-2.2862519"/><trkpt lat="53.4658982" lon="-2.28643"/><trkpt lat="53.4659516" lon="-2.2866094"/><trkpt lat="53.46611" lon="-2.2871652"/><trkpt lat="53.466128" lon="-2.2872212"/><trkpt lat="53.4662127" lon="-2.287543"/><trkpt lat="53.466421" lon="-2.2882604"/><trkpt lat="53.4664288" lon="-2.2882891"/><trkpt lat="53.4664561" lon="-2.2883819"/><trkpt lat="53.4665231" lon="-2.2886322"/><trkpt lat="53.4666327" lon="-2.2889885"/><trkpt lat="53.4667569" lon="-2.2893341"/><trkpt lat="53.4668848" lon="-2.2896785"/><trkpt lat="53.4671353" lon="-2.2903691"/><trkpt lat="53.4672656" lon="-2.2907184"/><trkpt lat="53.4674021" lon="-2.2910518"/><trkpt lat="53.4675412" lon="-2.2913844"/><trkpt lat="53.467677" lon="-2.2917195"/><trkpt lat="53.4676968" lon="-2.2917662"/><trkpt lat="53.4678095" lon="-2.2920714"/><trkpt lat="53.4685278" lon="-2.294043"/><trkpt lat="53.4685563" lon="-2.294126"/><trkpt lat="53.4685784" lon="-2.2942143"/><trkpt lat="53.4685937" lon="-2.2943066"/><trkpt lat="53.4686021" lon="-2.2944014"/><trkpt lat="53.4686033" lon="-2.2944971"/><trkpt lat="53.4685971" lon="-2.2945961"/><trkpt lat="53.4685832" lon="-2.2946928"/><trkpt lat="53.4685621" lon="-2.2947857"/><trkpt lat="53.4685339" lon="-2.2948732"/><trkpt lat="53.4684911" lon="-2.2949874"/><trkpt lat="53.4683883" lon="-2.295245"/><trkpt lat="53.4683497" lon="-2.2953412"/><trkpt lat="53.4683173" lon="-2.2954405"/><trkpt lat="53.4682926" lon="-2.2955418"/><trkpt lat="53.4682868" lon="-2.2955828"/><trkpt lat="53.4682774" lon="-2.2956621"/><trkpt lat="53.4682734" lon="-2.2957426"/><trkpt lat="53.468274" lon="-2.2958042"/><trkpt lat="53.4682778" lon="-2.2958653"/><trkpt lat="53.4682918" lon="-2.2959722"/><trkpt lat="53.4683129" lon="-2.2960757"/><trkpt lat="53.468344" lon="-2.2961839"/><trkpt lat="53.468383" lon="-2.2962846"/><trkpt lat="53.4685993" lon="-2.2968682"/><trkpt lat="53.4687152" lon="-2.297188"/><trkpt lat="53.4687891" lon="-2.2974006"/><trkpt lat="53.4688203" lon="-2.2974931"/><trkpt lat="53.4688267" lon="-2.2975138"/><trkpt lat="53.468847" lon="-2.2975865"/><trkpt lat="53.4688664" lon="-2.2976999"/><trkpt lat="53.4688736" lon="-2.2977569"/><trkpt lat="53.4688768" lon="-2.2978158"/><trkpt lat="53.468876" lon="-2.2978924"/><trkpt lat="53.4688694" lon="-2.2980087"/><trkpt lat="53.4688676" lon="-2.2980393"/><trkpt lat="53.4688658" lon="-2.298114"/><trkpt lat="53.4688618" lon="-2.2981663"/><trkpt lat="53.4688629" lon="-2.298228"/><trkpt lat="53.468871" lon="-2.2983408"/><trkpt lat="53.4688824" lon="-2.2984282"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/796659769"/><trkseg><trkpt lat="53.4689009" lon="-2.298229"/><trkpt lat="53.4689025" lon="-2.2981707"/><trkpt lat="53.4689078" lon="-2.2981322"/><trkpt lat="53.4689114" lon="-2.2980683"/><trkpt lat="53.4689147" lon="-2.2979743"/><trkpt lat="53.4689158" lon="-2.2979479"/><trkpt lat="53.4689223" lon="-2.2978179"/><trkpt lat="53.4689229" lon="-2.2977475"/><trkpt lat="53.4689204" lon="-2.2976731"/><trkpt lat="53.4689097" lon="-2.2975826"/><trkpt lat="53.4688943" lon="-2.2974985"/><trkpt lat="53.4688884" lon="-2.2974735"/><trkpt lat="53.468883" lon="-2.2974505"/><trkpt lat="53.468849" lon="-2.2973443"/><trkpt lat="53.4686569" lon="-2.2968176"/><trkpt lat="53.4684529" lon="-2.2962584"/><trkpt lat="53.4683992" lon="-2.2961003"/><trkpt lat="53.4683754" lon="-2.296023"/><trkpt lat="53.468357" lon="-2.2959416"/><trkpt lat="53.4683443" lon="-2.2958573"/><trkpt lat="53.4683375" lon="-2.2957743"/><trkpt lat="53.4683363" lon="-2.2956906"/><trkpt lat="53.4683405" lon="-2.2956073"/><trkpt lat="53.4683544" lon="-2.2955077"/><trkpt lat="53.4683752" lon="-2.2954117"/><trkpt lat="53.4683952" lon="-2.2953431"/><trkpt lat="53.4684188" lon="-2.2952777"/><trkpt lat="53.4685215" lon="-2.2950202"/><trkpt lat="53.4685551" lon="-2.2949323"/><trkpt lat="53.4685869" lon="-2.2948447"/><trkpt lat="53.4686133" lon="-2.2947537"/><trkpt lat="53.4686337" lon="-2.2946554"/><trkpt lat="53.4686432" lon="-2.2945529"/><trkpt lat="53.4686449" lon="-2.2944555"/><trkpt lat="53.4686396" lon="-2.2943584"/><trkpt lat="53.4686273" lon="-2.2942631"/><trkpt lat="53.4686082" lon="-2.294171"/><trkpt lat="53.4685827" lon="-2.2940835"/><trkpt lat="53.468551" lon="-2.2940017"/><trkpt lat="53.4678371" lon="-2.2920397"/><trkpt lat="53.4677243" lon="-2.2917387"/><trkpt lat="53.467707" lon="-2.2916921"/><trkpt lat="53.4675691" lon="-2.2913548"/><trkpt lat="53.4674296" lon="-2.2910215"/><trkpt lat="53.4672931" lon="-2.2906883"/><trkpt lat="53.467163" lon="-2.2903416"/><trkpt lat="53.4669119" lon="-2.2896523"/><trkpt lat="53.4667846" lon="-2.2893088"/><trkpt lat="53.46666" lon="-2.2889605"/><trkpt lat="53.4665538" lon="-2.2886094"/><trkpt lat="53.4664868" lon="-2.2883604"/><trkpt lat="53.4664606" lon="-2.288273"/><trkpt lat="53.4662513" lon="-2.2875404"/><trkpt lat="53.4662432" lon="-2.287514"/><trkpt lat="53.4661552" lon="-2.2872011"/><trkpt lat="53.4660881" lon="-2.2869569"/><trkpt lat="53.4659834" lon="-2.2865887"/><trkpt lat="53.4659259" lon="-2.2864062"/><trkpt lat="53.4658649" lon="-2.2862245"/><trkpt lat="53.4657465" lon="-2.2858818"/><trkpt lat="53.4654817" lon="-2.2851207"/><trkpt lat="53.4648968" lon="-2.2835127"/><trkpt lat="53.4648114" lon="-2.2832606"/><trkpt lat="53.46476" lon="-2.2830775"/><trkpt lat="53.4647172" lon="-2.2829192"/><trkpt lat="53.4646627" lon="-2.2826695"/><trkpt lat="53.4646254" lon="-2.2824346"/><trkpt lat="53.4645979" lon="-2.2822163"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/797039092"/><trkseg><trkpt lat="53.467927" lon="-2.3479393"/><trkpt lat="53.4680868" lon="-2.3482753"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/797039093"/><trkseg><trkpt lat="53.4681406" lon="-2.3481676"/><trkpt lat="53.4679877" lon="-2.3478406"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/797039094"/><trkseg><trkpt lat="53.4674797" lon="-2.3467465"/><trkpt lat="53.4672547" lon="-2.346224"/><trkpt lat="53.4670689" lon="-2.345789"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/797039095"/><trkseg><trkpt lat="53.4679877" lon="-2.3478406"/><trkpt lat="53.4676202" lon="-2.3470694"/><trkpt lat="53.4674797" lon="-2.3467465"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/797039096"/><trkseg><trkpt lat="53.4671849" lon="-2.3461489"/><trkpt lat="53.4672299" lon="-2.3462586"/><trkpt lat="53.4673064" lon="-2.3464388"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/797039097"/><trkseg><trkpt lat="53.4663533" lon="-2.3442128"/><trkpt lat="53.4669488" lon="-2.3456032"/><trkpt lat="53.4671849" lon="-2.3461489"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/832960160"/><trkseg><trkpt lat="53.4645979" lon="-2.2822163"/><trkpt lat="53.464582" lon="-2.28204"/><trkpt lat="53.4645721" lon="-2.2818625"/><trkpt lat="53.4645686" lon="-2.2817275"/><trkpt lat="53.4645687" lon="-2.2815923"/><trkpt lat="53.4645735" lon="-2.2814018"/><trkpt lat="53.4645824" lon="-2.2812127"/><trkpt lat="53.4646178" lon="-2.2808294"/><trkpt lat="53.4646714" lon="-2.280513"/><trkpt lat="53.4647594" lon="-2.2800911"/><trkpt lat="53.4648283" lon="-2.2797919"/><trkpt lat="53.4648584" lon="-2.2796832"/><trkpt lat="53.4649258" lon="-2.2794495"/><trkpt lat="53.4649571" lon="-2.2793352"/><trkpt lat="53.4649841" lon="-2.2791975"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+service=crossover
+voltage=750</desc><link href="http://osm.org/browse/way/911654463"/><trkseg><trkpt lat="53.46611" lon="-2.2871652"/><trkpt lat="53.4660881" lon="-2.2869569"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/1050763010"/><trkseg><trkpt lat="53.4657156" lon="-2.3313392"/><trkpt lat="53.4648294" lon="-2.3324007"/><trkpt lat="53.4643506" lon="-2.3329621"/><trkpt lat="53.4639503" lon="-2.3333931"/><trkpt lat="53.4637068" lon="-2.3336519"/><trkpt lat="53.4634641" lon="-2.3339054"/><trkpt lat="53.4633539" lon="-2.3340328"/><trkpt lat="53.4632629" lon="-2.334183"/><trkpt lat="53.4631903" lon="-2.3343506"/><trkpt lat="53.4631321" lon="-2.3345418"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=OUT
+voltage=750</desc><link href="http://osm.org/browse/way/1050763011"/><trkseg><trkpt lat="53.4660273" lon="-2.3309695"/><trkpt lat="53.4657156" lon="-2.3313392"/></trkseg></trk><trk><name>Metrolink</name><desc>bridge=yes
+electrified=contact_line
+frequency=0
+gauge=1435
+layer=1
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/1050763012"/><trkseg><trkpt lat="53.4657364" lon="-2.3313904"/><trkpt lat="53.4660475" lon="-2.3310193"/></trkseg></trk><trk><name>Metrolink</name><desc>electrified=contact_line
+frequency=0
+gauge=1435
+name=Metrolink
+note=Positions based on information released by TfGM, https://tfgm.com/maps/trafford-park-line-route
+oneway=yes
+railway=light_rail
+ref:GB:tfgm=TPL
+ref:GB:tfgm:direction=IN
+voltage=750</desc><link href="http://osm.org/browse/way/1050763013"/><trkseg><trkpt lat="53.4631654" lon="-2.3345662"/><trkpt lat="53.463223" lon="-2.3343842"/><trkpt lat="53.4632901" lon="-2.3342232"/><trkpt lat="53.4633739" lon="-2.3340851"/><trkpt lat="53.4634697" lon="-2.3339698"/><trkpt lat="53.4637228" lon="-2.3336989"/><trkpt lat="53.4639663" lon="-2.3334477"/><trkpt lat="53.4643711" lon="-2.3330042"/><trkpt lat="53.4648509" lon="-2.3324463"/><trkpt lat="53.4657364" lon="-2.3313904"/></trkseg></trk></gpx>

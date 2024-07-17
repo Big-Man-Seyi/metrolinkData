@@ -1,0 +1,14 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 7
+    description Char (63) ;
+    type Char (11) ;
+    name Char (35) ;
+    validFrom Date ;
+    validTo Date ;
+    currentStatus Char (18) ;
+    comments Char (100) ;
